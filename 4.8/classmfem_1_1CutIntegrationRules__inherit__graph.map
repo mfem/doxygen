@@ -1,0 +1,7 @@
+<map id="mfem::CutIntegrationRules" name="mfem::CutIntegrationRules">
+<area shape="rect" id="Node000001" title="Abstract class for construction of IntegrationRules in cut elements." alt="" coords="162,5,399,36"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1AlgoimIntegrationRules.html" title=" " alt="" coords="5,84,271,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,46,167,86,164,81,239,41"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1MomentFittingIntRules.html" title="Class for subdomain IntegrationRules by means of moment&#45;fitting." alt="" coords="294,84,555,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,41,398,81,396,86,321,46"/>
+</map>

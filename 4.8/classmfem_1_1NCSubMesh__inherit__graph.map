@@ -1,0 +1,5 @@
+<map id="mfem::NCSubMesh" name="mfem::NCSubMesh">
+<area shape="rect" id="Node000001" title="Class representing a Nonconformal SubMesh. This is only used by SubMesh." alt="" coords="5,84,187,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NCMesh.html" title="A class for non&#45;conforming AMR. The class is not used directly by the user, rather it is an extension..." alt="" coords="21,5,171,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,52,99,83,93,83,93,52"/>
+</map>

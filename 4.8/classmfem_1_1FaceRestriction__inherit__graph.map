@@ -1,0 +1,20 @@
+<map id="mfem::FaceRestriction" name="mfem::FaceRestriction">
+<area shape="rect" id="Node000001" title="Base class for operators that extracts Face degrees of freedom." alt="" coords="204,60,407,91"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ConformingFaceRestriction.html" title="Operator that extracts face degrees of freedom for H1, ND, or RT FiniteElementSpaces." alt="" coords="455,5,752,36"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="405,54,455,45,513,34,514,39,455,50,406,59"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1L2FaceRestriction.html" title="Operator that extracts Face degrees of freedom for L2 spaces." alt="" coords="492,60,715,91"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="422,73,492,73,492,78,422,78"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1L2InterfaceFaceRestriction.html" title="Operator that extracts face degrees of freedom for L2 interface spaces." alt="" coords="457,115,750,145"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="406,91,455,101,514,111,513,117,455,106,405,97"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,60,156,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,73,203,73,203,78,171,78"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ParNCH1FaceRestriction.html" title="Operator that extracts Face degrees of freedom for NCMesh in parallel." alt="" coords="800,5,1081,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="768,18,800,18,800,23,768,23"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1NCL2FaceRestriction.html" title="Operator that extracts face degrees of freedom for L2 nonconforming spaces." alt="" coords="816,60,1065,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="731,73,815,73,815,78,731,78"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1ParL2FaceRestriction.html" title="Operator that extracts Face degrees of freedom in parallel." alt="" coords="815,115,1066,145"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="718,91,842,111,841,117,717,96"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ParNCL2FaceRestriction.html" title="Operator that extracts Face degrees of freedom for NCMesh in parallel." alt="" coords="1129,88,1406,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1081,85,1128,89,1128,94,1080,90"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="1082,116,1128,112,1128,117,1082,121"/>
+</map>

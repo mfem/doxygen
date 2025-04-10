@@ -1,0 +1,7 @@
+<map id="mfem::SBM2DirichletLFIntegrator" name="mfem::SBM2DirichletLFIntegrator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,297,193"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1LinearFormIntegrator.html" title="Abstract base class LinearFormIntegrator." alt="" coords="27,84,275,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,131,154,162,148,162,148,131"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Integrator.html" title="This base class implements some shared functionality between linear and nonlinear form integrators." alt="" coords="73,5,229,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,52,154,83,148,83,148,52"/>
+</map>

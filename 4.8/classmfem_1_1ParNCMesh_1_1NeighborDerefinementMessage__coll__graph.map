@@ -1,0 +1,166 @@
+<map id="mfem::ParNCMesh::NeighborDerefinementMessage" name="mfem::ParNCMesh::NeighborDerefinementMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4604,171,4864,221"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="4289,151,4554,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4570,193,4603,193,4603,199,4570,199"/>
+<area shape="rect" id="Node000003" href="$structmfem_1_1VarMessage.html" title="Variable&#45;length MPI message containing unspecific binary data." alt="" coords="2857,78,3098,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3113,91,3458,92,4075,92,4140,97,4204,110,4266,128,4321,148,4319,153,4264,133,4203,115,4139,102,4075,97,3457,97,3113,97"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="2262,53,2362,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2377,68,2856,86,2856,91,2377,73"/>
+<area shape="rect" id="Node000073" href="$structmfem_1_1VarMessage.html" title=" " alt="" coords="2534,105,2833,156"/>
+<area shape="poly" id="edge81_Node000073_Node000004" title=" " alt="" coords="2366,87,2442,115,2534,127,2534,132,2441,120,2364,92"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="1759,5,1921,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1936,36,2262,61,2262,67,1936,41"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="2606,235,2761,266"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="2776,233,2832,220,2856,212,2968,195,3056,190,3257,193,4075,193,4289,193,4289,199,4075,199,3257,199,3056,196,2968,201,2857,217,2833,225,2777,238"/>
+<area shape="rect" id="Node000072" href="$classmfem_1_1ParNCMesh_1_1RebalanceDofMessage.html" title=" " alt="" coords="3122,289,3395,340"/>
+<area shape="poly" id="edge82_Node000072_Node000006" title=" " alt="" coords="2777,262,2834,283,2846,295,2858,304,2923,323,2991,333,3058,335,3121,332,3122,338,3058,340,2990,338,2922,328,2855,309,2843,299,2831,288,2775,267"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ParNCMesh.html" title="A parallel extension of the NCMesh class." alt="" coords="3985,957,4162,987"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="4086,941,4398,241,4402,243,4090,943"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1NCMesh.html" title="A class for non&#45;conforming AMR. The class is not used directly by the user, rather it is an extension..." alt="" coords="2238,829,2387,859"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="2364,863,2427,887,2506,911,2593,930,2682,937,3645,937,3826,945,3984,959,3984,964,3826,950,3645,943,2682,943,2592,935,2504,916,2425,892,2362,868"/>
+<area shape="rect" id="Node000074" href="$classmfem_1_1ParNCMesh_1_1ElementSet.html" title=" " alt="" coords="2543,181,2824,211"/>
+<area shape="poly" id="edge86_Node000074_Node000008" title=" " alt="" coords="2321,813,2440,473,2532,221,2549,210,2552,214,2536,224,2446,475,2326,815"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1HashTable.html" title=" " alt="" coords="1727,387,1953,437"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1968,436,1993,454,2004,474,2006,493,2007,511,2017,529,2037,544,2057,552,2098,556,2140,558,2162,566,2185,581,2213,609,2237,642,2274,713,2298,780,2310,828,2305,829,2293,781,2269,716,2233,645,2209,613,2181,585,2160,570,2139,563,2097,561,2056,557,2034,549,2013,532,2002,513,2000,493,1999,475,1989,458,1965,440"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1BlockArray.html" title=" " alt="" coords="1289,387,1518,437"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1534,409,1726,409,1726,415,1534,415"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1Array.html" title=" " alt="" coords="846,387,1040,437"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1055,409,1289,409,1289,415,1055,415"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1Memory.html" title=" " alt="" coords="527,387,736,437"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="751,409,845,409,845,415,751,415"/>
+<area shape="rect" id="Node000013" href="$structmfem_1_1NCMesh_1_1Node.html" title=" " alt="" coords="214,397,416,427"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="431,409,527,409,527,415,431,415"/>
+<area shape="rect" id="Node000014" href="$structmfem_1_1Hashed2.html" title=" " alt="" coords="5,397,156,427"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="171,409,213,409,213,415,171,415"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1Array.html" title=" " alt="" coords="1317,517,1490,547"/>
+<area shape="poly" id="edge73_Node000007_Node000015" title=" " alt="" coords="1450,507,1486,481,1515,448,1523,431,1526,414,1522,381,1521,350,1527,334,1540,319,1558,308,1580,299,1634,289,1699,286,1769,289,1908,302,2015,309,2099,306,2136,305,2183,309,2283,328,2360,351,2435,375,2535,395,2658,408,2755,411,2976,408,3645,408,3696,413,3744,428,3788,451,3829,481,3866,517,3899,558,3930,602,3957,648,4002,743,4036,832,4071,956,4066,957,4031,834,3997,745,3952,651,3925,605,3895,561,3862,521,3825,485,3786,456,3742,433,3695,418,3645,413,2976,413,2754,417,2658,413,2534,400,2434,380,2358,356,2282,333,2183,315,2136,311,2099,311,2015,315,1908,307,1769,294,1699,291,1635,294,1581,304,1560,312,1543,323,1532,337,1526,351,1527,381,1531,414,1528,432,1520,451,1489,485,1453,511"/>
+<area shape="poly" id="edge27_Node000008_Node000015" title=" " alt="" coords="1493,548,1689,587,1765,596,1832,597,1947,592,2002,593,2058,601,2118,621,2184,656,2209,674,2230,696,2266,744,2292,791,2308,827,2303,829,2287,793,2262,747,2226,699,2205,678,2182,661,2115,626,2056,607,2001,598,1947,597,1832,602,1765,601,1688,592,1492,554"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="1476,509,1744,435,1746,440,1478,515"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1HashTable.html" title=" " alt="" coords="1727,649,1953,700"/>
+<area shape="poly" id="edge22_Node000017_Node000015" title=" " alt="" coords="1440,555,1519,615,1531,626,1543,635,1575,645,1620,653,1726,664,1726,670,1620,658,1574,650,1541,640,1527,631,1516,619,1437,559"/>
+<area shape="poly" id="edge87_Node000074_Node000015" title=" " alt="" coords="1451,507,1486,481,1515,448,1525,424,1528,401,1520,357,1517,336,1517,314,1523,293,1540,272,1575,264,1648,257,1859,248,2183,240,2542,208,2543,213,2183,245,1859,253,1648,263,1576,269,1543,277,1528,296,1522,315,1522,335,1526,356,1533,401,1530,425,1520,451,1490,485,1454,511"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1Memory.html" title=" " alt="" coords="845,829,1041,859"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1038,819,1045,813,1054,799,1057,785,1059,769,1069,753,1094,733,1119,722,1168,715,1216,708,1240,697,1263,678,1273,664,1276,649,1278,633,1287,616,1307,594,1329,575,1372,546,1375,550,1332,579,1310,598,1292,619,1284,635,1281,650,1278,666,1267,682,1242,702,1217,713,1169,720,1121,727,1097,738,1073,756,1064,771,1062,785,1059,801,1049,816,1041,823"/>
+<area shape="rect" id="Node000046" href="$classmfem_1_1Table.html" title=" " alt="" coords="1542,842,1664,873"/>
+<area shape="poly" id="edge50_Node000046_Node000016" title=" " alt="" coords="1057,844,1542,853,1542,859,1056,849"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="1969,675,2076,691,2132,706,2184,727,2221,749,2254,776,2301,826,2297,830,2250,780,2218,753,2182,732,2130,711,2075,697,1968,681"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1BlockArray.html" title=" " alt="" coords="1289,629,1518,680"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1534,661,1542,661,1726,669,1726,674,1542,667,1533,666"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1Array.html" title=" " alt="" coords="846,629,1040,680"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1055,652,1289,652,1289,657,1055,657"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1Memory.html" title=" " alt="" coords="527,629,736,680"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="751,652,845,652,845,657,751,657"/>
+<area shape="rect" id="Node000021" href="$structmfem_1_1NCMesh_1_1Face.html" title=" " alt="" coords="215,639,414,670"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="430,652,527,652,527,657,430,657"/>
+<area shape="rect" id="Node000022" href="$structmfem_1_1Hashed4.html" title=" " alt="" coords="5,639,156,670"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="171,652,214,652,214,657,171,657"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1BlockArray.html" title=" " alt="" coords="1726,979,1954,1029"/>
+<area shape="poly" id="edge23_Node000008_Node000023" title=" " alt="" coords="1969,995,2092,983,2145,974,2182,963,2219,940,2251,912,2298,858,2302,862,2255,916,2222,945,2184,968,2146,980,2093,989,1970,1001"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1Array.html" title=" " alt="" coords="1305,885,1502,936"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="1518,916,1592,928,1666,948,1690,963,1726,976,1724,981,1688,968,1664,953,1591,933,1517,921"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1Memory.html" title=" " alt="" coords="839,885,1047,936"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="1063,908,1304,908,1304,913,1063,913"/>
+<area shape="rect" id="Node000026" href="$structmfem_1_1NCMesh_1_1Element.html" title=" " alt="" coords="518,895,745,926"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="760,908,839,908,839,913,760,913"/>
+<area shape="rect" id="Node000027" href="$classmfem_1_1Array.html" title=" " alt="" coords="1741,1054,1939,1085"/>
+<area shape="poly" id="edge28_Node000008_Node000027" title=" " alt="" coords="1954,1061,2096,1051,2151,1044,2182,1036,2206,1018,2228,996,2264,946,2289,897,2303,859,2308,861,2294,899,2268,949,2232,1000,2210,1022,2184,1041,2152,1049,2096,1056,1955,1067"/>
+<area shape="rect" id="Node000028" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1292,961,1515,991"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="1530,977,1599,990,1633,1001,1666,1015,1679,1027,1690,1039,1741,1057,1739,1062,1687,1044,1675,1031,1663,1020,1632,1006,1598,995,1529,983"/>
+<area shape="rect" id="Node000029" href="$structmfem_1_1NCMesh_1_1NCList.html" title="Lists all edges/faces in the nonconforming mesh." alt="" coords="1733,1110,1946,1141"/>
+<area shape="poly" id="edge30_Node000008_Node000029" title=" " alt="" coords="1962,1136,2027,1140,2090,1141,2145,1135,2182,1123,2214,1096,2240,1063,2261,1026,2278,987,2298,913,2307,859,2312,860,2303,914,2283,989,2266,1028,2245,1066,2218,1100,2184,1128,2146,1141,2090,1146,2027,1145,1962,1141"/>
+<area shape="rect" id="Node000030" href="$classmfem_1_1Array.html" title=" " alt="" coords="1071,1012,1265,1063"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="1281,1027,1366,1027,1464,1033,1567,1048,1617,1061,1666,1076,1678,1085,1690,1094,1734,1108,1732,1113,1687,1098,1675,1089,1663,1081,1616,1066,1566,1054,1464,1038,1366,1032,1281,1033"/>
+<area shape="rect" id="Node000031" href="$classmfem_1_1Memory.html" title=" " alt="" coords="527,1017,736,1068"/>
+<area shape="poly" id="edge32_Node000030_Node000031" title=" " alt="" coords="751,1039,1070,1036,1071,1041,751,1044"/>
+<area shape="rect" id="Node000032" href="$structmfem_1_1NCMesh_1_1MeshId.html" title="Identifies a vertex/edge/face in both Mesh and NCMesh." alt="" coords="205,1094,424,1125"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="405,1088,526,1062,528,1067,406,1093"/>
+<area shape="rect" id="Node000035" href="$structmfem_1_1NCMesh_1_1Master.html" title=" " alt="" coords="524,1094,739,1125"/>
+<area shape="poly" id="edge37_Node000035_Node000032" title=" " alt="" coords="440,1107,523,1107,523,1112,440,1112"/>
+<area shape="rect" id="Node000038" href="$structmfem_1_1NCMesh_1_1Slave.html" title="Nonconforming edge/face within a bigger edge/face." alt="" coords="529,1154,734,1185"/>
+<area shape="poly" id="edge41_Node000038_Node000032" title=" " alt="" coords="415,1125,547,1151,546,1156,414,1131"/>
+<area shape="rect" id="Node000033" href="$classmfem_1_1Array.html" title=" " alt="" coords="1306,1084,1501,1135"/>
+<area shape="poly" id="edge34_Node000029_Node000033" title=" " alt="" coords="1517,1103,1542,1103,1603,1101,1665,1103,1733,1109,1733,1114,1665,1108,1603,1107,1542,1108,1517,1108"/>
+<area shape="rect" id="Node000034" href="$classmfem_1_1Memory.html" title=" " alt="" coords="839,1084,1047,1135"/>
+<area shape="poly" id="edge35_Node000033_Node000034" title=" " alt="" coords="1063,1107,1306,1107,1306,1112,1063,1112"/>
+<area shape="poly" id="edge36_Node000034_Node000035" title=" " alt="" coords="755,1107,838,1107,838,1112,755,1112"/>
+<area shape="rect" id="Node000036" href="$classmfem_1_1Array.html" title=" " alt="" coords="1306,1159,1501,1209"/>
+<area shape="poly" id="edge38_Node000029_Node000036" title=" " alt="" coords="1515,1158,1541,1153,1732,1131,1733,1136,1542,1159,1516,1163"/>
+<area shape="rect" id="Node000037" href="$classmfem_1_1Memory.html" title=" " alt="" coords="839,1159,1047,1209"/>
+<area shape="poly" id="edge39_Node000036_Node000037" title=" " alt="" coords="1063,1181,1306,1181,1306,1187,1063,1187"/>
+<area shape="poly" id="edge40_Node000037_Node000038" title=" " alt="" coords="750,1172,838,1176,838,1182,749,1178"/>
+<area shape="rect" id="Node000039" href="$classmfem_1_1Array.html" title=" " alt="" coords="1306,1233,1501,1284"/>
+<area shape="poly" id="edge88_Node000007_Node000039" title=" " alt="" coords="1515,1233,1688,1201,1827,1183,1936,1174,2044,1164,2183,1147,2282,1130,2358,1113,2435,1097,2534,1081,2744,1057,2959,1036,3376,1004,3735,983,3984,972,3984,978,3735,988,3377,1009,2959,1041,2745,1062,2535,1087,2436,1102,2359,1118,2283,1135,2183,1152,2045,1170,1936,1179,1828,1189,1689,1207,1516,1238"/>
+<area shape="poly" id="edge42_Node000029_Node000039" title=" " alt="" coords="1503,1225,1516,1219,1541,1204,1575,1195,1604,1193,1631,1190,1663,1179,1675,1169,1687,1158,1737,1139,1739,1144,1690,1162,1678,1173,1666,1184,1632,1196,1604,1198,1576,1200,1543,1209,1519,1224,1505,1230"/>
+<area shape="rect" id="Node000040" href="$classmfem_1_1Memory.html" title=" " alt="" coords="839,1233,1047,1284"/>
+<area shape="poly" id="edge43_Node000039_Node000040" title=" " alt="" coords="1063,1256,1306,1256,1306,1261,1063,1261"/>
+<area shape="rect" id="Node000041" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="541,1243,722,1274"/>
+<area shape="poly" id="edge44_Node000040_Node000041" title=" " alt="" coords="737,1256,838,1256,838,1261,737,1261"/>
+<area shape="rect" id="Node000042" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="250,1243,379,1274"/>
+<area shape="poly" id="edge45_Node000041_Node000042" title=" " alt="" coords="394,1256,541,1256,541,1261,394,1261"/>
+<area shape="rect" id="Node000043" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,1243,156,1274"/>
+<area shape="poly" id="edge46_Node000042_Node000043" title=" " alt="" coords="171,1256,250,1256,250,1261,171,1261"/>
+<area shape="rect" id="Node000044" href="$classmfem_1_1Array.html" title=" " alt="" coords="1746,1291,1934,1322"/>
+<area shape="poly" id="edge74_Node000007_Node000044" title=" " alt="" coords="1949,1304,2311,1304,3645,1304,3740,1302,3780,1298,3816,1291,3850,1279,3884,1262,3920,1238,3959,1206,3983,1181,4004,1152,4036,1090,4056,1031,4067,987,4072,988,4061,1032,4041,1092,4009,1155,3987,1184,3962,1210,3923,1242,3887,1266,3852,1284,3817,1296,3781,1304,3741,1307,3645,1309,2311,1309,1949,1309"/>
+<area shape="poly" id="edge47_Node000008_Node000044" title=" " alt="" coords="1949,1292,2099,1274,2156,1266,2182,1259,2223,1214,2255,1161,2278,1102,2293,1043,2303,985,2307,933,2309,860,2314,860,2313,934,2308,986,2298,1044,2283,1104,2260,1163,2227,1217,2184,1264,2157,1271,2099,1280,1950,1298"/>
+<area shape="rect" id="Node000045" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1297,1383,1510,1414"/>
+<area shape="poly" id="edge48_Node000044_Node000045" title=" " alt="" coords="1502,1377,1664,1344,1771,1320,1772,1325,1665,1349,1503,1382"/>
+<area shape="poly" id="edge49_Node000008_Node000046" title=" " alt="" coords="1679,858,1689,859,1840,861,1991,859,2237,846,2237,852,1991,864,1840,867,1689,864,1679,864"/>
+<area shape="rect" id="Node000047" href="$classmfem_1_1Array.html" title=" " alt="" coords="1743,1216,1937,1267"/>
+<area shape="poly" id="edge51_Node000008_Node000047" title=" " alt="" coords="1952,1241,2010,1235,2071,1223,2129,1201,2156,1186,2181,1167,2215,1132,2242,1092,2263,1047,2279,1002,2299,918,2307,860,2312,860,2305,919,2285,1004,2268,1049,2246,1094,2219,1136,2185,1171,2159,1190,2132,1206,2072,1228,2011,1241,1953,1247"/>
+<area shape="rect" id="Node000048" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1299,1308,1508,1359"/>
+<area shape="poly" id="edge52_Node000047_Node000048" title=" " alt="" coords="1522,1306,1742,1259,1743,1264,1524,1311"/>
+<area shape="rect" id="Node000049" href="$structmfem_1_1Refinement.html" title=" " alt="" coords="857,1318,1028,1349"/>
+<area shape="poly" id="edge53_Node000048_Node000049" title=" " alt="" coords="1044,1331,1299,1331,1299,1336,1044,1336"/>
+<area shape="rect" id="Node000050" href="$classmfem_1_1Array.html" title=" " alt="" coords="1743,155,1937,205"/>
+<area shape="poly" id="edge54_Node000008_Node000050" title=" " alt="" coords="1953,176,2021,178,2088,184,2146,196,2168,205,2185,215,2202,236,2218,263,2244,336,2266,424,2283,521,2304,707,2313,828,2307,828,2299,707,2277,522,2261,425,2239,337,2213,266,2198,239,2181,219,2166,209,2145,201,2088,190,2020,183,1953,181"/>
+<area shape="rect" id="Node000051" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1299,145,1508,215"/>
+<area shape="poly" id="edge55_Node000050_Node000051" title=" " alt="" coords="1523,177,1742,177,1742,183,1523,183"/>
+<area shape="rect" id="Node000052" href="$classmfem_1_1Triple.html" title=" " alt="" coords="861,155,1024,205"/>
+<area shape="poly" id="edge56_Node000051_Node000052" title=" " alt="" coords="1040,177,1299,177,1299,183,1040,183"/>
+<area shape="rect" id="Node000053" href="$structmfem_1_1NCMesh_1_1PointMatrix.html" title="The PointMatrix stores the coordinates of the slave face using the master face coordinate as referenc..." alt="" coords="1715,331,1965,362"/>
+<area shape="poly" id="edge57_Node000008_Node000053" title=" " alt="" coords="1980,363,1993,373,2005,393,2006,413,2006,432,2017,450,2037,464,2057,470,2098,469,2141,468,2163,474,2185,489,2221,528,2249,574,2271,623,2288,673,2306,765,2313,828,2308,828,2301,765,2282,674,2266,625,2245,576,2217,531,2181,493,2161,479,2140,473,2099,474,2057,476,2035,469,2013,454,2001,434,2001,413,2000,394,1989,376,1977,368"/>
+<area shape="rect" id="Node000054" href="$structmfem_1_1NCMesh_1_1Point.html" title=" " alt="" coords="1303,331,1504,362"/>
+<area shape="poly" id="edge58_Node000053_Node000054" title=" " alt="" coords="1520,344,1714,344,1714,349,1520,349"/>
+<area shape="rect" id="Node000055" href="$structmfem_1_1CoarseFineTransformations.html" title="Defines the coarse&#45;fine transformations of all fine elements." alt="" coords="1689,779,1991,810"/>
+<area shape="poly" id="edge59_Node000008_Node000055" title=" " alt="" coords="2006,809,2237,834,2237,839,2006,815"/>
+<area shape="rect" id="Node000056" href="$classmfem_1_1Array.html" title=" " alt="" coords="1306,760,1501,811"/>
+<area shape="poly" id="edge60_Node000055_Node000056" title=" " alt="" coords="1516,785,1688,789,1688,794,1516,790"/>
+<area shape="rect" id="Node000057" href="$classmfem_1_1Memory.html" title=" " alt="" coords="839,752,1047,803"/>
+<area shape="poly" id="edge61_Node000056_Node000057" title=" " alt="" coords="1063,777,1306,781,1306,786,1063,782"/>
+<area shape="rect" id="Node000058" href="$structmfem_1_1Embedding.html" title="Defines the position of a fine element within a coarse element." alt="" coords="546,762,717,793"/>
+<area shape="poly" id="edge62_Node000057_Node000058" title=" " alt="" coords="732,775,839,775,839,780,732,780"/>
+<area shape="rect" id="Node000059" href="$classmfem_1_1DenseTensor.html" title="Rank 3 tensor (array of matrices)" alt="" coords="1311,705,1496,735"/>
+<area shape="poly" id="edge63_Node000055_Node000059" title=" " alt="" coords="1512,734,1665,760,1754,776,1753,781,1664,765,1511,740"/>
+<area shape="rect" id="Node000060" href="$structmfem_1_1NCMesh_1_1TmpVertex.html" title=" " alt="" coords="1716,725,1964,755"/>
+<area shape="poly" id="edge64_Node000008_Node000060" title=" " alt="" coords="1980,748,2081,762,2184,785,2237,805,2282,826,2280,831,2235,809,2182,791,2080,768,1979,753"/>
+<area shape="rect" id="Node000061" href="$structmfem_1_1NCMesh_1_1GeomInfo.html" title="This holds in one place the constants about the geometries we support." alt="" coords="1720,923,1960,954"/>
+<area shape="poly" id="edge65_Node000008_Node000061" title=" " alt="" coords="1975,939,2078,932,2131,923,2182,911,2240,886,2287,858,2290,862,2243,891,2184,916,2132,928,2079,937,1976,944"/>
+<area shape="rect" id="Node000062" title=" " alt="" coords="3522,1113,3765,1143"/>
+<area shape="poly" id="edge66_Node000007_Node000062" title=" " alt="" coords="3780,1130,3871,1118,3917,1106,3959,1088,3993,1066,4021,1038,4061,986,4065,989,4025,1042,3996,1070,3962,1093,3918,1111,3872,1123,3780,1135"/>
+<area shape="rect" id="Node000063" title=" " alt="" coords="3185,1097,3332,1127"/>
+<area shape="poly" id="edge67_Node000062_Node000063" title=" " alt="" coords="3348,1113,3522,1120,3522,1126,3348,1118"/>
+<area shape="rect" id="Node000065" title=" " alt="" coords="3534,1037,3753,1088"/>
+<area shape="poly" id="edge70_Node000065_Node000063" title=" " alt="" coords="3348,1098,3534,1074,3534,1079,3348,1103"/>
+<area shape="rect" id="Node000064" title=" " alt="" coords="2664,1097,2703,1127"/>
+<area shape="poly" id="edge68_Node000063_Node000064" title=" " alt="" coords="2718,1109,3185,1109,3185,1115,2718,1115"/>
+<area shape="poly" id="edge69_Node000007_Node000065" title=" " alt="" coords="3768,1064,3863,1057,3912,1048,3960,1036,4010,1013,4051,986,4054,990,4013,1017,3962,1041,3914,1054,3864,1062,3769,1069"/>
+<area shape="rect" id="Node000066" href="$classmfem_1_1Array.html" title=" " alt="" coords="3534,245,3753,275"/>
+<area shape="poly" id="edge71_Node000007_Node000066" title=" " alt="" coords="3769,273,3894,291,3962,306,3980,328,3995,358,4021,436,4040,530,4054,633,4070,830,4074,956,4069,956,4065,830,4049,634,4035,531,4016,437,3990,360,3975,331,3959,310,3894,296,3768,278"/>
+<area shape="rect" id="Node000067" href="$classmfem_1_1Memory.html" title=" " alt="" coords="3137,234,3380,265"/>
+<area shape="poly" id="edge72_Node000066_Node000067" title=" " alt="" coords="3396,250,3534,254,3534,260,3396,256"/>
+<area shape="rect" id="Node000068" href="$classmfem_1_1Array.html" title=" " alt="" coords="3546,1168,3741,1219"/>
+<area shape="poly" id="edge75_Node000007_Node000068" title=" " alt="" coords="3756,1201,3807,1199,3860,1192,3912,1177,3959,1154,3981,1137,4001,1116,4032,1069,4053,1023,4065,987,4070,989,4058,1025,4036,1072,4005,1119,3985,1141,3962,1158,3913,1182,3861,1197,3807,1204,3757,1206"/>
+<area shape="rect" id="Node000069" href="$classmfem_1_1Memory.html" title=" " alt="" coords="3154,1168,3363,1219"/>
+<area shape="poly" id="edge76_Node000068_Node000069" title=" " alt="" coords="3379,1191,3546,1191,3546,1196,3379,1196"/>
+<area shape="rect" id="Node000070" href="$structmfem_1_1Connection.html" title="Helper struct for defining a connectivity table, see Table::MakeFromList." alt="" coords="2599,1178,2768,1209"/>
+<area shape="poly" id="edge77_Node000069_Node000070" title=" " alt="" coords="2784,1191,3154,1191,3154,1196,2784,1196"/>
+<area shape="rect" id="Node000071" title=" " alt="" coords="3532,301,3755,352"/>
+<area shape="poly" id="edge78_Node000007_Node000071" title=" " alt="" coords="3770,343,3891,366,3937,378,3962,390,3978,410,3991,436,4015,503,4033,584,4048,673,4066,844,4074,956,4069,956,4061,845,4043,674,4028,585,4009,504,3986,438,3973,413,3959,394,3936,383,3890,371,3769,348"/>
+<area shape="poly" id="edge79_Node000071_Node000072" title=" " alt="" coords="3411,317,3532,321,3532,326,3411,322"/>
+<area shape="poly" id="edge80_Node000072_Node000073" title=" " alt="" coords="2848,114,2913,118,2980,131,3043,154,3073,171,3100,191,3108,202,3113,213,3113,234,3113,255,3117,264,3124,274,3140,287,3136,291,3120,278,3112,267,3108,256,3108,234,3107,214,3104,204,3096,195,3070,175,3041,159,2978,136,2913,123,2848,119"/>
+<area shape="poly" id="edge83_Node000072_Node000074" title=" " alt="" coords="2834,211,2964,233,3099,264,3123,273,3163,286,3162,291,3121,279,3097,269,2963,238,2834,217"/>
+<area shape="rect" id="Node000075" href="$classmfem_1_1Array.html" title=" " alt="" coords="2207,123,2417,173"/>
+<area shape="poly" id="edge84_Node000074_Node000075" title=" " alt="" coords="2433,169,2442,171,2543,183,2542,188,2441,176,2433,175"/>
+<area shape="rect" id="Node000076" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1723,80,1957,131"/>
+<area shape="poly" id="edge85_Node000075_Node000076" title=" " alt="" coords="1973,115,2207,136,2206,141,1972,120"/>
+</map>

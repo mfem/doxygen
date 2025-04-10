@@ -1,0 +1,5 @@
+<map id="mfem::RusanovFlux" name="mfem::RusanovFlux">
+<area shape="rect" id="Node000001" title="Rusanov flux, also known as local Lax&#45;Friedrichs, F̂ n = ½(F(u⁺,x)n + F(u⁻,x)n) &#45; ½λ(u⁺ &#45; u⁻) where λ..." alt="" coords="11,84,194,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NumericalFlux.html" title="Abstract class for numerical flux for a system of hyperbolic conservation laws on a face with states,..." alt="" coords="5,5,200,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,52,105,83,100,83,100,52"/>
+</map>

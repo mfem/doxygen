@@ -1,0 +1,31 @@
+<map id="mfem::TMOP_Combo_QualityMetric" name="mfem::TMOP_Combo_QualityMetric">
+<area shape="rect" id="Node000001" title=" " alt="" coords="578,297,846,347"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1TMOP__AMetric__049.html" title=" " alt="" coords="894,5,1139,36"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="726,281,750,227,786,163,834,99,862,70,893,45,913,34,916,39,896,50,865,74,838,102,790,166,755,229,731,283"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1TMOP__AMetric__126.html" title="2D barrier Shape+Size (VS) metric (polyconvex)." alt="" coords="894,60,1139,91"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="732,282,759,239,796,189,841,140,893,100,916,89,918,94,896,104,844,144,800,192,763,242,737,285"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1TMOP__Metric__066.html" title=" " alt="" coords="900,115,1133,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="742,283,807,216,848,183,893,154,919,143,921,148,896,159,851,187,810,220,746,287"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1TMOP__Metric__080.html" title=" " alt="" coords="900,169,1133,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="758,285,821,245,893,209,926,198,928,203,895,214,823,250,761,290"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1TMOP__Metric__090.html" title="2D compound barrier Shape+Size (VS) metric (balanced)." alt="" coords="900,224,1133,255"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="806,289,894,263,938,253,939,258,895,269,807,294"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1TMOP__Metric__094.html" title="2D compound barrier Shape+Size (VS) metric (balanced)." alt="" coords="900,279,1133,309"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="861,306,899,302,900,307,862,311"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1TMOP__Metric__328.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex, balanced)." alt="" coords="900,333,1133,364"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="862,332,900,336,899,341,861,338"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1TMOP__Metric__332.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex)." alt="" coords="900,388,1133,419"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="810,350,895,374,940,385,938,390,894,379,808,355"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1TMOP__Metric__333.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="900,443,1133,473"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="762,354,824,393,895,429,928,440,926,445,893,434,821,398,759,359"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1TMOP__Metric__334.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="900,497,1133,528"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="746,357,810,423,851,456,896,484,921,494,919,499,893,488,848,460,807,427,742,361"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1TMOP__Metric__338.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex, balanced)." alt="" coords="900,552,1133,583"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="737,359,764,402,800,451,844,499,896,538,918,549,916,554,893,543,841,503,796,454,759,405,732,362"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1TMOP__Metric__347.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="900,607,1133,637"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="731,361,755,415,791,478,838,541,865,569,896,593,916,604,913,609,893,598,862,573,834,544,786,481,750,417,726,363"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1TMOP__QualityMetric.html" title="Abstract class for local mesh quality metrics in the target&#45;matrix optimization paradigm (TMOP) by P...." alt="" coords="281,307,530,337"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,319,578,319,578,325,546,325"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1HyperelasticModel.html" title="Abstract class for hyperelastic models." alt="" coords="5,307,233,337"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,319,280,319,280,325,249,325"/>
+</map>

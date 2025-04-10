@@ -1,0 +1,552 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1ODESolver.html" title="Abstract class for solving systems of ODEs: dx/dt = f(x,t)" alt="" coords="274,549,443,580"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1ARKStepSolver.html" title="Interface to ARKode&#39;s ARKStep module – additive Runge&#45;Kutta methods." alt="" coords="629,60,832,91"/>
+<area shape="poly" id="edge594_Node000000_Node000001" title=" " alt="" coords="458,563,487,553,511,535,532,508,545,482,553,455,555,429,548,374,534,319,519,264,513,209,515,182,523,154,538,127,559,100,591,78,628,68,629,73,593,83,563,104,542,130,528,156,521,183,518,209,524,263,539,318,554,373,560,428,558,456,550,484,536,511,515,539,489,557,459,568"/>
+<area shape="rect" id="Node000245" href="$classmfem_1_1BackwardEulerSolver.html" title="Backward Euler ODE solver. L&#45;stable." alt="" coords="606,279,856,309"/>
+<area shape="poly" id="edge595_Node000000_Node000245" title=" " alt="" coords="457,561,486,552,511,535,530,509,538,483,538,456,534,429,530,401,531,373,539,345,559,319,580,304,604,294,606,299,583,308,563,323,544,348,536,374,536,400,539,428,543,456,543,484,535,512,515,539,489,556,459,566"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1CVODESolver.html" title="Interface to the CVODE library – linear multi&#45;step methods." alt="" coords="634,5,828,36"/>
+<area shape="poly" id="edge596_Node000000_Node000003" title=" " alt="" coords="458,563,487,553,511,535,523,518,531,495,539,437,538,368,534,292,530,216,530,146,538,87,547,64,559,46,575,32,593,23,632,13,634,18,595,28,578,37,563,49,551,66,543,89,535,146,535,216,539,292,544,367,544,438,536,496,527,520,515,539,489,557,459,568"/>
+<area shape="rect" id="Node000246" href="$classmfem_1_1ESDIRK32Solver.html" title=" " alt="" coords="622,333,839,364"/>
+<area shape="poly" id="edge598_Node000000_Node000246" title=" " alt="" coords="457,560,486,551,511,535,526,516,533,497,534,456,535,414,543,393,559,373,589,355,621,345,623,350,591,360,563,377,547,396,540,415,539,456,539,498,531,519,515,539,488,556,459,565"/>
+<area shape="rect" id="Node000247" href="$classmfem_1_1ESDIRK33Solver.html" title=" " alt="" coords="622,495,839,525"/>
+<area shape="poly" id="edge599_Node000000_Node000247" title=" " alt="" coords="458,547,621,523,622,529,459,553"/>
+<area shape="rect" id="Node000248" href="$classmfem_1_1ExplicitRKSolver.html" title=" " alt="" coords="625,115,836,145"/>
+<area shape="poly" id="edge600_Node000000_Node000248" title=" " alt="" coords="458,562,487,552,511,535,529,512,541,489,548,466,551,442,546,395,534,347,522,298,517,250,520,226,527,202,540,178,559,155,589,134,624,124,625,129,591,139,563,159,544,181,532,204,525,227,523,250,527,298,539,346,551,394,556,442,553,467,546,491,534,515,515,539,489,557,459,568"/>
+<area shape="rect" id="Node000251" href="$classmfem_1_1ForwardEulerSolver.html" title="The classical forward Euler method." alt="" coords="612,823,849,853"/>
+<area shape="poly" id="edge603_Node000000_Node000251" title=" " alt="" coords="377,593,405,641,446,701,499,760,530,786,562,808,586,819,612,827,611,832,584,824,560,812,526,790,496,763,442,704,401,644,372,596"/>
+<area shape="rect" id="Node000252" href="$classmfem_1_1ImplicitMidpointSolver.html" title="Implicit midpoint method. A&#45;stable, not L&#45;stable." alt="" coords="603,877,858,908"/>
+<area shape="poly" id="edge604_Node000000_Node000252" title=" " alt="" coords="373,594,398,652,438,726,463,765,493,801,526,834,562,862,603,881,601,886,560,867,522,838,489,805,459,768,433,729,393,655,368,596"/>
+<area shape="rect" id="Node000253" href="$classmfem_1_1ODESolverWithStates.html" title="Abstract class for an ODESolver that has state history implemented as ODEStateData." alt="" coords="602,388,859,419"/>
+<area shape="poly" id="edge605_Node000000_Node000253" title=" " alt="" coords="458,554,486,546,512,534,527,522,536,509,544,495,559,480,621,443,681,417,683,422,623,448,563,484,549,498,540,512,531,526,514,539,488,551,459,559"/>
+<area shape="rect" id="Node000110" href="$classmfem_1_1PetscODESolver.html" title="Abstract class for PETSc&#39;s ODE solvers." alt="" coords="624,932,838,963"/>
+<area shape="poly" id="edge618_Node000000_Node000110" title=" " alt="" coords="370,594,392,663,430,752,456,798,486,842,522,883,562,917,592,932,624,942,622,947,590,937,560,922,518,887,482,846,451,801,425,754,387,665,365,596"/>
+<area shape="rect" id="Node000266" href="$classmfem_1_1RK2Solver.html" title=" " alt="" coords="648,169,813,200"/>
+<area shape="poly" id="edge619_Node000000_Node000266" title=" " alt="" coords="457,562,487,552,511,535,527,515,538,496,546,456,543,415,534,374,525,333,522,291,531,250,542,229,559,209,578,195,600,185,648,176,649,181,602,190,581,199,563,213,547,232,536,252,527,291,530,332,539,373,548,415,552,456,543,498,531,518,515,539,489,557,459,567"/>
+<area shape="rect" id="Node000267" href="$classmfem_1_1RK3SSPSolver.html" title="Third&#45;order, strong stability preserving (SSP) Runge&#45;Kutta method." alt="" coords="630,224,831,255"/>
+<area shape="poly" id="edge620_Node000000_Node000267" title=" " alt="" coords="457,562,487,552,511,535,534,503,542,470,540,436,534,401,528,367,526,332,535,298,559,264,592,243,629,233,631,238,594,248,563,268,540,300,531,333,533,366,539,400,546,435,547,470,539,505,515,539,489,557,459,567"/>
+<area shape="rect" id="Node000268" href="$classmfem_1_1RK4Solver.html" title="The classical explicit forth&#45;order Runge&#45;Kutta method, RK4." alt="" coords="648,549,813,580"/>
+<area shape="poly" id="edge621_Node000000_Node000268" title=" " alt="" coords="459,562,648,562,648,567,459,567"/>
+<area shape="rect" id="Node000269" href="$classmfem_1_1SDIRK23Solver.html" title=" " alt="" coords="628,604,833,635"/>
+<area shape="poly" id="edge622_Node000000_Node000269" title=" " alt="" coords="459,577,628,602,628,607,458,582"/>
+<area shape="rect" id="Node000270" href="$classmfem_1_1SDIRK33Solver.html" title=" " alt="" coords="628,659,833,689"/>
+<area shape="poly" id="edge623_Node000000_Node000270" title=" " alt="" coords="408,585,479,615,562,643,629,658,627,663,560,649,477,620,406,589"/>
+<area shape="rect" id="Node000271" href="$classmfem_1_1SDIRK34Solver.html" title=" " alt="" coords="628,713,833,744"/>
+<area shape="poly" id="edge624_Node000000_Node000271" title=" " alt="" coords="390,588,465,645,512,674,562,698,629,716,627,722,560,703,509,679,462,649,387,592"/>
+<area shape="rect" id="Node000272" href="$classmfem_1_1TrapezoidalRuleSolver.html" title=" " alt="" coords="600,768,861,799"/>
+<area shape="poly" id="edge625_Node000000_Node000272" title=" " alt="" coords="382,590,413,628,455,673,505,717,562,753,601,767,599,772,560,758,502,721,451,677,409,632,378,594"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1CVODESSolver.html" title=" " alt="" coords="1007,5,1214,36"/>
+<area shape="poly" id="edge597_Node000003_Node000004" title=" " alt="" coords="843,18,1007,18,1007,23,843,23"/>
+<area shape="rect" id="Node000249" href="$classmfem_1_1RK6Solver.html" title=" " alt="" coords="1028,60,1193,91"/>
+<area shape="poly" id="edge601_Node000248_Node000249" title=" " alt="" coords="851,110,1027,84,1028,90,852,115"/>
+<area shape="rect" id="Node000250" href="$classmfem_1_1RK8Solver.html" title=" " alt="" coords="1028,115,1193,145"/>
+<area shape="poly" id="edge602_Node000248_Node000250" title=" " alt="" coords="852,127,1028,127,1028,133,852,133"/>
+<area shape="rect" id="Node000254" href="$classmfem_1_1AdamsBashforthSolver.html" title=" " alt="" coords="979,333,1242,364"/>
+<area shape="poly" id="edge606_Node000253_Node000254" title=" " alt="" coords="856,383,999,362,999,367,857,388"/>
+<area shape="rect" id="Node000260" href="$classmfem_1_1AdamsMoultonSolver.html" title=" " alt="" coords="985,169,1236,200"/>
+<area shape="poly" id="edge612_Node000253_Node000260" title=" " alt="" coords="873,385,899,373,915,361,924,349,946,319,1023,250,1087,198,1090,203,1026,254,950,322,928,352,918,365,902,378,875,389"/>
+<area shape="rect" id="Node000265" href="$classmfem_1_1GeneralizedAlphaSolver.html" title=" " alt="" coords="974,388,1247,419"/>
+<area shape="poly" id="edge617_Node000253_Node000265" title=" " alt="" coords="875,401,973,401,973,406,875,406"/>
+<area shape="rect" id="Node000255" href="$classmfem_1_1AB1Solver.html" title=" " alt="" coords="1386,497,1550,528"/>
+<area shape="poly" id="edge607_Node000254_Node000255" title=" " alt="" coords="1258,363,1274,373,1287,386,1295,401,1299,429,1304,457,1311,470,1322,483,1352,499,1386,508,1385,514,1350,504,1319,487,1306,473,1299,459,1294,430,1289,402,1283,390,1271,377,1255,367"/>
+<area shape="rect" id="Node000256" href="$classmfem_1_1AB2Solver.html" title=" " alt="" coords="1386,279,1550,309"/>
+<area shape="poly" id="edge608_Node000254_Node000256" title=" " alt="" coords="1230,328,1386,304,1386,309,1231,333"/>
+<area shape="rect" id="Node000257" href="$classmfem_1_1AB3Solver.html" title=" " alt="" coords="1386,333,1550,364"/>
+<area shape="poly" id="edge609_Node000254_Node000257" title=" " alt="" coords="1258,346,1386,346,1386,351,1258,351"/>
+<area shape="rect" id="Node000258" href="$classmfem_1_1AB4Solver.html" title=" " alt="" coords="1386,388,1550,419"/>
+<area shape="poly" id="edge610_Node000254_Node000258" title=" " alt="" coords="1231,364,1386,388,1386,394,1230,370"/>
+<area shape="rect" id="Node000259" href="$classmfem_1_1AB5Solver.html" title=" " alt="" coords="1386,443,1550,473"/>
+<area shape="poly" id="edge611_Node000254_Node000259" title=" " alt="" coords="1258,365,1274,373,1290,387,1299,401,1307,415,1322,428,1353,441,1386,450,1385,455,1351,446,1319,432,1303,419,1294,404,1286,390,1271,378,1255,370"/>
+<area shape="rect" id="Node000261" href="$classmfem_1_1AM1Solver.html" title=" " alt="" coords="1384,169,1552,200"/>
+<area shape="poly" id="edge613_Node000260_Node000261" title=" " alt="" coords="1251,182,1384,182,1384,187,1251,187"/>
+<area shape="rect" id="Node000262" href="$classmfem_1_1AM2Solver.html" title=" " alt="" coords="1384,224,1552,255"/>
+<area shape="poly" id="edge614_Node000260_Node000262" title=" " alt="" coords="1230,200,1384,224,1383,229,1230,206"/>
+<area shape="rect" id="Node000263" href="$classmfem_1_1AM3Solver.html" title=" " alt="" coords="1384,60,1552,91"/>
+<area shape="poly" id="edge615_Node000260_Node000263" title=" " alt="" coords="1249,165,1271,154,1286,142,1294,128,1303,113,1319,100,1350,86,1383,78,1384,83,1352,91,1322,104,1307,117,1299,131,1290,145,1274,159,1252,169"/>
+<area shape="rect" id="Node000264" href="$classmfem_1_1AM4Solver.html" title=" " alt="" coords="1384,115,1552,145"/>
+<area shape="poly" id="edge616_Node000260_Node000264" title=" " alt="" coords="1230,164,1383,140,1384,145,1230,169"/>
+<area shape="rect" id="Node000127" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,5483,156,5513"/>
+<area shape="rect" id="Node000128" href="$classmfem_1_1BilinearFormExtension.html" title="Class extending the BilinearForm class to support different AssemblyLevels." alt="" coords="228,4503,488,4533"/>
+<area shape="poly" id="edge626_Node000127_Node000128" title=" " alt="" coords="81,5467,95,5266,120,4973,137,4826,156,4696,178,4598,189,4565,202,4544,226,4526,229,4530,206,4548,194,4567,183,4600,161,4697,142,4827,125,4974,100,5267,86,5467"/>
+<area shape="rect" id="Node000133" href="$classmfem_1_1BlockFESpaceOperator.html" title="Operator for block systems arising from different arbitrarily many finite element spaces." alt="" coords="224,4557,492,4588"/>
+<area shape="poly" id="edge631_Node000127_Node000133" title=" " alt="" coords="79,5467,80,5289,85,5164,94,5028,108,4893,130,4769,144,4715,161,4668,180,4629,202,4599,222,4583,225,4587,206,4603,184,4631,166,4670,149,4717,135,4770,114,4894,99,5028,90,5164,85,5289,84,5467"/>
+<area shape="rect" id="Node000134" href="$classmfem_1_1BlockNonlinearForm.html" title="A class representing a general block nonlinear operator defined on the Cartesian product of multiple ..." alt="" coords="237,4612,480,4643"/>
+<area shape="poly" id="edge632_Node000127_Node000134" title=" " alt="" coords="79,5467,82,5299,87,5181,97,5054,112,4928,134,4813,147,4762,163,4718,181,4681,202,4653,218,4641,236,4631,238,4636,221,4645,206,4657,186,4684,168,4720,152,4764,139,4814,117,4929,102,5055,93,5182,87,5299,84,5467"/>
+<area shape="rect" id="Node000136" href="$classmfem_1_1BlockOperator.html" title="A class to handle Block systems in a matrix&#45;free implementation." alt="" coords="261,4667,456,4697"/>
+<area shape="poly" id="edge634_Node000127_Node000136" title=" " alt="" coords="79,5467,84,5309,100,5080,116,4963,137,4856,165,4768,182,4734,202,4708,229,4689,260,4679,261,4684,231,4694,206,4712,187,4737,170,4770,142,4857,121,4964,106,5081,89,5309,85,5467"/>
+<area shape="rect" id="Node000137" href="$classmfem_1_1ChangeOfBasis__L2.html" title="Change of basis operator between L2 spaces." alt="" coords="241,4721,476,4752"/>
+<area shape="poly" id="edge635_Node000127_Node000137" title=" " alt="" coords="80,5467,86,5318,104,5106,119,4998,140,4899,167,4818,184,4787,202,4763,219,4749,239,4740,241,4745,222,4754,206,4767,188,4789,172,4820,145,4900,125,4999,109,5107,91,5318,85,5467"/>
+<area shape="rect" id="Node000138" href="$classmfem_1_1ChangeOfBasis__RT.html" title=" " alt="" coords="239,4776,478,4807"/>
+<area shape="poly" id="edge636_Node000127_Node000138" title=" " alt="" coords="80,5467,88,5328,108,5133,123,5033,144,4942,170,4868,185,4839,202,4817,218,4804,237,4795,239,4800,221,4809,206,4821,189,4842,174,4870,149,4944,128,5034,113,5133,93,5328,86,5467"/>
+<area shape="rect" id="Node000139" href="$classmfem_1_1ComplexOperator.html" title="Mimic the action of a complex operator using two real operators." alt="" coords="247,4831,470,4861"/>
+<area shape="poly" id="edge637_Node000127_Node000139" title=" " alt="" coords="81,5467,90,5338,111,5159,127,5068,147,4986,172,4918,186,4892,202,4872,222,4857,246,4847,248,4852,225,4862,206,4876,190,4895,177,4920,152,4987,132,5069,116,5160,96,5338,86,5467"/>
+<area shape="rect" id="Node000143" href="$classmfem_1_1ConformingProlongationOperator.html" title="Auxiliary class used by ParFiniteElementSpace." alt="" coords="222,4886,495,4937"/>
+<area shape="poly" id="edge641_Node000127_Node000143" title=" " alt="" coords="82,5467,94,5352,118,5197,134,5118,153,5047,176,4988,202,4948,219,4934,223,4938,206,4952,180,4991,158,5049,139,5120,123,5198,100,5353,87,5467"/>
+<area shape="rect" id="Node000145" href="$classmfem_1_1ConstrainedOperator.html" title="Square Operator for imposing essential boundary conditions using only the action, Mult(),..." alt="" coords="235,4961,482,4992"/>
+<area shape="poly" id="edge643_Node000127_Node000145" title=" " alt="" coords="82,5467,96,5362,120,5223,136,5153,155,5090,177,5038,202,5003,233,4983,236,4988,206,5007,182,5040,160,5091,141,5154,125,5224,101,5363,88,5468"/>
+<area shape="rect" id="Node000146" href="$classmfem_1_1ElasticityGradientOperator.html" title="ElasticityGradientOperator is a wrapper class to pass ElasticityOperator::AssembleGradientDiagonal an..." alt="" coords="249,5017,468,5067"/>
+<area shape="poly" id="edge644_Node000127_Node000146" title=" " alt="" coords="78,5467,82,5389,98,5285,114,5229,135,5174,164,5123,202,5079,223,5063,247,5052,249,5057,226,5068,205,5083,169,5126,140,5177,119,5231,103,5286,87,5390,84,5467"/>
+<area shape="rect" id="Node000147" href="$classmfem_1_1ElasticityOperator.html" title=" " alt="" coords="248,5092,469,5123"/>
+<area shape="poly" id="edge645_Node000127_Node000147" title=" " alt="" coords="80,5467,86,5397,104,5307,119,5259,140,5213,167,5170,202,5133,223,5119,246,5110,248,5115,225,5124,205,5137,172,5173,145,5215,124,5261,109,5308,91,5398,85,5467"/>
+<area shape="rect" id="Node000148" href="$classmfem_1_1ElementRestrictionOperator.html" title="Abstract base class that defines an interface for element restrictions." alt="" coords="243,5147,474,5198"/>
+<area shape="poly" id="edge646_Node000127_Node000148" title=" " alt="" coords="83,5467,94,5411,116,5342,132,5305,151,5270,174,5238,202,5209,221,5196,242,5186,244,5191,223,5201,205,5213,178,5241,155,5273,136,5308,121,5344,100,5413,88,5468"/>
+<area shape="rect" id="Node000151" href="$classmfem_1_1EliminationProjection.html" title=" " alt="" coords="235,5223,482,5253"/>
+<area shape="poly" id="edge649_Node000127_Node000151" title=" " alt="" coords="86,5467,100,5421,123,5366,156,5310,178,5285,202,5264,233,5247,236,5252,205,5268,181,5289,161,5313,128,5368,105,5423,91,5469"/>
+<area shape="rect" id="Node000152" href="$classmfem_1_1FaceRestriction.html" title="Base class for operators that extracts Face degrees of freedom." alt="" coords="257,5277,460,5308"/>
+<area shape="poly" id="edge650_Node000127_Node000152" title=" " alt="" coords="91,5467,108,5432,132,5391,164,5351,202,5318,228,5305,255,5297,257,5302,230,5310,205,5323,167,5355,137,5394,113,5434,96,5469"/>
+<area shape="rect" id="Node000160" href="$classmfem_1_1FiniteElementSpace_1_1DerefinementOperator.html" title="Derefinement operator, used by the friend class InterpolationGridTransfer." alt="" coords="238,5333,478,5383"/>
+<area shape="poly" id="edge659_Node000127_Node000160" title=" " alt="" coords="104,5470,147,5430,202,5393,237,5379,239,5384,205,5398,151,5434,108,5474"/>
+<area shape="rect" id="Node000161" href="$classmfem_1_1FiniteElementSpace_1_1RefinementOperator.html" title="GridFunction interpolation operator applicable after mesh refinement." alt="" coords="238,5407,478,5458"/>
+<area shape="poly" id="edge660_Node000127_Node000161" title=" " alt="" coords="163,5476,247,5456,248,5461,164,5481"/>
+<area shape="rect" id="Node000162" href="$classmfem_1_1HypreParMatrix.html" title="Wrapper for hypre&#39;s ParCSR matrix class." alt="" coords="256,5483,460,5513"/>
+<area shape="poly" id="edge661_Node000127_Node000162" title=" " alt="" coords="171,5495,256,5495,256,5501,171,5501"/>
+<area shape="rect" id="Node000163" href="$classmfem_1_1IdentityOperator.html" title="Identity Operator I: x &#45;&gt; x." alt="" coords="254,5537,462,5568"/>
+<area shape="poly" id="edge662_Node000127_Node000163" title=" " alt="" coords="163,5515,204,5523,261,5534,260,5539,203,5529,162,5520"/>
+<area shape="rect" id="Node000164" href="$classmfem_1_1L2ProjectionGridTransfer_1_1H1SpaceLumpedMassOperator.html" title=" " alt="" coords="215,5593,502,5643"/>
+<area shape="poly" id="edge663_Node000127_Node000164" title=" " alt="" coords="114,5521,156,5551,205,5578,234,5590,233,5595,203,5583,153,5556,111,5525"/>
+<area shape="rect" id="Node000165" href="$classmfem_1_1L2ProjectionGridTransfer_1_1H1SpaceMixedMassOperator.html" title=" " alt="" coords="218,5667,498,5718"/>
+<area shape="poly" id="edge664_Node000127_Node000165" title=" " alt="" coords="99,5526,141,5591,170,5625,205,5653,226,5664,223,5669,202,5658,167,5629,136,5594,94,5529"/>
+<area shape="rect" id="Node000166" href="$classmfem_1_1L2ProjectionGridTransfer_1_1L2Projection.html" title=" " alt="" coords="218,5742,498,5793"/>
+<area shape="poly" id="edge665_Node000127_Node000166" title=" " alt="" coords="92,5527,106,5573,129,5627,162,5682,182,5707,205,5728,223,5739,220,5744,202,5732,178,5710,157,5685,124,5629,101,5574,87,5529"/>
+<area shape="rect" id="Node000169" href="$classmfem_1_1L2ProjectionGridTransfer_1_1L2Prolongation.html" title=" " alt="" coords="218,5817,498,5867"/>
+<area shape="poly" id="edge668_Node000127_Node000169" title=" " alt="" coords="87,5528,97,5587,118,5662,133,5700,153,5738,177,5773,205,5803,221,5814,218,5818,202,5807,173,5776,148,5741,129,5703,113,5663,92,5588,82,5529"/>
+<area shape="rect" id="Node000170" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="294,5892,422,5923"/>
+<area shape="poly" id="edge669_Node000127_Node000170" title=" " alt="" coords="84,5528,89,5601,106,5696,121,5746,143,5794,170,5839,205,5877,225,5891,247,5900,294,5908,293,5913,246,5905,222,5895,202,5881,166,5842,138,5797,116,5748,101,5697,84,5601,79,5529"/>
+<area shape="rect" id="Node000186" href="$classmfem_1_1MixedBilinearFormExtension.html" title="Class extending the MixedBilinearForm class to support different AssemblyLevels." alt="" coords="204,5947,513,5977"/>
+<area shape="poly" id="edge685_Node000127_Node000186" title=" " alt="" coords="89,5528,104,5622,129,5744,145,5805,164,5860,184,5904,206,5933,220,5944,217,5948,202,5937,179,5907,159,5862,140,5807,124,5746,99,5623,83,5529"/>
+<area shape="rect" id="Node000189" href="$classmfem_1_1NonlinearForm.html" title=" " alt="" coords="259,6001,458,6032"/>
+<area shape="poly" id="edge688_Node000127_Node000189" title=" " alt="" coords="88,5528,101,5632,125,5771,141,5841,160,5904,182,5954,206,5988,230,6004,260,6014,258,6019,228,6009,202,5992,177,5957,155,5905,136,5842,120,5772,96,5633,82,5529"/>
+<area shape="rect" id="Node000191" href="$classmfem_1_1NonlinearFormExtension.html" title="Class extending the NonlinearForm class to support the different AssemblyLevels." alt="" coords="220,6056,497,6087"/>
+<area shape="poly" id="edge690_Node000127_Node000191" title=" " alt="" coords="87,5528,99,5643,121,5798,137,5876,157,5947,179,6005,192,6027,206,6043,221,6054,217,6058,202,6047,188,6030,175,6007,152,5949,132,5878,116,5799,93,5643,82,5529"/>
+<area shape="rect" id="Node000194" href="$classmfem_1_1PRefinementTransferOperator.html" title="Matrix&#45;free transfer operator between finite element spaces on the same mesh." alt="" coords="233,6111,484,6162"/>
+<area shape="poly" id="edge693_Node000127_Node000194" title=" " alt="" coords="86,5529,97,5653,119,5824,135,5911,155,5990,178,6054,191,6079,206,6097,234,6118,231,6122,202,6101,187,6082,173,6056,150,5991,130,5912,114,5825,92,5653,81,5529"/>
+<area shape="rect" id="Node000195" href="$classmfem_1_1ParametricBNLForm.html" title="A class representing a general parametric block nonlinear operator defined on the Cartesian product o..." alt="" coords="236,6187,480,6217"/>
+<area shape="poly" id="edge694_Node000127_Node000195" title=" " alt="" coords="86,5529,93,5667,113,5861,129,5960,149,6050,175,6123,189,6151,206,6172,220,6184,237,6192,234,6197,217,6188,202,6176,185,6154,170,6126,144,6052,123,5961,108,5862,88,5668,80,5529"/>
+<area shape="rect" id="Node000197" href="$classmfem_1_1PetscParMatrix.html" title="Wrapper for PETSc&#39;s matrix class." alt="" coords="258,6241,459,6272"/>
+<area shape="poly" id="edge696_Node000127_Node000197" title=" " alt="" coords="85,5529,91,5678,109,5889,125,5997,145,6095,172,6175,188,6205,206,6228,230,6245,258,6255,256,6260,227,6250,202,6232,184,6208,167,6177,140,6096,119,5998,104,5889,86,5678,80,5529"/>
+<area shape="rect" id="Node000198" href="$classmfem_1_1ProductOperator.html" title="General product operator: x &#45;&gt; (A*B)(x) = A(B(x))." alt="" coords="252,6296,464,6327"/>
+<area shape="poly" id="edge697_Node000127_Node000198" title=" " alt="" coords="85,5529,89,5687,106,5915,121,6032,142,6138,170,6225,187,6258,206,6283,227,6298,253,6308,251,6313,224,6303,202,6287,182,6261,165,6227,137,6139,116,6032,100,5915,84,5687,79,5529"/>
+<area shape="rect" id="Node000199" href="$classmfem_1_1RAPOperator.html" title="The operator x &#45;&gt; R*A*P*x constructed through the actions of R^T, A and P." alt="" coords="265,6351,452,6381"/>
+<area shape="poly" id="edge698_Node000127_Node000199" title=" " alt="" coords="84,5529,87,5697,93,5815,102,5941,117,6067,139,6182,152,6232,168,6275,186,6311,206,6337,233,6356,265,6366,263,6371,230,6361,202,6341,181,6314,163,6277,147,6233,133,6183,112,6068,97,5942,87,5815,82,5697,79,5529"/>
+<area shape="rect" id="Node000200" href="$classmfem_1_1RectangularConstrainedOperator.html" title="Rectangular Operator for imposing essential boundary conditions on the input space using only the act..." alt="" coords="222,6406,494,6457"/>
+<area shape="poly" id="edge699_Node000127_Node000200" title=" " alt="" coords="84,5529,86,5705,91,5830,101,5965,116,6100,137,6223,151,6277,167,6324,185,6363,206,6392,223,6407,220,6411,202,6396,181,6366,162,6326,146,6278,132,6224,110,6100,95,5966,86,5831,81,5706,79,5529"/>
+<area shape="rect" id="Node000201" href="$classmfem_1_1STRUMPACKRowLocMatrix.html" title=" " alt="" coords="205,6481,512,6512"/>
+<area shape="poly" id="edge700_Node000127_Node000201" title=" " alt="" coords="86,5529,100,5732,125,6031,142,6182,161,6314,182,6414,194,6447,206,6467,220,6479,217,6483,202,6470,189,6449,177,6415,156,6315,136,6182,119,6032,94,5733,81,5529"/>
+<area shape="rect" id="Node000202" href="$classmfem_1_1ScaledOperator.html" title="Scaled Operator B: x &#45;&gt; a A(x)." alt="" coords="256,6536,461,6567"/>
+<area shape="poly" id="edge701_Node000127_Node000202" title=" " alt="" coords="86,5528,98,5742,123,6059,139,6219,159,6360,181,6466,193,6502,206,6523,229,6540,256,6549,254,6554,226,6544,202,6526,188,6504,176,6468,154,6361,134,6220,117,6060,93,5743,81,5529"/>
+<area shape="rect" id="Node000029" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="294,3344,423,3375"/>
+<area shape="poly" id="edge702_Node000127_Node000029" title=" " alt="" coords="83,5467,129,5077,201,4491,293,3800,352,3375,357,3376,298,3800,206,4492,134,5077,88,5467"/>
+<area shape="rect" id="Node000203" href="$classmfem_1_1SumOperator.html" title="General linear combination operator: x &#45;&gt; a A(x) + b B(x)." alt="" coords="264,6591,452,6621"/>
+<area shape="poly" id="edge822_Node000127_Node000203" title=" " alt="" coords="86,5528,97,5752,121,6087,138,6256,157,6405,180,6518,193,6555,206,6578,232,6596,265,6606,263,6611,230,6601,202,6581,188,6558,175,6519,152,6406,132,6257,116,6088,92,5753,80,5529"/>
+<area shape="rect" id="Node000204" href="$classmfem_1_1SuperLURowLocMatrix.html" title=" " alt="" coords="226,6645,490,6676"/>
+<area shape="poly" id="edge823_Node000127_Node000204" title=" " alt="" coords="86,5528,96,5762,119,6115,136,6293,155,6450,179,6569,192,6609,206,6632,227,6648,224,6653,202,6636,187,6611,174,6570,150,6451,130,6294,114,6115,91,5763,80,5529"/>
+<area shape="rect" id="Node000205" href="$classmfem_1_1TBilinearForm.html" title="Templated bilinear form class, cf. bilinearform.?pp." alt="" coords="204,6701,512,6791"/>
+<area shape="poly" id="edge824_Node000127_Node000205" title=" " alt="" coords="86,5529,97,5771,121,6139,138,6326,158,6492,180,6618,193,6661,206,6687,217,6699,213,6702,201,6690,188,6663,175,6620,152,6493,133,6327,116,6140,92,5772,80,5529"/>
+<area shape="rect" id="Node000206" href="$classmfem_1_1TensorProductPRefinementTransferOperator.html" title="Matrix&#45;free transfer operator between finite element spaces on the same mesh exploiting the tensor pr..." alt="" coords="209,6815,508,6866"/>
+<area shape="poly" id="edge825_Node000127_Node000206" title=" " alt="" coords="85,5529,94,5793,115,6199,131,6406,152,6588,177,6727,191,6774,206,6802,218,6813,214,6817,202,6805,186,6776,171,6728,146,6589,126,6406,110,6199,89,5793,80,5529"/>
+<area shape="rect" id="Node000207" href="$classmfem_1_1TimeDependentOperator.html" title="Base abstract class for first order time dependent operators." alt="" coords="219,6891,498,6921"/>
+<area shape="poly" id="edge826_Node000127_Node000207" title=" " alt="" coords="85,5529,92,5807,112,6237,128,6457,148,6651,160,6731,174,6798,189,6847,206,6876,220,6888,216,6893,202,6880,184,6849,169,6799,155,6732,143,6651,122,6457,106,6238,87,5807,80,5529"/>
+<area shape="rect" id="Node000216" href="$classmfem_1_1TransferOperator.html" title="Matrix&#45;free transfer operator between finite element spaces." alt="" coords="250,6945,467,6976"/>
+<area shape="poly" id="edge835_Node000127_Node000216" title=" " alt="" coords="85,5529,91,5817,110,6266,125,6494,146,6697,159,6781,173,6850,189,6902,206,6932,226,6948,250,6958,248,6963,223,6953,202,6936,184,6904,168,6852,154,6782,141,6697,120,6495,104,6266,86,5817,80,5529"/>
+<area shape="rect" id="Node000217" href="$classmfem_1_1TransposeOperator.html" title="The transpose of a given operator. Switches the roles of the methods Mult() and MultTranspose()." alt="" coords="241,440,476,471"/>
+<area shape="poly" id="edge836_Node000127_Node000217" title=" " alt="" coords="79,5467,87,4527,109,2857,125,1994,146,1245,158,944,171,708,185,550,193,503,201,480,219,465,239,455,241,460,222,470,206,484,198,505,191,550,176,708,163,944,151,1245,130,1994,114,2857,93,4527,85,5467"/>
+<area shape="rect" id="Node000218" href="$classmfem_1_1TripleProductOperator.html" title="General triple product operator x &#45;&gt; A*B*C*x, with ownership of the factors." alt="" coords="230,495,487,525"/>
+<area shape="poly" id="edge837_Node000127_Node000218" title=" " alt="" coords="79,5467,88,4536,109,2884,126,2031,146,1291,158,993,171,760,186,604,193,558,202,535,228,515,231,519,206,538,198,559,191,604,177,760,163,993,152,1291,131,2031,114,2884,93,4536,85,5467"/>
+<area shape="rect" id="Node000219" href="$classmfem_1_1TrueTransferOperator.html" title="Matrix&#45;free transfer operator between finite element spaces working on true degrees of freedom." alt="" coords="231,1755,486,1785"/>
+<area shape="poly" id="edge838_Node000127_Node000219" title=" " alt="" coords="79,5467,80,4767,84,4191,92,3556,106,2930,128,2383,142,2160,159,1982,179,1858,190,1818,202,1795,229,1774,232,1779,206,1798,195,1820,184,1859,164,1983,148,2160,133,2383,111,2931,97,3556,89,4191,85,4767,84,5467"/>
+<area shape="rect" id="Node000220" href="$classmfem_1_1ceed_1_1AlgebraicInterpolation.html" title="Multigrid interpolation operator in Ceed framework." alt="" coords="208,1809,509,1840"/>
+<area shape="poly" id="edge839_Node000127_Node000220" title=" " alt="" coords="79,5467,80,4776,84,4209,93,3583,107,2967,129,2428,143,2209,160,2034,179,1911,190,1872,202,1850,214,1839,217,1842,206,1853,195,1874,184,1913,165,2034,148,2209,134,2429,112,2968,98,3583,90,4209,85,4776,84,5467"/>
+<area shape="rect" id="Node000221" href="$classmfem_1_1ceed_1_1Operator.html" title=" " alt="" coords="259,1864,458,1895"/>
+<area shape="poly" id="edge840_Node000127_Node000221" title=" " alt="" coords="80,5467,90,4989,114,4158,131,3702,151,3266,175,2889,201,2607,237,2384,281,2171,323,1997,350,1894,355,1896,328,1999,287,2172,242,2385,206,2608,180,2890,157,3267,137,3702,120,4158,96,4989,85,5467"/>
+<area shape="rect" id="Node000243" href="$classmfem_1_1common_1_1IrrotationalProjector.html" title=" " alt="" coords="236,2619,480,2670"/>
+<area shape="poly" id="edge862_Node000127_Node000243" title=" " alt="" coords="79,5467,81,5174,95,4652,110,4337,131,4004,161,3665,201,3332,236,3131,278,2937,347,2670,352,2671,283,2938,241,3132,206,3333,167,3665,137,4004,115,4337,100,4652,86,5174,84,5467"/>
+<area shape="rect" id="Node000129" href="$classmfem_1_1MFBilinearFormExtension.html" title="Data and methods for matrix&#45;free bilinear forms." alt="" coords="587,4685,874,4716"/>
+<area shape="poly" id="edge627_Node000128_Node000129" title=" " alt="" coords="504,4536,515,4544,529,4560,536,4576,539,4610,543,4643,550,4658,563,4672,588,4687,585,4692,559,4676,545,4661,538,4644,534,4610,531,4578,524,4563,511,4548,501,4540"/>
+<area shape="rect" id="Node000130" href="$classmfem_1_1PABilinearFormExtension.html" title="Data and methods for partially&#45;assembled bilinear forms." alt="" coords="588,4740,873,4771"/>
+<area shape="poly" id="edge628_Node000128_Node000130" title=" " alt="" coords="504,4535,515,4544,533,4567,540,4590,542,4614,539,4638,537,4661,539,4684,546,4706,563,4727,589,4744,587,4748,559,4731,541,4708,533,4685,532,4661,534,4637,536,4614,535,4591,528,4569,511,4548,500,4539"/>
+<area shape="rect" id="Node000131" href="$classmfem_1_1EABilinearFormExtension.html" title="Data and methods for element&#45;assembled bilinear forms." alt="" coords="968,4913,1253,4944"/>
+<area shape="poly" id="edge629_Node000130_Node000131" title=" " alt="" coords="888,4772,902,4781,915,4796,923,4811,927,4842,931,4872,938,4885,950,4899,969,4911,967,4915,947,4903,933,4888,926,4873,922,4842,918,4812,911,4799,899,4785,885,4776"/>
+<area shape="rect" id="Node000132" href="$classmfem_1_1FABilinearFormExtension.html" title="Data and methods for fully&#45;assembled bilinear forms." alt="" coords="1326,4913,1610,4944"/>
+<area shape="poly" id="edge630_Node000131_Node000132" title=" " alt="" coords="1268,4926,1326,4926,1326,4931,1268,4931"/>
+<area shape="rect" id="Node000135" href="$classmfem_1_1ParBlockNonlinearForm.html" title="A class representing a general parallel block nonlinear operator defined on the Cartesian product of ..." alt="" coords="596,4795,866,4825"/>
+<area shape="poly" id="edge633_Node000134_Node000135" title=" " alt="" coords="495,4640,515,4653,529,4669,536,4686,539,4719,543,4752,550,4767,563,4781,596,4800,594,4805,559,4785,545,4770,538,4753,534,4720,531,4687,524,4672,511,4657,492,4645"/>
+<area shape="rect" id="Node000140" href="$classmfem_1_1ComplexDenseMatrix.html" title="Specialization of the ComplexOperator built from a pair of Dense Matrices. The purpose of this specia..." alt="" coords="604,4904,857,4935"/>
+<area shape="poly" id="edge638_Node000139_Node000140" title=" " alt="" coords="478,4863,514,4871,562,4890,609,4901,608,4906,560,4895,512,4877,477,4868"/>
+<area shape="rect" id="Node000141" href="$classmfem_1_1ComplexHypreParMatrix.html" title="Specialization of the ComplexOperator built from a pair of HypreParMatrices." alt="" coords="592,4959,869,4989"/>
+<area shape="poly" id="edge639_Node000139_Node000141" title=" " alt="" coords="486,4857,515,4872,532,4890,539,4910,547,4929,563,4945,593,4960,591,4965,559,4949,542,4931,534,4912,527,4893,511,4876,483,4862"/>
+<area shape="rect" id="Node000142" href="$classmfem_1_1ComplexSparseMatrix.html" title="Specialization of the ComplexOperator built from a pair of Sparse Matrices." alt="" coords="602,4849,859,4880"/>
+<area shape="poly" id="edge640_Node000139_Node000142" title=" " alt="" coords="486,4850,602,4856,602,4861,485,4855"/>
+<area shape="rect" id="Node000144" href="$classmfem_1_1DeviceConformingProlongationOperator.html" title="Auxiliary device class used by ParFiniteElementSpace." alt="" coords="566,5014,895,5065"/>
+<area shape="poly" id="edge642_Node000143_Node000144" title=" " alt="" coords="502,4941,515,4948,530,4961,539,4975,548,4988,562,5000,585,5011,583,5016,560,5004,544,4991,535,4978,526,4964,511,4952,500,4946"/>
+<area shape="rect" id="Node000149" href="$classmfem_1_1ElementRestriction.html" title="Operator that converts FiniteElementSpace L&#45;vectors to E&#45;vectors." alt="" coords="616,5163,846,5193"/>
+<area shape="poly" id="edge647_Node000148_Node000149" title=" " alt="" coords="489,5172,615,5174,615,5179,489,5177"/>
+<area shape="rect" id="Node000150" href="$classmfem_1_1L2ElementRestriction.html" title="Operator that converts L2 FiniteElementSpace L&#45;vectors to E&#45;vectors." alt="" coords="606,5108,856,5139"/>
+<area shape="poly" id="edge648_Node000148_Node000150" title=" " alt="" coords="489,5153,609,5137,610,5142,489,5158"/>
+<area shape="rect" id="Node000153" href="$classmfem_1_1ConformingFaceRestriction.html" title="Operator that extracts face degrees of freedom for H1, ND, or RT FiniteElementSpaces." alt="" coords="582,5277,879,5308"/>
+<area shape="poly" id="edge651_Node000152_Node000153" title=" " alt="" coords="475,5290,582,5290,582,5295,475,5295"/>
+<area shape="rect" id="Node000155" href="$classmfem_1_1L2FaceRestriction.html" title="Operator that extracts Face degrees of freedom for L2 spaces." alt="" coords="619,5332,842,5363"/>
+<area shape="poly" id="edge653_Node000152_Node000155" title=" " alt="" coords="476,5307,622,5329,621,5334,475,5312"/>
+<area shape="rect" id="Node000159" href="$classmfem_1_1L2InterfaceFaceRestriction.html" title="Operator that extracts face degrees of freedom for L2 interface spaces." alt="" coords="584,5223,877,5253"/>
+<area shape="poly" id="edge658_Node000152_Node000159" title=" " alt="" coords="475,5273,621,5251,622,5257,476,5278"/>
+<area shape="rect" id="Node000154" href="$classmfem_1_1ParNCH1FaceRestriction.html" title="Operator that extracts Face degrees of freedom for NCMesh in parallel." alt="" coords="970,5277,1251,5308"/>
+<area shape="poly" id="edge652_Node000153_Node000154" title=" " alt="" coords="895,5290,970,5290,970,5295,895,5295"/>
+<area shape="rect" id="Node000156" href="$classmfem_1_1NCL2FaceRestriction.html" title="Operator that extracts face degrees of freedom for L2 nonconforming spaces." alt="" coords="986,5387,1235,5417"/>
+<area shape="poly" id="edge654_Node000155_Node000156" title=" " alt="" coords="857,5363,999,5383,999,5389,856,5368"/>
+<area shape="rect" id="Node000158" href="$classmfem_1_1ParL2FaceRestriction.html" title="Operator that extracts Face degrees of freedom in parallel." alt="" coords="985,5332,1236,5363"/>
+<area shape="poly" id="edge656_Node000155_Node000158" title=" " alt="" coords="857,5345,984,5345,984,5350,857,5350"/>
+<area shape="rect" id="Node000157" href="$classmfem_1_1ParNCL2FaceRestriction.html" title="Operator that extracts Face degrees of freedom for NCMesh in parallel." alt="" coords="1329,5360,1606,5391"/>
+<area shape="poly" id="edge655_Node000156_Node000157" title=" " alt="" coords="1250,5389,1329,5383,1329,5388,1251,5394"/>
+<area shape="poly" id="edge657_Node000158_Node000157" title=" " alt="" coords="1252,5356,1329,5362,1329,5367,1251,5361"/>
+<area shape="rect" id="Node000167" href="$classmfem_1_1L2ProjectionGridTransfer_1_1L2ProjectionH1Space.html" title="Class below must be public as we now have device code." alt="" coords="590,5625,871,5675"/>
+<area shape="poly" id="edge666_Node000166_Node000167" title=" " alt="" coords="500,5733,512,5728,526,5718,535,5707,545,5697,560,5686,590,5673,592,5678,562,5691,548,5701,539,5711,529,5722,514,5732,502,5738"/>
+<area shape="rect" id="Node000168" href="$classmfem_1_1L2ProjectionGridTransfer_1_1L2ProjectionL2Space.html" title=" " alt="" coords="590,5550,871,5601"/>
+<area shape="poly" id="edge667_Node000166_Node000168" title=" " alt="" coords="507,5731,511,5728,523,5714,530,5700,534,5671,539,5640,546,5625,559,5611,589,5592,591,5597,563,5615,551,5628,544,5642,539,5672,535,5702,528,5717,515,5732,511,5735"/>
+<area shape="rect" id="Node000171" href="$classmfem_1_1AbstractSparseMatrix.html" title="Abstract data type for sparse matrices." alt="" coords="605,5809,856,5840"/>
+<area shape="poly" id="edge670_Node000170_Node000171" title=" " alt="" coords="437,5896,512,5877,536,5864,560,5850,604,5838,605,5843,562,5855,538,5868,514,5882,438,5901"/>
+<area shape="rect" id="Node000174" href="$classmfem_1_1BilinearForm.html" title="A &quot;square matrix&quot; operator for the associated FE space and BLFIntegrators The sum of all the BLFInteg..." alt="" coords="640,5864,821,5895"/>
+<area shape="poly" id="edge673_Node000170_Node000174" title=" " alt="" coords="438,5899,639,5883,640,5889,438,5904"/>
+<area shape="rect" id="Node000176" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="640,5919,821,5949"/>
+<area shape="poly" id="edge675_Node000170_Node000176" title=" " alt="" coords="438,5910,640,5925,640,5930,438,5916"/>
+<area shape="rect" id="Node000177" href="$classmfem_1_1DenseSymmetricMatrix.html" title=" " alt="" coords="597,5700,864,5731"/>
+<area shape="poly" id="edge676_Node000170_Node000177" title=" " alt="" coords="438,5906,477,5897,511,5877,525,5862,532,5846,534,5811,537,5775,545,5758,559,5741,595,5721,598,5726,563,5745,549,5761,542,5777,540,5811,537,5847,529,5865,515,5881,479,5902,439,5911"/>
+<area shape="rect" id="Node000178" href="$classmfem_1_1MixedBilinearForm.html" title=" " alt="" coords="616,5755,846,5785"/>
+<area shape="poly" id="edge677_Node000170_Node000178" title=" " alt="" coords="437,5903,476,5894,511,5877,528,5859,534,5838,541,5816,559,5796,586,5782,614,5773,616,5778,588,5787,563,5800,546,5819,539,5839,532,5861,515,5881,478,5899,438,5908"/>
+<area shape="rect" id="Node000172" href="$classmfem_1_1BlockMatrix.html" title=" " alt="" coords="1024,5864,1197,5895"/>
+<area shape="poly" id="edge671_Node000171_Node000172" title=" " alt="" coords="857,5840,1024,5864,1024,5870,857,5845"/>
+<area shape="rect" id="Node000173" href="$classmfem_1_1SparseMatrix.html" title="Data type sparse matrix." alt="" coords="1018,5809,1203,5840"/>
+<area shape="poly" id="edge672_Node000171_Node000173" title=" " alt="" coords="872,5822,1018,5822,1018,5827,872,5827"/>
+<area shape="rect" id="Node000175" href="$classmfem_1_1ParBilinearForm.html" title="Class for parallel bilinear form." alt="" coords="1006,5919,1215,5949"/>
+<area shape="poly" id="edge674_Node000174_Node000175" title=" " alt="" coords="837,5892,1006,5916,1005,5922,836,5897"/>
+<area shape="rect" id="Node000179" href="$classmfem_1_1DiscreteLinearOperator.html" title=" " alt="" coords="977,5755,1244,5785"/>
+<area shape="poly" id="edge678_Node000178_Node000179" title=" " alt="" coords="861,5767,977,5767,977,5773,861,5773"/>
+<area shape="rect" id="Node000185" href="$classmfem_1_1ParMixedBilinearForm.html" title="Class for parallel bilinear form using different test and trial FE spaces." alt="" coords="981,5700,1240,5731"/>
+<area shape="poly" id="edge684_Node000178_Node000185" title=" " alt="" coords="856,5749,999,5729,999,5734,857,5755"/>
+<area shape="rect" id="Node000180" href="$classmfem_1_1ParDiscreteLinearOperator.html" title=" " alt="" coords="1321,5755,1615,5785"/>
+<area shape="poly" id="edge679_Node000179_Node000180" title=" " alt="" coords="1259,5767,1320,5767,1320,5773,1259,5773"/>
+<area shape="rect" id="Node000181" href="$classmfem_1_1common_1_1ParDiscreteInterpolationOperator.html" title=" " alt="" coords="1680,5745,1933,5795"/>
+<area shape="poly" id="edge680_Node000180_Node000181" title=" " alt="" coords="1630,5767,1679,5767,1679,5773,1630,5773"/>
+<area shape="rect" id="Node000182" href="$classmfem_1_1common_1_1ParDiscreteCurlOperator.html" title=" " alt="" coords="1997,5670,2251,5721"/>
+<area shape="poly" id="edge681_Node000181_Node000182" title=" " alt="" coords="1931,5738,2012,5719,2014,5724,1932,5743"/>
+<area shape="rect" id="Node000183" href="$classmfem_1_1common_1_1ParDiscreteDivOperator.html" title=" " alt="" coords="1997,5745,2251,5795"/>
+<area shape="poly" id="edge682_Node000181_Node000183" title=" " alt="" coords="1949,5767,1997,5767,1997,5773,1949,5773"/>
+<area shape="rect" id="Node000184" href="$classmfem_1_1common_1_1ParDiscreteGradOperator.html" title=" " alt="" coords="1997,5819,2251,5870"/>
+<area shape="poly" id="edge683_Node000181_Node000184" title=" " alt="" coords="1932,5797,2014,5816,2012,5821,1931,5802"/>
+<area shape="rect" id="Node000187" href="$classmfem_1_1PAMixedBilinearFormExtension.html" title="Data and methods for partially&#45;assembled mixed bilinear forms." alt="" coords="604,5974,858,6025"/>
+<area shape="poly" id="edge686_Node000186_Node000187" title=" " alt="" coords="529,5976,603,5984,603,5989,528,5982"/>
+<area shape="rect" id="Node000188" href="$classmfem_1_1PADiscreteLinearOperatorExtension.html" title="Partial assembly extension for DiscreteLinearOperator." alt="" coords="965,5974,1256,6025"/>
+<area shape="poly" id="edge687_Node000187_Node000188" title=" " alt="" coords="873,5997,965,5997,965,6002,873,6002"/>
+<area shape="rect" id="Node000190" href="$classmfem_1_1ParNonlinearForm.html" title="Parallel non&#45;linear operator on the true dofs." alt="" coords="618,6049,844,6080"/>
+<area shape="poly" id="edge689_Node000189_Node000190" title=" " alt="" coords="473,6029,617,6047,617,6053,472,6034"/>
+<area shape="rect" id="Node000192" href="$classmfem_1_1MFNonlinearFormExtension.html" title="Data and methods for unassembled nonlinear forms." alt="" coords="578,6159,883,6189"/>
+<area shape="poly" id="edge691_Node000191_Node000192" title=" " alt="" coords="500,6090,514,6097,530,6109,539,6122,548,6134,562,6145,588,6156,586,6161,560,6150,544,6138,535,6125,526,6113,512,6102,497,6095"/>
+<area shape="rect" id="Node000193" href="$classmfem_1_1PANonlinearFormExtension.html" title="Data and methods for partially&#45;assembled nonlinear forms." alt="" coords="580,6104,881,6135"/>
+<area shape="poly" id="edge692_Node000191_Node000193" title=" " alt="" coords="498,6087,606,6101,606,6106,497,6092"/>
+<area shape="rect" id="Node000196" href="$classmfem_1_1ParParametricBNLForm.html" title="A class representing a general parametric parallel block nonlinear operator defined on the Cartesian ..." alt="" coords="594,6213,867,6244"/>
+<area shape="poly" id="edge695_Node000195_Node000196" title=" " alt="" coords="496,6209,594,6216,594,6222,496,6214"/>
+<area shape="rect" id="Node000030" href="$classmfem_1_1STRUMPACKSolverBase.html" title=" " alt="" coords="586,2621,875,2711"/>
+<area shape="poly" id="edge703_Node000029_Node000030" title=" " alt="" coords="358,3328,366,3216,377,3139,395,3054,420,2966,455,2878,501,2796,528,2758,559,2723,584,2702,588,2707,563,2727,532,2761,505,2799,460,2881,425,2968,400,3056,382,3140,371,3216,363,3328"/>
+<area shape="rect" id="Node000032" href="$classmfem_1_1STRUMPACKSolverBase.html" title=" " alt="" coords="579,2736,882,2807"/>
+<area shape="poly" id="edge705_Node000029_Node000032" title=" " alt="" coords="359,3329,372,3230,385,3165,404,3093,429,3019,463,2945,506,2877,559,2817,577,2804,580,2808,563,2821,510,2880,468,2948,434,3021,409,3094,390,3166,377,3231,364,3329"/>
+<area shape="rect" id="Node000034" href="$classmfem_1_1AmgXSolver.html" title="MFEM wrapper for Nvidia&#39;s multigrid library, AmgX (github.com/NVIDIA/AMGX)" alt="" coords="641,2831,820,2861"/>
+<area shape="poly" id="edge707_Node000029_Node000034" title=" " alt="" coords="360,3328,374,3237,387,3177,407,3112,433,3046,466,2981,508,2922,559,2872,598,2851,640,2842,641,2847,600,2856,563,2876,512,2926,471,2984,437,3048,412,3114,393,3178,379,3238,365,3329"/>
+<area shape="rect" id="Node000035" href="$classmfem_1_1AuxSpaceSmoother.html" title=" " alt="" coords="611,2885,850,2916"/>
+<area shape="poly" id="edge708_Node000029_Node000035" title=" " alt="" coords="362,3328,379,3246,394,3193,414,3136,440,3078,473,3022,512,2970,559,2927,583,2912,610,2903,612,2908,586,2917,563,2931,516,2974,477,3025,445,3081,419,3138,399,3195,384,3247,367,3329"/>
+<area shape="rect" id="Node000036" href="$classmfem_1_1BatchedDirectSolver.html" title="Solve block&#45;diagonal systems using batched LU or inverses." alt="" coords="610,2940,852,2971"/>
+<area shape="poly" id="edge709_Node000029_Node000036" title=" " alt="" coords="364,3328,385,3255,422,3160,448,3110,479,3062,516,3018,559,2981,583,2968,608,2959,610,2964,585,2973,563,2986,520,3022,484,3065,453,3113,427,3162,390,3257,369,3329"/>
+<area shape="rect" id="Node000037" href="$classmfem_1_1BlockDiagonalPreconditioner.html" title="A class to handle Block diagonal preconditioners in a matrix&#45;free implementation." alt="" coords="576,2995,885,3025"/>
+<area shape="poly" id="edge710_Node000029_Node000037" title=" " alt="" coords="367,3328,391,3265,430,3185,456,3143,486,3103,521,3067,560,3036,582,3024,585,3028,562,3040,524,3071,490,3107,460,3146,435,3188,395,3267,372,3330"/>
+<area shape="rect" id="Node000038" href="$classmfem_1_1BlockILU.html" title=" " alt="" coords="656,3049,806,3080"/>
+<area shape="poly" id="edge711_Node000029_Node000038" title=" " alt="" coords="370,3328,398,3276,439,3210,493,3144,525,3115,560,3090,606,3071,655,3062,656,3068,608,3076,562,3095,528,3119,497,3148,443,3213,402,3278,375,3331"/>
+<area shape="rect" id="Node000039" href="$classmfem_1_1BlockLowerTriangularPreconditioner.html" title="A class to handle Block lower triangular preconditioners in a matrix&#45;free implementation." alt="" coords="604,3159,857,3210"/>
+<area shape="poly" id="edge712_Node000029_Node000039" title=" " alt="" coords="388,3332,463,3276,510,3246,560,3221,603,3205,605,3211,562,3226,513,3251,466,3280,391,3336"/>
+<area shape="rect" id="Node000040" href="$classmfem_1_1CPardisoSolver.html" title="MKL Parallel Direct Sparse Solver for Clusters." alt="" coords="629,3235,832,3265"/>
+<area shape="poly" id="edge713_Node000029_Node000040" title=" " alt="" coords="406,3335,477,3304,560,3275,628,3260,629,3266,562,3281,479,3309,408,3339"/>
+<area shape="rect" id="Node000041" href="$classmfem_1_1ComplexUMFPackSolver.html" title="Interface with UMFPack solver specialized for ComplexSparseMatrix This approach avoids forming a mono..." alt="" coords="590,3289,871,3320"/>
+<area shape="poly" id="edge714_Node000029_Node000041" title=" " alt="" coords="438,3345,621,3318,622,3323,439,3350"/>
+<area shape="rect" id="Node000042" href="$classmfem_1_1DGMassInverse.html" title="Solver for the discontinuous Galerkin mass matrix." alt="" coords="626,3344,835,3375"/>
+<area shape="poly" id="edge715_Node000029_Node000042" title=" " alt="" coords="439,3357,626,3357,626,3362,439,3362"/>
+<area shape="rect" id="Node000043" href="$classmfem_1_1DirectSubBlockSolver.html" title="Block diagonal solver for A, each block is inverted by direct solver." alt="" coords="604,3104,857,3135"/>
+<area shape="poly" id="edge716_Node000029_Node000043" title=" " alt="" coords="375,3330,405,3288,447,3237,499,3186,529,3164,560,3145,603,3128,605,3133,562,3150,532,3168,503,3190,451,3240,409,3291,379,3333"/>
+<area shape="rect" id="Node000045" href="$classmfem_1_1ElasticityDiagonalPreconditioner.html" title="ElasticityDiagonalPreconditioner acts as a matrix&#45;free preconditioner for ElasticityOperator." alt="" coords="620,3474,841,3525"/>
+<area shape="poly" id="edge718_Node000029_Node000045" title=" " alt="" coords="400,3380,474,3421,562,3459,621,3477,619,3482,560,3465,471,3426,397,3385"/>
+<area shape="rect" id="Node000046" href="$classmfem_1_1GeneralAMS.html" title="Perform AMS cycle with generic Operator objects." alt="" coords="639,3549,822,3580"/>
+<area shape="poly" id="edge719_Node000029_Node000046" title=" " alt="" coords="384,3385,415,3420,457,3461,507,3501,562,3534,600,3548,639,3556,638,3562,598,3553,560,3539,504,3506,454,3465,411,3424,380,3388"/>
+<area shape="rect" id="Node000047" href="$classmfem_1_1Ginkgo_1_1GinkgoIterativeSolver.html" title=" " alt="" coords="596,3399,865,3450"/>
+<area shape="poly" id="edge720_Node000029_Node000047" title=" " alt="" coords="439,3371,597,3399,596,3404,438,3376"/>
+<area shape="rect" id="Node000063" href="$classmfem_1_1Ginkgo_1_1GinkgoPreconditioner.html" title=" " alt="" coords="570,3604,891,3635"/>
+<area shape="poly" id="edge736_Node000029_Node000063" title=" " alt="" coords="377,3386,406,3433,448,3489,500,3545,530,3570,562,3590,586,3601,584,3606,560,3595,527,3574,497,3549,444,3492,402,3436,373,3389"/>
+<area shape="rect" id="Node000070" href="$classmfem_1_1HdivSaddlePointSolver.html" title="Solve the H(div) saddle&#45;point system using MINRES with matrix&#45;free block&#45;diagonal preconditioning." alt="" coords="600,3659,862,3689"/>
+<area shape="poly" id="edge743_Node000029_Node000070" title=" " alt="" coords="374,3388,399,3445,440,3516,465,3552,494,3587,527,3619,562,3645,600,3662,598,3667,560,3650,523,3623,490,3591,461,3555,435,3519,395,3447,369,3390"/>
+<area shape="rect" id="Node000071" href="$classmfem_1_1HypreSmoother.html" title="Parallel smoothers in hypre." alt="" coords="628,3713,833,3744"/>
+<area shape="poly" id="edge744_Node000029_Node000071" title=" " alt="" coords="370,3389,393,3455,431,3541,457,3586,488,3628,523,3667,562,3700,594,3715,628,3724,627,3730,592,3720,560,3704,519,3671,483,3632,453,3588,427,3544,388,3457,365,3391"/>
+<area shape="rect" id="Node000072" href="$classmfem_1_1HypreSolver.html" title="Abstract class for hypre&#39;s solvers and preconditioners." alt="" coords="642,3768,819,3799"/>
+<area shape="poly" id="edge745_Node000029_Node000072" title=" " alt="" coords="368,3389,387,3465,424,3566,449,3618,481,3669,518,3715,562,3754,600,3773,642,3782,641,3787,599,3778,560,3759,515,3719,477,3672,445,3621,419,3568,382,3467,363,3390"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1IterativeSolver.html" title="Abstract base class for iterative solver." alt="" coords="634,2565,827,2596"/>
+<area shape="poly" id="edge758_Node000029_Node000009" title=" " alt="" coords="363,3328,397,3166,450,2937,508,2723,535,2648,548,2622,559,2607,594,2586,633,2576,634,2581,596,2591,563,2611,552,2625,540,2650,513,2724,455,2938,403,3167,368,3329"/>
+<area shape="rect" id="Node000085" href="$classmfem_1_1KLUSolver.html" title="Direct sparse solver using KLU." alt="" coords="648,3823,813,3853"/>
+<area shape="poly" id="edge782_Node000029_Node000085" title=" " alt="" coords="366,3389,382,3475,396,3530,416,3590,442,3651,474,3710,514,3764,563,3809,582,3821,603,3830,649,3838,648,3843,602,3835,580,3826,559,3813,510,3767,470,3713,437,3653,411,3592,391,3532,377,3476,361,3390"/>
+<area shape="rect" id="Node000086" href="$classmfem_1_1LORSolver.html" title="Represents a solver of type SolverType created using the low&#45;order refined version of the given Bilin..." alt="" coords="586,3877,876,3908"/>
+<area shape="poly" id="edge783_Node000029_Node000086" title=" " alt="" coords="364,3390,377,3484,390,3546,409,3614,434,3683,468,3750,510,3812,563,3864,587,3878,584,3883,559,3868,506,3815,463,3753,429,3685,403,3616,385,3548,372,3485,359,3390"/>
+<area shape="rect" id="Node000087" href="$classmfem_1_1LORSolver_3_01HypreADS_01_4.html" title=" " alt="" coords="588,3932,873,3963"/>
+<area shape="poly" id="edge784_Node000029_Node000087" title=" " alt="" coords="363,3390,372,3493,384,3562,401,3638,427,3715,461,3791,506,3860,533,3891,563,3919,590,3935,587,3939,559,3923,529,3894,502,3863,456,3793,422,3717,396,3639,378,3563,367,3494,358,3390"/>
+<area shape="rect" id="Node000088" href="$classmfem_1_1LORSolver_3_01HypreAMS_01_4.html" title=" " alt="" coords="587,3987,874,4017"/>
+<area shape="poly" id="edge785_Node000029_Node000088" title=" " alt="" coords="362,3390,368,3502,378,3578,394,3662,419,3747,454,3831,477,3870,502,3908,530,3942,563,3973,588,3989,585,3994,559,3977,527,3946,497,3911,472,3873,450,3833,414,3749,389,3663,372,3579,363,3503,357,3390"/>
+<area shape="rect" id="Node000089" href="$classmfem_1_1MUMPSSolver.html" title="MUMPS: A Parallel Sparse Direct Solver." alt="" coords="632,4041,830,4072"/>
+<area shape="poly" id="edge786_Node000029_Node000089" title=" " alt="" coords="367,3390,392,3528,435,3722,462,3820,493,3909,527,3981,545,4008,563,4028,595,4047,632,4057,630,4062,593,4052,559,4032,540,4011,522,3983,488,3911,457,3821,430,3723,387,3529,362,3391"/>
+<area shape="rect" id="Node000090" href="$classmfem_1_1MatrixFreeAMS.html" title="An auxiliary Maxwell solver for a high&#45;order curl&#45;curl system without high&#45;order assembly." alt="" coords="628,4096,833,4127"/>
+<area shape="poly" id="edge787_Node000029_Node000090" title=" " alt="" coords="366,3390,389,3538,431,3748,458,3855,490,3952,525,4031,543,4061,563,4083,593,4101,628,4111,627,4116,591,4106,559,4087,539,4064,520,4034,485,3954,453,3857,426,3749,384,3539,361,3391"/>
+<area shape="rect" id="Node000091" href="$classmfem_1_1MatrixFreeAuxiliarySpace.html" title="Auxiliary space solvers for MatrixFreeAMS preconditioner." alt="" coords="614,4151,847,4202"/>
+<area shape="poly" id="edge788_Node000029_Node000091" title=" " alt="" coords="366,3390,388,3547,429,3773,456,3888,488,3994,523,4080,543,4113,563,4137,587,4155,615,4166,613,4171,584,4159,559,4141,538,4116,519,4083,483,3996,451,3890,424,3774,383,3547,361,3390"/>
+<area shape="rect" id="Node000092" href="$classmfem_1_1MatrixInverse.html" title="Abstract data type for matrix inverse." alt="" coords="637,4227,824,4257"/>
+<area shape="poly" id="edge789_Node000029_Node000092" title=" " alt="" coords="365,3390,384,3561,401,3681,422,3810,449,3938,482,4055,520,4150,541,4186,563,4212,579,4224,597,4233,637,4243,636,4248,595,4238,576,4229,559,4216,536,4189,515,4152,477,4057,444,3939,417,3811,396,3682,379,3562,360,3391"/>
+<area shape="rect" id="Node000097" href="$classmfem_1_1MultigridBase.html" title="Abstract base class for Multigrid solvers." alt="" coords="636,2511,825,2541"/>
+<area shape="poly" id="edge794_Node000029_Node000097" title=" " alt="" coords="364,3328,462,2897,520,2666,543,2588,559,2552,576,2539,595,2530,635,2520,637,2525,597,2535,579,2544,563,2556,548,2590,525,2667,467,2898,369,3329"/>
+<area shape="rect" id="Node000101" href="$classmfem_1_1NNLSSolver.html" title=" " alt="" coords="642,4357,819,4388"/>
+<area shape="poly" id="edge798_Node000029_Node000101" title=" " alt="" coords="364,3390,379,3584,394,3723,414,3873,440,4022,474,4158,493,4218,514,4269,538,4312,563,4343,580,4356,599,4365,642,4374,641,4380,598,4370,577,4360,559,4347,533,4315,510,4272,488,4220,469,4160,435,4023,409,3874,388,3724,374,3585,359,3391"/>
+<area shape="rect" id="Node000102" href="$classmfem_1_1OperatorChebyshevSmoother.html" title="Chebyshev accelerated smoothing with given vector, no matrix necessary." alt="" coords="571,4412,890,4443"/>
+<area shape="poly" id="edge799_Node000029_Node000102" title=" " alt="" coords="364,3390,377,3594,391,3740,410,3900,436,4058,470,4203,490,4266,512,4321,536,4366,563,4399,576,4409,573,4413,559,4403,532,4369,507,4323,485,4268,465,4204,431,4059,405,3900,385,3741,372,3594,358,3390"/>
+<area shape="rect" id="Node000103" href="$classmfem_1_1OperatorJacobiSmoother.html" title="Jacobi smoothing for a given bilinear form (no matrix necessary)." alt="" coords="590,4467,871,4497"/>
+<area shape="poly" id="edge800_Node000029_Node000103" title=" " alt="" coords="363,3390,375,3603,388,3757,407,3925,432,4093,466,4246,487,4313,510,4371,535,4418,563,4453,591,4472,588,4477,559,4457,531,4421,505,4373,482,4314,461,4247,427,4093,401,3926,382,3757,370,3603,358,3390"/>
+<area shape="rect" id="Node000104" href="$classmfem_1_1OrthoSolver.html" title="Solver wrapper which orthogonalizes the input and output vector." alt="" coords="643,4521,818,4552"/>
+<area shape="poly" id="edge801_Node000029_Node000104" title=" " alt="" coords="363,3390,373,3613,385,3775,403,3951,429,4128,463,4289,484,4360,508,4421,534,4471,563,4508,580,4521,600,4530,643,4540,642,4545,598,4535,577,4526,559,4512,529,4474,503,4423,479,4361,458,4291,424,4129,398,3952,380,3775,368,3613,358,3390"/>
+<area shape="rect" id="Node000105" href="$classmfem_1_1PardisoSolver.html" title="MKL Parallel Direct Sparse Solver PARDISO." alt="" coords="636,4576,826,4607"/>
+<area shape="poly" id="edge802_Node000029_Node000105" title=" " alt="" coords="365,3390,392,3637,439,4012,467,4202,498,4370,531,4496,547,4538,563,4563,578,4575,596,4584,636,4594,635,4599,594,4589,576,4580,559,4566,542,4540,526,4498,493,4371,462,4203,433,4013,386,3638,360,3390"/>
+<area shape="rect" id="Node000106" href="$classmfem_1_1PetscLinearSolver.html" title="Abstract class for PETSc&#39;s linear solvers." alt="" coords="618,987,843,1017"/>
+<area shape="poly" id="edge803_Node000029_Node000106" title=" " alt="" coords="366,3329,396,3224,437,3065,478,2877,510,2682,514,2395,516,1847,520,1558,527,1303,539,1115,548,1057,559,1027,586,1007,617,996,619,1001,588,1011,563,1030,553,1058,545,1116,532,1303,525,1558,521,1847,519,2395,516,2682,483,2878,442,3067,401,3225,371,3330"/>
+<area shape="rect" id="Node000109" href="$classmfem_1_1PetscNonlinearSolver.html" title="Abstract class for PETSc&#39;s nonlinear solvers." alt="" coords="605,1096,856,1127"/>
+<area shape="poly" id="edge805_Node000029_Node000109" title=" " alt="" coords="366,3329,396,3224,436,3065,478,2877,510,2682,514,2414,517,1903,521,1633,529,1396,541,1220,549,1166,559,1138,579,1120,603,1110,606,1114,582,1125,563,1141,554,1167,546,1221,534,1396,527,1633,523,1903,520,2414,516,2682,483,2878,442,3067,401,3225,371,3330"/>
+<area shape="rect" id="Node000111" href="$classmfem_1_1PetscPreconditioner.html" title="Abstract class for PETSc&#39;s preconditioners." alt="" coords="611,1041,850,1072"/>
+<area shape="poly" id="edge806_Node000029_Node000111" title=" " alt="" coords="366,3329,396,3224,436,3065,478,2877,510,2682,514,2404,517,1875,520,1595,528,1349,540,1167,548,1111,559,1082,582,1063,610,1052,612,1057,585,1068,563,1085,553,1112,545,1168,533,1349,526,1595,522,1875,520,2404,516,2682,483,2878,442,3067,401,3225,371,3330"/>
+<area shape="rect" id="Node000115" href="$classmfem_1_1ProductSolver.html" title=" " alt="" coords="635,4631,826,4661"/>
+<area shape="poly" id="edge810_Node000029_Node000115" title=" " alt="" coords="366,3390,401,3655,457,4058,517,4434,543,4561,554,4599,563,4618,578,4630,596,4639,635,4648,634,4654,594,4644,575,4634,559,4621,549,4601,538,4562,512,4435,452,4059,395,3655,361,3390"/>
+<area shape="rect" id="Node000116" href="$classmfem_1_1STRUMPACKSolverBase.html" title=" " alt="" coords="588,2046,873,2097"/>
+<area shape="poly" id="edge811_Node000029_Node000116" title=" " alt="" coords="365,3329,433,3065,475,2876,510,2682,516,2572,522,2390,534,2209,545,2144,551,2121,559,2107,586,2085,590,2089,563,2110,556,2123,550,2145,540,2210,528,2390,521,2573,516,2682,480,2877,438,3066,371,3330"/>
+<area shape="rect" id="Node000117" href="$classmfem_1_1SuperLUSolver.html" title=" " alt="" coords="630,2121,831,2152"/>
+<area shape="poly" id="edge812_Node000029_Node000117" title=" " alt="" coords="365,3329,432,3065,474,2876,510,2682,514,2630,514,2565,511,2411,513,2334,520,2263,534,2204,545,2180,559,2162,574,2149,592,2139,629,2129,631,2134,594,2144,577,2153,563,2165,550,2183,539,2206,525,2264,518,2335,517,2411,520,2565,520,2630,516,2682,480,2877,438,3066,370,3330"/>
+<area shape="rect" id="Node000118" href="$classmfem_1_1UMFPackSolver.html" title="Direct sparse solver using UMFPACK." alt="" coords="626,2176,835,2207"/>
+<area shape="poly" id="edge813_Node000029_Node000118" title=" " alt="" coords="365,3329,432,3065,474,2876,510,2682,514,2636,515,2577,514,2441,516,2372,523,2309,537,2256,547,2234,559,2217,589,2196,625,2185,626,2190,592,2201,563,2221,551,2237,542,2258,529,2310,522,2372,519,2441,520,2577,520,2636,516,2682,479,2877,437,3066,370,3330"/>
+<area shape="rect" id="Node000119" href="$classmfem_1_1blocksolvers_1_1BBTSolver.html" title=" " alt="" coords="642,2231,819,2282"/>
+<area shape="poly" id="edge814_Node000029_Node000119" title=" " alt="" coords="365,3329,430,3064,473,2876,510,2682,516,2594,518,2480,521,2422,528,2369,540,2325,559,2292,577,2277,597,2266,641,2254,642,2259,599,2271,580,2281,563,2296,545,2327,534,2370,527,2423,523,2480,521,2594,516,2682,478,2877,436,3066,370,3330"/>
+<area shape="rect" id="Node000120" href="$classmfem_1_1blocksolvers_1_1DarcySolver.html" title="Abstract solver class for Darcy&#39;s flow." alt="" coords="642,4282,819,4333"/>
+<area shape="poly" id="edge815_Node000029_Node000120" title=" " alt="" coords="365,3390,383,3570,399,3698,420,3836,447,3973,480,4098,498,4152,518,4200,540,4239,563,4268,580,4282,599,4292,642,4304,641,4309,597,4297,577,4286,559,4272,535,4242,514,4202,493,4154,475,4099,442,3974,415,3836,394,3699,378,3571,359,3391"/>
+<area shape="rect" id="Node000124" href="$classmfem_1_1blocksolvers_1_1LocalSolver.html" title="Solver for local problems in SaddleSchwarzSmoother." alt="" coords="642,2306,819,2357"/>
+<area shape="poly" id="edge819_Node000029_Node000124" title=" " alt="" coords="365,3328,429,3063,471,2875,510,2682,517,2611,521,2518,532,2429,543,2393,559,2367,577,2352,597,2341,641,2329,642,2334,599,2346,580,2356,563,2370,548,2395,538,2430,527,2519,522,2611,516,2682,476,2876,434,3065,370,3329"/>
+<area shape="rect" id="Node000125" href="$classmfem_1_1blocksolvers_1_1SaddleSchwarzSmoother.html" title=" " alt="" coords="613,2381,848,2431"/>
+<area shape="poly" id="edge820_Node000029_Node000125" title=" " alt="" coords="364,3328,426,3063,510,2682,516,2645,517,2611,515,2553,516,2526,522,2499,536,2471,559,2443,583,2424,611,2412,614,2417,586,2429,563,2447,541,2474,527,2500,521,2526,520,2553,522,2611,521,2645,516,2682,431,3064,369,3329"/>
+<area shape="rect" id="Node000126" href="$classmfem_1_1ceed_1_1AlgebraicSolver.html" title="Wrapper for AlgebraicMultigrid object." alt="" coords="604,2456,857,2487"/>
+<area shape="poly" id="edge821_Node000029_Node000126" title=" " alt="" coords="364,3328,471,2859,530,2610,559,2498,579,2483,602,2473,604,2478,582,2487,563,2501,535,2611,476,2860,369,3329"/>
+<area shape="rect" id="Node000031" href="$classmfem_1_1STRUMPACKMixedPrecisionSolver.html" title=" " alt="" coords="953,2650,1268,2701"/>
+<area shape="poly" id="edge704_Node000030_Node000031" title=" " alt="" coords="890,2667,952,2669,952,2674,890,2673"/>
+<area shape="rect" id="Node000033" href="$classmfem_1_1STRUMPACKSolver.html" title=" " alt="" coords="989,2725,1232,2756"/>
+<area shape="poly" id="edge706_Node000032_Node000033" title=" " alt="" coords="897,2755,988,2748,989,2753,898,2761"/>
+<area shape="rect" id="Node000044" href="$classmfem_1_1blocksolvers_1_1SymDirectSubBlockSolver.html" title="Block diagonal solver for symmetric A, each block is inverted by direct solver." alt="" coords="989,2781,1232,2831"/>
+<area shape="poly" id="edge717_Node000043_Node000044" title=" " alt="" coords="870,3110,898,3091,920,3062,928,3032,928,3002,923,2970,918,2938,917,2906,925,2874,946,2843,966,2827,988,2816,990,2821,969,2832,950,2846,930,2877,922,2907,923,2938,928,2969,933,3001,934,3033,925,3064,902,3095,873,3114"/>
+<area shape="rect" id="Node000048" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,3329,1241,3400"/>
+<area shape="poly" id="edge721_Node000047_Node000048" title=" " alt="" coords="880,3398,980,3383,980,3388,880,3404"/>
+<area shape="rect" id="Node000050" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="978,3500,1243,3571"/>
+<area shape="poly" id="edge723_Node000047_Node000050" title=" " alt="" coords="880,3452,901,3460,926,3472,949,3485,982,3497,980,3502,947,3490,923,3477,899,3464,879,3457"/>
+<area shape="rect" id="Node000052" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,2856,1241,2927"/>
+<area shape="poly" id="edge725_Node000047_Node000052" title=" " alt="" coords="877,3403,898,3385,919,3358,933,3331,941,3303,943,3276,938,3221,924,3166,909,3110,903,3053,905,3025,912,2996,926,2967,946,2938,961,2923,978,2912,981,2916,964,2927,950,2941,930,2969,917,2998,910,3025,908,3053,915,3109,929,3164,943,3220,949,3276,946,3304,938,3333,924,3361,902,3389,880,3407"/>
+<area shape="rect" id="Node000054" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,2951,1241,3021"/>
+<area shape="poly" id="edge727_Node000047_Node000054" title=" " alt="" coords="877,3403,898,3385,915,3364,927,3343,933,3321,936,3300,933,3256,923,3213,914,3168,910,3124,912,3101,919,3078,930,3055,946,3032,978,3007,982,3011,950,3036,934,3058,924,3080,917,3102,915,3124,919,3168,929,3212,938,3256,941,3300,938,3322,931,3345,920,3367,902,3389,880,3407"/>
+<area shape="rect" id="Node000056" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,3045,1241,3116"/>
+<area shape="poly" id="edge729_Node000047_Node000056" title=" " alt="" coords="877,3402,898,3385,920,3355,928,3323,928,3292,923,3259,918,3227,917,3194,925,3160,946,3127,978,3103,981,3107,950,3130,930,3162,922,3194,923,3226,928,3259,933,3291,934,3324,925,3357,902,3389,881,3406"/>
+<area shape="rect" id="Node000058" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,3140,1241,3211"/>
+<area shape="poly" id="edge731_Node000047_Node000058" title=" " alt="" coords="877,3401,898,3385,914,3366,921,3347,922,3306,923,3264,931,3242,946,3221,978,3198,982,3203,950,3225,936,3245,929,3265,928,3306,926,3348,918,3369,902,3389,880,3405"/>
+<area shape="rect" id="Node000060" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,3235,1241,3305"/>
+<area shape="poly" id="edge733_Node000047_Node000060" title=" " alt="" coords="878,3397,899,3385,914,3369,922,3352,930,3334,947,3316,979,3298,981,3302,950,3320,935,3337,927,3354,919,3372,902,3389,880,3402"/>
+<area shape="rect" id="Node000062" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="980,3425,1241,3475"/>
+<area shape="poly" id="edge735_Node000047_Node000062" title=" " alt="" coords="880,3432,980,3439,980,3444,880,3437"/>
+<area shape="rect" id="Node000049" href="$classmfem_1_1Ginkgo_1_1BICGSTABSolver.html" title=" " alt="" coords="1323,3349,1612,3380"/>
+<area shape="poly" id="edge722_Node000048_Node000049" title=" " alt="" coords="1256,3362,1323,3362,1323,3367,1256,3367"/>
+<area shape="rect" id="Node000051" href="$classmfem_1_1Ginkgo_1_1CBGMRESSolver.html" title=" " alt="" coords="1323,3520,1613,3551"/>
+<area shape="poly" id="edge724_Node000050_Node000051" title=" " alt="" coords="1258,3533,1322,3533,1322,3538,1258,3538"/>
+<area shape="rect" id="Node000053" href="$classmfem_1_1Ginkgo_1_1CGSSolver.html" title=" " alt="" coords="1349,2876,1586,2907"/>
+<area shape="poly" id="edge726_Node000052_Node000053" title=" " alt="" coords="1256,2889,1349,2889,1349,2894,1256,2894"/>
+<area shape="rect" id="Node000055" href="$classmfem_1_1Ginkgo_1_1CGSolver.html" title=" " alt="" coords="1355,2971,1580,3001"/>
+<area shape="poly" id="edge728_Node000054_Node000055" title=" " alt="" coords="1256,2983,1355,2983,1355,2989,1256,2989"/>
+<area shape="rect" id="Node000057" href="$classmfem_1_1Ginkgo_1_1FCGSolver.html" title=" " alt="" coords="1350,3065,1586,3096"/>
+<area shape="poly" id="edge730_Node000056_Node000057" title=" " alt="" coords="1256,3078,1349,3078,1349,3083,1256,3083"/>
+<area shape="rect" id="Node000059" href="$classmfem_1_1Ginkgo_1_1GMRESSolver.html" title=" " alt="" coords="1335,3160,1600,3191"/>
+<area shape="poly" id="edge732_Node000058_Node000059" title=" " alt="" coords="1256,3173,1335,3173,1335,3178,1256,3178"/>
+<area shape="rect" id="Node000061" href="$classmfem_1_1Ginkgo_1_1IRSolver.html" title=" " alt="" coords="1360,3255,1576,3285"/>
+<area shape="poly" id="edge734_Node000060_Node000061" title=" " alt="" coords="1256,3267,1360,3267,1360,3273,1256,3273"/>
+<area shape="rect" id="Node000064" href="$classmfem_1_1Ginkgo_1_1IcIsaiPreconditioner.html" title=" " alt="" coords="958,3595,1263,3625"/>
+<area shape="poly" id="edge737_Node000063_Node000064" title=" " alt="" coords="906,3612,958,3611,958,3616,907,3618"/>
+<area shape="rect" id="Node000065" href="$classmfem_1_1Ginkgo_1_1IcPreconditioner.html" title=" " alt="" coords="972,3649,1249,3680"/>
+<area shape="poly" id="edge738_Node000063_Node000065" title=" " alt="" coords="880,3634,976,3646,976,3651,880,3640"/>
+<area shape="rect" id="Node000066" href="$classmfem_1_1Ginkgo_1_1IluIsaiPreconditioner.html" title=" " alt="" coords="956,3704,1265,3735"/>
+<area shape="poly" id="edge739_Node000063_Node000066" title=" " alt="" coords="885,3638,902,3645,917,3656,926,3668,935,3680,950,3690,976,3701,974,3706,947,3695,932,3684,922,3672,913,3660,899,3650,883,3643"/>
+<area shape="rect" id="Node000067" href="$classmfem_1_1Ginkgo_1_1IluPreconditioner.html" title=" " alt="" coords="970,3759,1251,3789"/>
+<area shape="poly" id="edge740_Node000063_Node000067" title=" " alt="" coords="895,3641,902,3645,914,3657,921,3670,927,3697,932,3722,939,3734,950,3745,971,3758,968,3762,947,3749,934,3737,927,3724,922,3698,916,3672,910,3661,899,3649,892,3645"/>
+<area shape="rect" id="Node000068" href="$classmfem_1_1Ginkgo_1_1JacobiPreconditioner.html" title=" " alt="" coords="953,3813,1268,3844"/>
+<area shape="poly" id="edge741_Node000063_Node000068" title=" " alt="" coords="897,3641,902,3645,918,3664,926,3684,927,3725,928,3764,935,3782,950,3800,965,3811,962,3815,947,3804,931,3785,923,3765,922,3725,920,3685,913,3667,898,3649,894,3646"/>
+<area shape="rect" id="Node000069" href="$classmfem_1_1Ginkgo_1_1MFEMPreconditioner.html" title=" " alt="" coords="952,3868,1269,3899"/>
+<area shape="poly" id="edge742_Node000063_Node000069" title=" " alt="" coords="898,3642,902,3646,922,3671,930,3698,930,3725,927,3752,924,3779,924,3805,932,3830,950,3855,964,3865,961,3870,946,3859,927,3833,919,3806,918,3779,922,3752,925,3725,925,3699,917,3674,898,3649,895,3646"/>
+<area shape="rect" id="Node000073" href="$classmfem_1_1HypreADS.html" title="The Auxiliary&#45;space Divergence Solver in hypre." alt="" coords="1029,4251,1192,4281"/>
+<area shape="poly" id="edge746_Node000072_Node000073" title=" " alt="" coords="835,3777,871,3788,902,3809,923,3836,937,3863,945,3890,948,3917,941,3972,927,4026,913,4080,906,4133,909,4160,916,4186,930,4212,950,4237,967,4251,986,4260,1029,4269,1028,4274,984,4265,964,4255,946,4241,925,4215,911,4188,904,4161,901,4133,907,4079,922,4025,936,3971,942,3917,940,3891,932,3865,919,3839,899,3813,869,3793,834,3782"/>
+<area shape="rect" id="Node000074" href="$classmfem_1_1HypreAMS.html" title="The Auxiliary&#45;space Maxwell Solver in hypre." alt="" coords="1027,4305,1194,4336"/>
+<area shape="poly" id="edge747_Node000072_Node000074" title=" " alt="" coords="836,3777,872,3788,902,3809,915,3828,923,3851,931,3909,931,3978,927,4053,923,4128,923,4196,931,4253,939,4275,950,4292,966,4305,985,4315,1027,4324,1026,4329,983,4320,964,4310,946,4296,934,4278,926,4255,917,4197,918,4127,922,4053,926,3978,926,3909,918,3852,910,3830,898,3813,869,3793,834,3782"/>
+<area shape="rect" id="Node000075" href="$classmfem_1_1HypreBoomerAMG.html" title="The BoomerAMG solver in hypre." alt="" coords="994,4360,1227,4391"/>
+<area shape="poly" id="edge748_Node000072_Node000075" title=" " alt="" coords="835,3777,871,3788,902,3809,916,3830,925,3855,933,3920,933,3997,927,4080,921,4163,921,4240,929,4303,938,4328,950,4347,970,4363,994,4373,992,4377,968,4367,946,4350,933,4330,924,4305,915,4240,916,4163,922,4080,927,3997,928,3920,920,3857,911,3832,898,3813,869,3793,834,3782"/>
+<area shape="rect" id="Node000076" href="$classmfem_1_1HypreDiagScale.html" title="Jacobi preconditioner in hypre." alt="" coords="1006,4415,1215,4445"/>
+<area shape="poly" id="edge749_Node000072_Node000076" title=" " alt="" coords="835,3777,872,3788,902,3809,917,3832,927,3860,936,3931,934,4016,927,4108,920,4199,918,4283,927,4353,936,4381,950,4401,976,4420,1007,4430,1005,4435,973,4425,946,4405,932,4383,922,4355,913,4284,915,4199,922,4107,929,4016,930,3931,922,3861,912,3834,898,3813,869,3792,834,3782"/>
+<area shape="rect" id="Node000077" href="$classmfem_1_1HypreEuclid.html" title=" " alt="" coords="1023,4469,1198,4500"/>
+<area shape="poly" id="edge750_Node000072_Node000077" title=" " alt="" coords="835,3777,872,3788,902,3809,918,3834,929,3865,935,3901,938,3942,935,4035,927,4135,919,4235,916,4327,919,4368,925,4403,935,4433,950,4456,965,4469,983,4478,1023,4488,1022,4493,981,4483,962,4473,946,4460,930,4436,920,4405,913,4368,911,4327,913,4235,922,4134,930,4035,932,3942,930,3902,924,3866,913,3836,898,3813,869,3792,834,3782"/>
+<area shape="rect" id="Node000078" href="$classmfem_1_1HypreFGMRES.html" title="Flexible GMRES solver in hypre." alt="" coords="1008,4524,1213,4555"/>
+<area shape="poly" id="edge751_Node000072_Node000078" title=" " alt="" coords="836,3777,872,3788,902,3809,919,3836,931,3869,937,3909,940,3953,937,4054,927,4162,917,4271,914,4371,917,4415,923,4453,934,4486,950,4511,976,4530,1008,4540,1006,4545,974,4535,946,4514,929,4488,918,4455,911,4415,909,4371,912,4270,922,4162,931,4053,935,3953,932,3909,926,3871,915,3838,898,3813,869,3792,834,3782"/>
+<area shape="rect" id="Node000079" href="$classmfem_1_1HypreGMRES.html" title="GMRES solver in hypre." alt="" coords="1013,3923,1208,3953"/>
+<area shape="poly" id="edge752_Node000072_Node000079" title=" " alt="" coords="835,3782,870,3792,902,3809,914,3821,921,3834,927,3861,932,3886,939,3898,950,3909,980,3925,1014,3935,1012,3940,978,3930,947,3913,934,3901,927,3888,922,3862,916,3836,910,3825,899,3813,868,3797,834,3787"/>
+<area shape="rect" id="Node000080" href="$classmfem_1_1HypreILU.html" title="Wrapper for Hypre&#39;s native parallel ILU preconditioner." alt="" coords="1033,3977,1188,4008"/>
+<area shape="poly" id="edge753_Node000072_Node000080" title=" " alt="" coords="836,3780,871,3790,902,3809,918,3828,926,3848,927,3889,928,3928,935,3946,950,3964,968,3976,989,3985,1033,3994,1032,3999,987,3990,966,3981,947,3968,931,3949,923,3929,922,3889,920,3849,913,3831,899,3813,869,3795,834,3785"/>
+<area shape="rect" id="Node000081" href="$classmfem_1_1HypreIdentity.html" title="The identity operator as a hypre solver." alt="" coords="1018,4032,1203,4063"/>
+<area shape="poly" id="edge754_Node000072_Node000081" title=" " alt="" coords="835,3779,871,3789,902,3809,922,3835,930,3862,930,3889,927,3916,924,3943,924,3969,932,3994,950,4019,982,4038,1018,4048,1017,4053,980,4043,947,4023,927,3997,919,3970,918,3943,922,3916,925,3889,925,3863,917,3838,899,3813,869,3794,834,3784"/>
+<area shape="rect" id="Node000082" href="$classmfem_1_1HyprePCG.html" title="PCG solver in hypre." alt="" coords="1027,4087,1194,4117"/>
+<area shape="poly" id="edge755_Node000072_Node000082" title=" " alt="" coords="836,3778,871,3789,902,3809,926,3842,934,3876,933,3910,927,3944,921,3977,920,4010,928,4042,950,4073,967,4086,986,4095,1027,4104,1026,4109,984,4100,964,4091,946,4077,923,4045,914,4011,916,3977,922,3943,928,3909,929,3876,921,3844,898,3813,869,3794,834,3783"/>
+<area shape="rect" id="Node000083" href="$classmfem_1_1HypreParaSails.html" title="The ParaSails preconditioner in hypre." alt="" coords="1009,4141,1212,4172"/>
+<area shape="poly" id="edge756_Node000072_Node000083" title=" " alt="" coords="836,3778,871,3788,902,3809,919,3829,930,3849,939,3890,936,3930,927,3971,918,4012,915,4051,924,4090,935,4109,950,4128,977,4147,1009,4157,1007,4162,975,4151,947,4132,930,4112,919,4092,910,4052,913,4011,922,3970,931,3930,933,3890,925,3851,914,3832,899,3813,869,3793,834,3783"/>
+<area shape="rect" id="Node000084" href="$classmfem_1_1HypreTriSolve.html" title=" " alt="" coords="1014,4196,1207,4227"/>
+<area shape="poly" id="edge757_Node000072_Node000084" title=" " alt="" coords="835,3777,871,3788,902,3809,921,3833,933,3856,941,3880,943,3904,939,3951,927,3999,915,4046,911,4092,913,4115,920,4138,932,4160,950,4183,979,4203,1015,4212,1013,4218,977,4207,947,4187,928,4163,915,4140,908,4116,906,4092,910,4045,922,3997,933,3950,938,3904,935,3881,928,3858,917,3836,899,3813,869,3793,834,3783"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1BiCGSTABSolver.html" title="BiCGSTAB method." alt="" coords="1000,2485,1221,2516"/>
+<area shape="poly" id="edge759_Node000009_Node000010" title=" " alt="" coords="842,2566,899,2552,923,2539,947,2526,999,2512,1001,2518,949,2531,926,2544,901,2556,843,2571"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1CGSolver.html" title="Conjugate gradient method." alt="" coords="1032,2540,1189,2571"/>
+<area shape="poly" id="edge760_Node000009_Node000011" title=" " alt="" coords="843,2571,1031,2558,1032,2563,843,2576"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1ConstrainedSolver.html" title="An abstract class to solve the constrained system &#160;subject to the constraint ." alt="" coords="997,2595,1224,2625"/>
+<area shape="poly" id="edge761_Node000009_Node000012" title=" " alt="" coords="843,2587,997,2599,997,2604,842,2592"/>
+<area shape="rect" id="Node000021" href="$classmfem_1_1FGMRESSolver.html" title="FGMRES method." alt="" coords="1006,2081,1215,2112"/>
+<area shape="poly" id="edge770_Node000009_Node000021" title=" " alt="" coords="842,2581,873,2571,898,2552,919,2526,933,2500,940,2474,943,2448,936,2394,922,2340,907,2285,901,2230,903,2203,911,2175,925,2148,946,2121,974,2102,1005,2092,1007,2097,976,2107,950,2125,930,2151,916,2177,909,2204,906,2230,913,2284,927,2338,942,2393,948,2448,945,2475,938,2502,924,2529,902,2556,875,2575,844,2586"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1GMRESSolver.html" title="GMRES method." alt="" coords="1012,2136,1209,2167"/>
+<area shape="poly" id="edge771_Node000009_Node000022" title=" " alt="" coords="842,2581,873,2570,899,2552,917,2530,929,2507,936,2484,938,2461,934,2414,922,2367,910,2319,905,2271,908,2247,915,2223,928,2199,947,2176,976,2156,1011,2146,1012,2151,978,2161,950,2180,932,2202,920,2225,913,2248,911,2271,915,2318,927,2366,939,2413,944,2461,941,2485,934,2509,921,2533,902,2556,875,2575,844,2586"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1MINRESSolver.html" title="MINRES method." alt="" coords="1010,2245,1211,2276"/>
+<area shape="poly" id="edge772_Node000009_Node000023" title=" " alt="" coords="842,2580,872,2570,898,2552,921,2521,929,2488,928,2455,922,2421,916,2387,914,2353,923,2318,946,2285,976,2266,1009,2256,1011,2261,978,2271,950,2289,928,2321,919,2353,921,2386,927,2420,933,2455,935,2489,926,2523,902,2556,875,2575,843,2585"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1NewtonSolver.html" title="Newton&#39;s method for solving F(x)=b for a given operator F." alt="" coords="1015,2191,1206,2221"/>
+<area shape="poly" id="edge773_Node000009_Node000006" title=" " alt="" coords="842,2581,873,2570,899,2552,914,2533,925,2514,934,2475,931,2435,922,2394,913,2353,910,2312,919,2271,930,2251,947,2231,978,2210,1014,2200,1016,2205,980,2215,950,2235,934,2254,924,2273,915,2312,918,2352,927,2393,936,2434,939,2475,930,2516,919,2536,902,2556,875,2575,843,2586"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1OptimizationSolver.html" title="Abstract solver for OptimizationProblems." alt="" coords="995,2431,1226,2461"/>
+<area shape="poly" id="edge777_Node000009_Node000024" title=" " alt="" coords="842,2575,872,2566,899,2552,915,2534,922,2513,929,2492,947,2472,969,2459,994,2451,995,2456,972,2464,950,2476,934,2494,927,2515,920,2536,902,2556,874,2571,843,2580"/>
+<area shape="rect" id="Node000027" href="$classmfem_1_1SLISolver.html" title="Stationary linear iteration: x &lt;&#45; x + B (b &#45; A x)" alt="" coords="1032,2300,1189,2331"/>
+<area shape="poly" id="edge780_Node000009_Node000027" title=" " alt="" coords="842,2579,872,2569,899,2552,917,2528,925,2502,925,2476,922,2449,918,2422,919,2395,927,2367,946,2341,965,2328,986,2318,1031,2309,1032,2314,988,2323,968,2332,950,2345,932,2370,924,2395,924,2422,927,2449,931,2476,930,2503,922,2530,902,2556,875,2574,843,2585"/>
+<area shape="rect" id="Node000028" href="$classmfem_1_1blocksolvers_1_1BPCGSolver.html" title="Bramble&#45;Pasciak Conjugate Gradient." alt="" coords="1022,2355,1199,2406"/>
+<area shape="poly" id="edge781_Node000009_Node000028" title=" " alt="" coords="841,2578,872,2568,899,2552,912,2537,919,2521,922,2487,925,2452,932,2434,947,2417,982,2395,1021,2383,1022,2388,984,2400,950,2421,937,2437,930,2453,928,2488,924,2522,917,2540,902,2556,874,2573,843,2583"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1EliminationSolver.html" title="Solve constrained system by eliminating the constraint; see ConstrainedSolver." alt="" coords="1359,2595,1577,2625"/>
+<area shape="poly" id="edge762_Node000012_Node000013" title=" " alt="" coords="1239,2607,1358,2607,1358,2613,1239,2613"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1PenaltyConstrainedSolver.html" title="Solve constrained system with penalty method; see ConstrainedSolver." alt="" coords="1350,2671,1586,2722"/>
+<area shape="poly" id="edge765_Node000012_Node000016" title=" " alt="" coords="1230,2626,1273,2635,1390,2668,1388,2673,1272,2641,1229,2631"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1SchurConstrainedSolver.html" title="Solve constrained system by solving original mixed system; see ConstrainedSolver." alt="" coords="1331,2527,1604,2557"/>
+<area shape="poly" id="edge768_Node000012_Node000019" title=" " alt="" coords="1227,2589,1272,2581,1395,2555,1396,2561,1273,2586,1227,2594"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1EliminationCGSolver.html" title=" " alt="" coords="1683,2572,1929,2603"/>
+<area shape="poly" id="edge763_Node000013_Node000014" title=" " alt="" coords="1592,2599,1682,2593,1683,2598,1593,2604"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1EliminationGMRESSolver.html" title=" " alt="" coords="1663,2627,1949,2657"/>
+<area shape="poly" id="edge764_Node000013_Node000015" title=" " alt="" coords="1592,2619,1663,2626,1662,2631,1592,2624"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1PenaltyGMRESSolver.html" title=" " alt="" coords="1678,2681,1935,2712"/>
+<area shape="poly" id="edge766_Node000016_Node000017" title=" " alt="" coords="1601,2694,1677,2694,1677,2699,1601,2699"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1PenaltyPCGSolver.html" title=" " alt="" coords="1692,2736,1921,2767"/>
+<area shape="poly" id="edge767_Node000016_Node000018" title=" " alt="" coords="1601,2716,1707,2733,1706,2738,1601,2721"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1SchurConstrainedHypreSolver.html" title="Basic saddle&#45;point solver with assembled blocks (ie, the operators are assembled HypreParMatrix objec..." alt="" coords="1671,2497,1941,2547"/>
+<area shape="poly" id="edge769_Node000019_Node000020" title=" " alt="" coords="1619,2530,1670,2527,1671,2533,1620,2536"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1KINSolver.html" title="Interface to the KINSOL library – nonlinear solver methods." alt="" coords="1388,1263,1548,1293"/>
+<area shape="poly" id="edge774_Node000006_Node000005" title=" " alt="" coords="1220,2202,1248,2192,1271,2176,1287,2135,1311,2042,1370,1767,1461,1293,1466,1294,1375,1768,1316,2043,1292,2136,1275,2180,1250,2197,1222,2207"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1LBFGSSolver.html" title=" " alt="" coords="1373,2191,1562,2221"/>
+<area shape="poly" id="edge775_Node000006_Node000007" title=" " alt="" coords="1221,2203,1373,2203,1373,2209,1221,2209"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1TMOPNewtonSolver.html" title=" " alt="" coords="1684,2191,1928,2221"/>
+<area shape="poly" id="edge776_Node000007_Node000008" title=" " alt="" coords="1578,2203,1684,2203,1684,2209,1578,2209"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1HiopNlpOptimizer.html" title="Adapts the HiOp functionality to the MFEM OptimizationSolver interface." alt="" coords="1357,2445,1578,2476"/>
+<area shape="poly" id="edge778_Node000024_Node000025" title=" " alt="" coords="1242,2449,1357,2453,1357,2459,1241,2454"/>
+<area shape="rect" id="Node000026" href="$classmfem_1_1SLBQPOptimizer.html" title=" " alt="" coords="1359,2391,1577,2421"/>
+<area shape="poly" id="edge779_Node000024_Node000026" title=" " alt="" coords="1241,2429,1358,2416,1359,2421,1242,2434"/>
+<area shape="rect" id="Node000093" href="$classmfem_1_1DenseMatrixInverse.html" title=" " alt="" coords="991,4579,1230,4609"/>
+<area shape="poly" id="edge790_Node000092_Node000093" title=" " alt="" coords="841,4238,874,4248,902,4268,918,4286,928,4305,937,4343,935,4381,927,4419,919,4457,917,4494,926,4530,935,4548,950,4565,969,4580,992,4589,990,4594,967,4584,946,4569,931,4551,921,4532,912,4494,914,4456,922,4418,929,4380,932,4343,923,4307,913,4289,899,4272,871,4253,839,4243"/>
+<area shape="rect" id="Node000094" href="$classmfem_1_1SparseSmoother.html" title=" " alt="" coords="1003,4633,1218,4664"/>
+<area shape="poly" id="edge791_Node000092_Node000094" title=" " alt="" coords="841,4237,874,4248,902,4268,920,4290,932,4312,939,4334,941,4357,937,4402,927,4447,916,4491,913,4535,915,4557,922,4578,933,4599,950,4620,975,4638,1004,4648,1002,4653,972,4642,947,4624,929,4602,917,4580,910,4558,907,4535,911,4490,922,4445,932,4401,936,4357,934,4335,927,4314,916,4293,899,4272,871,4253,839,4242"/>
+<area shape="rect" id="Node000095" href="$classmfem_1_1DSmoother.html" title="Data type for scaled Jacobi&#45;type smoother of sparse matrix." alt="" coords="1383,4607,1553,4637"/>
+<area shape="poly" id="edge792_Node000094_Node000095" title=" " alt="" coords="1233,4637,1382,4626,1382,4631,1233,4642"/>
+<area shape="rect" id="Node000096" href="$classmfem_1_1GSSmoother.html" title="Data type for Gauss&#45;Seidel smoother of sparse matrix." alt="" coords="1376,4661,1560,4692"/>
+<area shape="poly" id="edge793_Node000094_Node000096" title=" " alt="" coords="1233,4656,1375,4667,1375,4672,1233,4661"/>
+<area shape="rect" id="Node000098" href="$classmfem_1_1Multigrid.html" title="Multigrid solver class." alt="" coords="1037,2027,1184,2057"/>
+<area shape="poly" id="edge795_Node000097_Node000098" title=" " alt="" coords="839,2527,872,2517,899,2497,919,2472,933,2446,940,2419,943,2393,936,2339,922,2285,907,2230,901,2175,903,2148,911,2121,925,2094,946,2067,966,2052,988,2041,1036,2033,1037,2039,990,2047,968,2056,950,2071,930,2096,916,2123,909,2149,906,2175,913,2229,927,2283,942,2338,948,2393,945,2420,938,2448,924,2475,902,2501,874,2521,841,2532"/>
+<area shape="rect" id="Node000099" href="$classmfem_1_1GeometricMultigrid.html" title="Geometric multigrid associated with a hierarchy of finite element spaces." alt="" coords="1352,2027,1584,2057"/>
+<area shape="poly" id="edge796_Node000098_Node000099" title=" " alt="" coords="1200,2039,1351,2039,1351,2045,1200,2045"/>
+<area shape="rect" id="Node000100" href="$classmfem_1_1ceed_1_1AlgebraicMultigrid.html" title="Extension of Multigrid object to algebraically generated coarse spaces." alt="" coords="1670,2027,1942,2057"/>
+<area shape="poly" id="edge797_Node000099_Node000100" title=" " alt="" coords="1599,2039,1670,2039,1670,2045,1599,2045"/>
+<area shape="rect" id="Node000107" href="$classmfem_1_1PetscPCGSolver.html" title=" " alt="" coords="1003,727,1218,757"/>
+<area shape="poly" id="edge804_Node000106_Node000107" title=" " alt="" coords="857,996,879,986,898,972,917,948,924,923,925,898,922,872,918,845,919,818,927,792,947,767,972,749,1002,739,1004,744,975,754,950,771,932,794,924,819,924,845,927,871,930,898,930,924,922,951,902,976,882,991,859,1001"/>
+<area shape="rect" id="Node000112" href="$classmfem_1_1PetscBDDCSolver.html" title=" " alt="" coords="998,891,1223,921"/>
+<area shape="poly" id="edge807_Node000111_Node000112" title=" " alt="" coords="864,1044,899,1026,910,1016,916,1005,922,981,928,956,935,943,947,932,970,918,996,909,998,914,973,923,950,936,939,947,933,958,927,982,921,1007,914,1019,902,1031,866,1049"/>
+<area shape="rect" id="Node000113" href="$classmfem_1_1PetscFieldSplitSolver.html" title=" " alt="" coords="986,781,1235,812"/>
+<area shape="poly" id="edge808_Node000111_Node000113" title=" " alt="" coords="864,1048,882,1039,898,1027,917,1003,924,978,925,953,922,926,918,900,919,873,927,847,946,821,965,808,985,799,987,804,967,813,950,825,932,849,924,874,924,899,927,926,930,952,930,979,922,1005,902,1031,885,1043,866,1053"/>
+<area shape="rect" id="Node000114" href="$classmfem_1_1PetscH2Solver.html" title=" " alt="" coords="1012,836,1209,867"/>
+<area shape="poly" id="edge809_Node000111_Node000114" title=" " alt="" coords="864,1047,899,1027,913,1010,920,992,922,953,923,914,931,894,947,876,977,858,1010,848,1012,853,979,863,950,880,935,897,928,915,927,953,925,993,918,1012,902,1031,866,1051"/>
+<area shape="rect" id="Node000121" href="$classmfem_1_1blocksolvers_1_1BDPMinresSolver.html" title="Wrapper for the block&#45;diagonal&#45;preconditioned MINRES employed in ex5p.cpp." alt="" coords="1022,4763,1199,4814"/>
+<area shape="poly" id="edge816_Node000120_Node000121" title=" " alt="" coords="836,4308,872,4321,902,4344,922,4370,935,4396,942,4421,945,4447,939,4498,927,4549,915,4600,909,4650,912,4675,919,4700,931,4725,950,4750,965,4763,983,4773,1022,4785,1021,4790,981,4778,962,4767,946,4753,927,4727,914,4702,907,4676,904,4650,909,4599,922,4548,934,4497,939,4447,937,4422,930,4398,917,4373,898,4348,869,4326,834,4313"/>
+<area shape="rect" id="Node000122" href="$classmfem_1_1blocksolvers_1_1BramblePasciakSolver.html" title="Bramble&#45;Pasciak Solver for Darcy equation." alt="" coords="1004,4838,1217,4889"/>
+<area shape="poly" id="edge817_Node000120_Node000122" title=" " alt="" coords="836,4308,872,4321,902,4344,925,4375,940,4405,948,4436,950,4466,943,4527,927,4587,911,4646,904,4706,906,4735,914,4765,928,4794,950,4824,975,4844,1004,4856,1002,4861,972,4848,946,4828,924,4797,909,4767,901,4736,898,4706,906,4645,922,4585,938,4526,945,4466,943,4437,935,4407,920,4378,898,4348,869,4326,834,4313"/>
+<area shape="rect" id="Node000123" href="$classmfem_1_1blocksolvers_1_1DivFreeSolver.html" title="Divergence free solver." alt="" coords="1022,4689,1199,4739"/>
+<area shape="poly" id="edge818_Node000120_Node000123" title=" " alt="" coords="836,4309,872,4321,902,4344,919,4365,930,4386,939,4428,936,4470,927,4512,918,4553,915,4594,924,4635,935,4655,950,4675,965,4688,983,4698,1022,4710,1021,4715,981,4703,962,4692,946,4679,930,4658,919,4636,910,4594,913,4552,922,4511,931,4469,933,4429,925,4388,914,4368,898,4348,869,4326,834,4314"/>
+<area shape="rect" id="Node000208" href="$classmfem_1_1AdvectionOper.html" title=" " alt="" coords="632,6863,830,6893"/>
+<area shape="poly" id="edge827_Node000207_Node000208" title=" " alt="" coords="513,6892,631,6883,632,6888,514,6897"/>
+<area shape="rect" id="Node000209" href="$classmfem_1_1DGHyperbolicConservationLaws.html" title="Time dependent DG operator for hyperbolic conservation laws." alt="" coords="561,6917,900,6948"/>
+<area shape="poly" id="edge828_Node000207_Node000209" title=" " alt="" coords="513,6914,561,6918,560,6923,513,6920"/>
+<area shape="rect" id="Node000210" href="$classmfem_1_1ParAdvectorCGOper.html" title="Performs a single remap advection step in parallel." alt="" coords="608,6972,854,7003"/>
+<area shape="poly" id="edge829_Node000207_Node000210" title=" " alt="" coords="487,6923,514,6932,538,6945,562,6958,608,6971,606,6976,560,6963,536,6950,512,6936,485,6928"/>
+<area shape="rect" id="Node000211" href="$classmfem_1_1SecondOrderTimeDependentOperator.html" title="Base abstract class for second order time dependent operators." alt="" coords="573,7027,888,7078"/>
+<area shape="poly" id="edge830_Node000207_Node000211" title=" " alt="" coords="506,6927,515,6932,533,6952,540,6974,546,6994,563,7013,581,7025,579,7029,559,7017,542,6997,535,6975,528,6955,511,6936,503,6931"/>
+<area shape="rect" id="Node000212" href="$classmfem_1_1SerialAdvectorCGOper.html" title="Performs a single remap advection step in serial." alt="" coords="598,7103,863,7133"/>
+<area shape="poly" id="edge831_Node000207_Node000212" title=" " alt="" coords="510,6928,515,6932,531,6951,538,6971,540,7012,541,7052,548,7070,563,7088,580,7100,599,7109,597,7114,577,7105,559,7092,543,7073,535,7053,534,7012,533,6973,526,6954,511,6936,507,6932"/>
+<area shape="rect" id="Node000213" href="$classmfem_1_1TimeDependentAdjointOperator.html" title=" " alt="" coords="600,6638,862,6689"/>
+<area shape="poly" id="edge832_Node000207_Node000213" title=" " alt="" coords="507,6880,511,6876,528,6856,535,6834,536,6812,535,6790,533,6767,534,6744,542,6721,559,6699,577,6685,598,6674,600,6679,580,6689,563,6703,547,6723,540,6745,538,6767,540,6790,542,6812,540,6835,532,6858,515,6880,510,6884"/>
+<area shape="rect" id="Node000214" href="$classmfem_1_1electromagnetics_1_1MagneticDiffusionEOperator.html" title=" " alt="" coords="601,6713,860,6763"/>
+<area shape="poly" id="edge833_Node000207_Node000214" title=" " alt="" coords="505,6880,511,6876,523,6864,529,6852,535,6826,540,6799,547,6786,559,6773,599,6751,602,6756,563,6777,551,6789,545,6801,540,6827,534,6854,527,6868,515,6880,508,6885"/>
+<area shape="rect" id="Node000215" href="$classmfem_1_1electromagnetics_1_1MaxwellSolver.html" title=" " alt="" coords="623,6787,838,6838"/>
+<area shape="poly" id="edge834_Node000207_Node000215" title=" " alt="" coords="485,6884,512,6876,536,6863,560,6849,622,6830,623,6835,562,6854,538,6867,514,6880,487,6889"/>
+<area shape="rect" id="Node000222" href="$classmfem_1_1ceed_1_1MixedIntegrator.html" title=" " alt="" coords="604,1817,857,1867"/>
+<area shape="poly" id="edge841_Node000221_Node000222" title=" " alt="" coords="473,1865,603,1852,604,1857,473,1871"/>
+<area shape="rect" id="Node000227" href="$classmfem_1_1ceed_1_1MixedIntegrator.html" title=" " alt="" coords="604,1151,857,1202"/>
+<area shape="poly" id="edge846_Node000221_Node000227" title=" " alt="" coords="472,1874,493,1864,511,1850,523,1831,533,1808,544,1749,546,1678,545,1600,540,1447,545,1382,559,1333,585,1291,618,1255,653,1224,686,1200,689,1205,657,1229,622,1259,589,1295,563,1335,550,1383,546,1447,550,1600,552,1678,549,1749,538,1810,528,1834,515,1853,496,1868,474,1878"/>
+<area shape="rect" id="Node000232" href="$classmfem_1_1ceed_1_1MFIntegrator.html" title=" " alt="" coords="615,1347,846,1377"/>
+<area shape="poly" id="edge851_Node000221_Node000232" title=" " alt="" coords="472,1872,493,1863,511,1849,535,1820,546,1791,550,1762,548,1732,543,1668,547,1632,559,1593,594,1525,637,1463,712,1376,716,1380,642,1467,599,1528,563,1595,552,1633,548,1668,553,1732,555,1762,551,1792,539,1822,515,1853,496,1868,474,1877"/>
+<area shape="rect" id="Node000237" href="$classmfem_1_1ceed_1_1MixedIntegrator.html" title="This class wraps a ceed::PAIntegrator or ceed::MFIntegrator to support mixed finite element spaces." alt="" coords="604,1891,857,1942"/>
+<area shape="poly" id="edge856_Node000221_Node000237" title=" " alt="" coords="473,1888,604,1901,603,1907,473,1893"/>
+<area shape="rect" id="Node000238" href="$classmfem_1_1ceed_1_1PAIntegrator.html" title=" " alt="" coords="616,1607,845,1637"/>
+<area shape="poly" id="edge857_Node000221_Node000238" title=" " alt="" coords="472,1865,512,1849,599,1759,713,1636,717,1640,603,1763,514,1854,474,1870"/>
+<area shape="rect" id="Node000223" href="$classmfem_1_1ceed_1_1MixedMFConvectionIntegrator.html" title=" " alt="" coords="964,1951,1257,2002"/>
+<area shape="poly" id="edge842_Node000222_Node000223" title=" " alt="" coords="873,1863,902,1877,918,1892,927,1908,935,1923,950,1937,971,1948,969,1953,947,1942,931,1926,922,1911,914,1895,899,1882,871,1867"/>
+<area shape="rect" id="Node000224" href="$classmfem_1_1ceed_1_1MixedMFDiffusionIntegrator.html" title=" " alt="" coords="974,1746,1247,1797"/>
+<area shape="poly" id="edge843_Node000222_Node000224" title=" " alt="" coords="872,1813,973,1794,974,1799,873,1818"/>
+<area shape="rect" id="Node000225" href="$classmfem_1_1ceed_1_1MixedMFMassIntegrator.html" title=" " alt="" coords="948,1821,1273,1852"/>
+<area shape="poly" id="edge844_Node000222_Node000225" title=" " alt="" coords="873,1837,948,1836,948,1842,873,1843"/>
+<area shape="rect" id="Node000226" href="$classmfem_1_1ceed_1_1MixedMFVectorConvectionNLIntegrator.html" title=" " alt="" coords="983,1877,1238,1927"/>
+<area shape="poly" id="edge845_Node000222_Node000226" title=" " alt="" coords="873,1862,983,1879,982,1884,872,1867"/>
+<area shape="rect" id="Node000228" href="$classmfem_1_1ceed_1_1MixedPAConvectionIntegrator.html" title=" " alt="" coords="965,1151,1256,1202"/>
+<area shape="poly" id="edge847_Node000227_Node000228" title=" " alt="" coords="873,1174,965,1174,965,1179,873,1179"/>
+<area shape="rect" id="Node000229" href="$classmfem_1_1ceed_1_1MixedPADiffusionIntegrator.html" title=" " alt="" coords="975,946,1246,997"/>
+<area shape="poly" id="edge848_Node000227_Node000229" title=" " alt="" coords="870,1154,899,1136,911,1121,918,1106,922,1073,925,1040,933,1023,947,1007,973,989,976,993,950,1011,937,1026,930,1041,927,1074,923,1107,916,1124,902,1140,873,1159"/>
+<area shape="rect" id="Node000230" href="$classmfem_1_1ceed_1_1MixedPAMassIntegrator.html" title=" " alt="" coords="950,1021,1271,1052"/>
+<area shape="poly" id="edge849_Node000227_Node000230" title=" " alt="" coords="871,1151,899,1136,914,1119,922,1100,929,1081,947,1063,970,1050,973,1055,950,1067,934,1083,927,1102,919,1122,902,1140,874,1156"/>
+<area shape="rect" id="Node000231" href="$classmfem_1_1ceed_1_1MixedPAVectorConvectionNLIntegrator.html" title=" " alt="" coords="985,1077,1236,1127"/>
+<area shape="poly" id="edge850_Node000227_Node000231" title=" " alt="" coords="872,1146,984,1124,985,1129,873,1151"/>
+<area shape="rect" id="Node000233" href="$classmfem_1_1ceed_1_1MFConvectionIntegrator.html" title="Represent a ConvectionIntegrator with AssemblyLevel::None using libCEED." alt="" coords="988,1411,1233,1462"/>
+<area shape="poly" id="edge852_Node000232_Node000233" title=" " alt="" coords="828,1378,988,1410,987,1415,827,1383"/>
+<area shape="rect" id="Node000234" href="$classmfem_1_1ceed_1_1MFDiffusionIntegrator.html" title="Represent a DiffusionIntegrator with AssemblyLevel::None using libCEED." alt="" coords="960,1227,1261,1257"/>
+<area shape="poly" id="edge853_Node000232_Node000234" title=" " alt="" coords="775,1337,854,1300,948,1266,991,1255,993,1261,949,1271,856,1305,777,1342"/>
+<area shape="rect" id="Node000235" href="$classmfem_1_1ceed_1_1MFMassIntegrator.html" title="Represent a MassIntegrator with AssemblyLevel::None using libCEED." alt="" coords="973,1281,1248,1312"/>
+<area shape="poly" id="edge854_Node000232_Node000235" title=" " alt="" coords="839,1341,1017,1310,1018,1315,840,1346"/>
+<area shape="rect" id="Node000236" href="$classmfem_1_1ceed_1_1MFVectorConvectionNLFIntegrator.html" title=" " alt="" coords="962,1337,1259,1387"/>
+<area shape="poly" id="edge855_Node000232_Node000236" title=" " alt="" coords="862,1359,962,1359,962,1365,862,1365"/>
+<area shape="rect" id="Node000239" href="$classmfem_1_1ceed_1_1PAConvectionIntegrator.html" title="Represent a ConvectionIntegrator with AssemblyLevel::Partial using libCEED." alt="" coords="990,1671,1231,1722"/>
+<area shape="poly" id="edge858_Node000238_Node000239" title=" " alt="" coords="828,1638,990,1670,989,1676,827,1643"/>
+<area shape="rect" id="Node000240" href="$classmfem_1_1ceed_1_1PADiffusionIntegrator.html" title="Represent a DiffusionIntegrator with AssemblyLevel::Partial using libCEED." alt="" coords="961,1487,1260,1517"/>
+<area shape="poly" id="edge859_Node000238_Node000240" title=" " alt="" coords="775,1597,854,1560,948,1526,991,1515,993,1521,949,1531,856,1565,777,1602"/>
+<area shape="rect" id="Node000241" href="$classmfem_1_1ceed_1_1PAMassIntegrator.html" title="Represent a MassIntegrator with AssemblyLevel::Partial using libCEED." alt="" coords="974,1541,1247,1572"/>
+<area shape="poly" id="edge860_Node000238_Node000241" title=" " alt="" coords="839,1601,1017,1570,1018,1575,840,1606"/>
+<area shape="rect" id="Node000242" href="$classmfem_1_1ceed_1_1PAVectorConvectionNLFIntegrator.html" title=" " alt="" coords="965,1597,1256,1647"/>
+<area shape="poly" id="edge861_Node000238_Node000242" title=" " alt="" coords="860,1619,964,1619,964,1625,860,1625"/>
+<area shape="rect" id="Node000244" href="$classmfem_1_1common_1_1DivergenceFreeProjector.html" title=" " alt="" coords="606,1971,856,2022"/>
+<area shape="poly" id="edge863_Node000243_Node000244" title=" " alt="" coords="357,2604,366,2490,377,2416,395,2335,420,2253,455,2172,501,2097,528,2063,559,2032,580,2017,604,2006,606,2011,583,2021,563,2036,532,2067,505,2100,460,2174,425,2255,400,2337,383,2417,371,2491,363,2604"/>
+<area shape="rect" id="Node000108" href="$classmfem_1_1PetscSolver.html" title="Abstract class for PETSc&#39;s solvers." alt="" coords="271,1015,446,1045"/>
+<area shape="poly" id="edge866_Node000108_Node000110" title=" " alt="" coords="424,1007,560,971,623,960,624,965,562,977,426,1012"/>
+<area shape="poly" id="edge864_Node000108_Node000106" title=" " alt="" coords="460,1020,618,1008,618,1013,461,1025"/>
+<area shape="poly" id="edge865_Node000108_Node000109" title=" " alt="" coords="429,1047,562,1081,624,1093,623,1098,560,1086,428,1052"/>
+<area shape="poly" id="edge867_Node000108_Node000111" title=" " alt="" coords="461,1035,611,1045,610,1051,461,1040"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1SundialsSolver.html" title="Base class for interfacing with SUNDIALS packages." alt="" coords="259,60,458,91"/>
+<area shape="poly" id="edge868_Node000002_Node000001" title=" " alt="" coords="473,73,629,73,629,78,473,78"/>
+<area shape="poly" id="edge869_Node000002_Node000003" title=" " alt="" coords="472,56,633,32,634,37,473,61"/>
+<area shape="poly" id="edge870_Node000002_Node000005" title=" " alt="" coords="370,105,392,174,430,263,455,309,486,353,522,394,563,428,607,452,647,465,686,468,724,466,805,461,850,465,901,479,1020,523,1111,564,1151,589,1191,621,1231,661,1275,712,1324,785,1365,865,1397,948,1423,1029,1455,1172,1468,1262,1462,1263,1449,1173,1417,1030,1392,949,1360,867,1320,788,1271,716,1227,665,1187,625,1148,594,1108,569,1018,528,900,485,849,471,805,466,724,471,686,473,646,470,605,457,559,432,518,398,482,357,451,312,425,265,387,176,365,107"/>
+</map>

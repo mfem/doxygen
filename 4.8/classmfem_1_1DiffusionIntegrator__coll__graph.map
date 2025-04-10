@@ -1,0 +1,29 @@
+<map id="mfem::DiffusionIntegrator" name="mfem::DiffusionIntegrator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2268,181,2494,211"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1BilinearFormIntegrator.html" title="Abstract base class BilinearFormIntegrator." alt="" coords="1926,98,2184,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2146,130,2185,139,2245,153,2329,177,2327,183,2244,159,2184,144,2145,135"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1NonlinearFormIntegrator.html" title="This class is used to express the local action of a general nonlinear finite element operator...." alt="" coords="1601,98,1877,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1892,111,1926,111,1926,116,1892,116"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Integrator.html" title="This base class implements some shared functionality between linear and nonlinear form integrators." alt="" coords="1307,70,1462,101"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1478,90,1601,100,1601,105,1478,95"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1IntegrationRule.html" title="Class for an integration rule &#45; an Array of IntegrationPoint." alt="" coords="926,15,1126,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1142,43,1261,60,1307,68,1306,73,1261,65,1141,48"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Array.html" title=" " alt="" coords="638,5,860,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="876,28,925,28,925,33,876,33"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="304,5,550,56"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="566,28,638,28,638,33,566,33"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1IntegrationPoint.html" title="Class for integration point with weight." alt="" coords="5,15,210,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="225,28,303,28,303,33,225,33"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1NURBSMeshRules.html" title="Class for defining different integration rules on each NURBS patch." alt="" coords="910,70,1142,101"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1157,83,1307,83,1307,88,1157,88"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1ceed_1_1Operator.html" title=" " alt="" coords="1285,125,1484,155"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1500,131,1577,125,1601,123,1601,129,1578,131,1500,136"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="951,125,1101,155"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1116,137,1285,137,1285,143,1116,143"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="1974,153,2137,183"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2153,174,2268,184,2267,189,2152,179"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1VectorCoefficient.html" title="Base class for vector Coefficients that optionally depend on time and space." alt="" coords="1948,207,2163,238"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2178,219,2244,215,2288,209,2289,215,2245,220,2179,224"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1MatrixCoefficient.html" title="Base class for Matrix Coefficients that optionally depend on time and space." alt="" coords="1948,262,2162,293"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2176,258,2244,243,2341,209,2343,214,2245,248,2177,263"/>
+</map>

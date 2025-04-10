@@ -1,0 +1,5 @@
+<map id="mfem::ParLORDiscretization" name="mfem::ParLORDiscretization">
+<area shape="rect" id="Node000001" title="Create and assemble a low&#45;order refined version of a ParBilinearForm." alt="" coords="5,84,258,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1LORBase.html" title="Abstract base class for LORDiscretization and ParLORDiscretization classes, which construct low&#45;order..." alt="" coords="53,5,210,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,52,134,83,129,83,129,52"/>
+</map>

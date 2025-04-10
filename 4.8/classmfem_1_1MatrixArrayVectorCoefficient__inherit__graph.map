@@ -1,0 +1,5 @@
+<map id="mfem::MatrixArrayVectorCoefficient" name="mfem::MatrixArrayVectorCoefficient">
+<area shape="rect" id="Node000001" title="Matrix coefficient defined row&#45;wise by an array of vector coefficients. Rows that are not set will ev..." alt="" coords="5,84,314,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MatrixCoefficient.html" title="Base class for Matrix Coefficients that optionally depend on time and space." alt="" coords="53,5,266,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,52,162,83,157,83,157,52"/>
+</map>

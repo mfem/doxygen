@@ -1,0 +1,5 @@
+<map id="mfem::ResidualBCMonitor" name="mfem::ResidualBCMonitor">
+<area shape="rect" id="Node000001" title="Monitor that checks whether the residual is zero at a given set of dofs." alt="" coords="5,84,240,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1IterativeSolverController.html" title="Abstract base class for an iterative solver controller." alt="" coords="24,5,221,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,52,125,83,120,83,120,52"/>
+</map>

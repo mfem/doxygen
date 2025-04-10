@@ -1,0 +1,47 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1MatrixCoefficient.html" title="Base class for Matrix Coefficients that optionally depend on time and space." alt="" coords="5,471,219,501"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1CrossCrossCoefficient.html" title="Matrix coefficient defined as &#45;a k x k x, for a vector k and scalar a." alt="" coords="292,5,550,36"/>
+<area shape="poly" id="edge551_Node000000_Node000001" title=" " alt="" coords="111,455,119,372,128,318,142,260,161,201,187,144,222,91,265,45,290,30,293,34,268,49,226,94,192,146,166,203,147,262,133,319,124,373,117,455"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ExponentialMatrixCoefficient.html" title="Matrix coefficient defined as the exponential of a matrix coefficient." alt="" coords="267,60,574,91"/>
+<area shape="poly" id="edge552_Node000000_Node000002" title=" " alt="" coords="113,455,124,381,149,284,169,233,194,184,226,139,265,100,281,89,284,94,268,104,230,142,199,187,174,236,154,286,129,382,118,455"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1IdentityMatrixCoefficient.html" title="Constant matrix coefficient defined as the identity of dimension d." alt="" coords="285,115,556,145"/>
+<area shape="poly" id="edge553_Node000000_Node000003" title=" " alt="" coords="115,455,130,391,157,309,177,266,201,225,230,187,265,155,283,143,286,148,268,159,234,190,205,228,181,268,162,311,135,392,121,456"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1InverseMatrixCoefficient.html" title="Matrix coefficient defined as the inverse of a matrix coefficient." alt="" coords="285,169,557,200"/>
+<area shape="poly" id="edge554_Node000000_Node000004" title=" " alt="" coords="118,454,136,400,165,333,208,265,235,235,265,209,284,198,287,203,268,214,238,239,212,269,170,336,141,402,124,456"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1MatrixArrayCoefficient.html" title="Matrix coefficient defined by a matrix of scalar coefficients. Coefficients that are not set will eva..." alt="" coords="293,224,549,255"/>
+<area shape="poly" id="edge555_Node000000_Node000005" title=" " alt="" coords="123,455,143,411,174,359,215,307,239,283,265,264,291,251,293,256,268,268,242,288,219,310,179,362,148,414,128,457"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1MatrixArrayVectorCoefficient.html" title="Matrix coefficient defined row&#45;wise by an array of vector coefficients. Rows that are not set will ev..." alt="" coords="267,279,575,309"/>
+<area shape="poly" id="edge556_Node000000_Node000006" title=" " alt="" coords="129,456,152,423,184,385,222,349,265,318,290,307,292,312,268,323,225,353,187,389,156,426,133,459"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1MatrixConstantCoefficient.html" title="A matrix coefficient that is constant in space and time." alt="" coords="278,333,564,364"/>
+<area shape="poly" id="edge557_Node000000_Node000007" title=" " alt="" coords="139,458,195,414,229,391,266,373,297,362,299,367,268,378,232,396,198,418,143,462"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1MatrixFunctionCoefficient.html" title="A matrix coefficient with an optional scalar coefficient multiplier q. The matrix function can either..." alt="" coords="280,388,562,419"/>
+<area shape="poly" id="edge558_Node000000_Node000008" title=" " alt="" coords="164,462,266,427,313,417,314,422,267,433,166,467"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1MatrixProductCoefficient.html" title="Matrix coefficient defined as the product of two matrices." alt="" coords="283,443,558,473"/>
+<area shape="poly" id="edge559_Node000000_Node000009" title=" " alt="" coords="234,472,283,468,283,473,235,478"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1MatrixRestrictedCoefficient.html" title="Derived matrix coefficient that has the value of the parent matrix coefficient where it is active and..." alt="" coords="274,497,568,528"/>
+<area shape="poly" id="edge560_Node000000_Node000010" title=" " alt="" coords="234,494,273,497,273,503,234,499"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1MatrixSumCoefficient.html" title="Matrix coefficient defined as the linear combination of two matrices." alt="" coords="295,552,546,583"/>
+<area shape="poly" id="edge561_Node000000_Node000011" title=" " alt="" coords="169,505,267,537,321,549,319,554,266,542,167,510"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1OuterProductCoefficient.html" title="Matrix coefficient defined as the outer product of two vector coefficients." alt="" coords="285,607,556,637"/>
+<area shape="poly" id="edge562_Node000000_Node000012" title=" " alt="" coords="143,509,199,552,232,574,268,592,304,604,302,609,266,596,230,578,195,557,140,514"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1PWMatrixCoefficient.html" title="A piecewise matrix&#45;valued coefficient with the pieces keyed off the element attribute numbers." alt="" coords="299,661,542,692"/>
+<area shape="poly" id="edge563_Node000000_Node000013" title=" " alt="" coords="133,512,157,544,188,581,225,617,268,646,300,660,297,664,265,651,222,621,184,585,152,548,129,516"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1PmlMatrixCoefficient.html" title=" " alt="" coords="298,716,544,747"/>
+<area shape="poly" id="edge564_Node000000_Node000014" title=" " alt="" coords="128,514,148,557,179,609,219,659,242,682,268,701,299,716,297,721,265,706,239,686,215,663,175,612,144,560,123,517"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1ScalarMatrixProductCoefficient.html" title="Matrix coefficient defined as a product of a scalar coefficient and a matrix coefficient." alt="" coords="300,771,542,822"/>
+<area shape="poly" id="edge565_Node000000_Node000015" title=" " alt="" coords="124,515,142,568,172,633,214,700,239,730,268,756,301,774,298,779,265,760,235,734,209,703,167,636,137,570,119,517"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1SymmetricMatrixCoefficient.html" title="Base class for symmetric matrix coefficients that optionally depend on time and space." alt="" coords="271,847,571,877"/>
+<area shape="poly" id="edge566_Node000000_Node000016" title=" " alt="" coords="120,516,133,583,160,670,179,715,203,758,233,798,268,832,287,844,284,848,265,836,229,801,199,761,174,717,155,672,128,585,115,517"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1TMOPMatrixCoefficient.html" title=" " alt="" coords="287,907,554,937"/>
+<area shape="poly" id="edge569_Node000000_Node000019" title=" " alt="" coords="118,516,128,592,153,693,172,746,198,798,229,846,268,887,296,904,293,908,265,891,225,849,193,801,167,748,148,694,123,593,113,517"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1TransposeMatrixCoefficient.html" title="Matrix coefficient defined as the transpose of a matrix coefficient." alt="" coords="272,961,570,992"/>
+<area shape="poly" id="edge572_Node000000_Node000022" title=" " alt="" coords="116,517,122,603,131,659,144,720,163,783,189,843,224,899,268,947,286,959,283,963,265,951,220,902,185,846,158,784,139,722,125,660,117,604,111,517"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1SymmetricMatrixConstantCoefficient.html" title="A matrix coefficient that is constant in space and time." alt="" coords="623,759,910,810"/>
+<area shape="poly" id="edge567_Node000016_Node000017" title=" " alt="" coords="530,841,574,831,666,808,667,813,576,837,531,846"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1SymmetricMatrixFunctionCoefficient.html" title="A matrix coefficient with an optional scalar coefficient multiplier q. The matrix function can either..." alt="" coords="624,834,909,885"/>
+<area shape="poly" id="edge568_Node000016_Node000018" title=" " alt="" coords="586,858,624,858,624,863,586,863"/>
+<area shape="rect" id="Node000020" href="$classHRHessianCoefficient.html" title=" " alt="" coords="668,909,865,940"/>
+<area shape="poly" id="edge570_Node000019_Node000020" title=" " alt="" coords="570,920,668,921,668,927,570,926"/>
+<area shape="rect" id="Node000021" href="$classHessianCoefficient.html" title=" " alt="" coords="681,964,852,995"/>
+<area shape="poly" id="edge571_Node000019_Node000021" title=" " alt="" coords="533,938,681,963,680,968,532,943"/>
+</map>

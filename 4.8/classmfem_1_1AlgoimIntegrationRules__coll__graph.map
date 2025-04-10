@@ -1,0 +1,7 @@
+<map id="mfem::AlgoimIntegrationRules" name="mfem::AlgoimIntegrationRules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,184,271,215"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1CutIntegrationRules.html" title="Abstract class for construction of IntegrationRules in cut elements." alt="" coords="19,104,257,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,151,141,184,135,184,135,151"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="56,5,220,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,52,141,104,135,104,135,52"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mfem::CoefficientRefiner" name="mfem::CoefficientRefiner">
+<area shape="rect" id="Node000001" title="Refinement operator to control data oscillation." alt="" coords="5,84,227,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MeshOperator.html" title="The MeshOperator class serves as base for mesh manipulation classes." alt="" coords="18,5,214,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,52,119,83,113,83,113,52"/>
+</map>

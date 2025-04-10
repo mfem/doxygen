@@ -1,0 +1,20 @@
+<map id="mfem::SLISolver" name="mfem::SLISolver">
+<area shape="rect" id="Node000001" title="Stationary linear iteration: x &lt;&#45; x + B (b &#45; A x)" alt="" coords="970,141,1126,172"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1IterativeSolver.html" title="Abstract base class for iterative solver." alt="" coords="583,80,777,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="792,111,970,141,969,146,791,116"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1IterativeSolverController.html" title="Abstract base class for an iterative solver controller." alt="" coords="913,62,1184,93"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="792,96,801,96,889,96,943,91,944,96,889,102,801,102,792,102"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="252,54,381,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,73,583,86,583,91,396,78"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="396,69,560,78,583,80,583,85,559,83,396,74"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,22,156,53"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="171,27,254,23,352,23,456,30,560,46,607,60,648,77,646,82,605,65,559,51,456,35,352,29,254,29,171,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,47,251,58,251,64,171,53"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="898,73,801,76,760,82,759,76,800,71,897,68"/>
+<area shape="rect" id="Node000006" href="$structmfem_1_1IterativeSolver_1_1PrintLevel.html" title="Settings for the output behavior of the IterativeSolver." alt="" coords="220,110,413,160"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="428,122,559,108,583,105,583,111,560,114,429,127"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="615,184,745,214"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="761,200,823,200,888,195,946,184,998,170,999,175,947,189,889,200,823,205,761,206"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Memory.html" title=" " alt="" coords="205,185,427,216"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="443,197,615,197,615,202,443,203"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="mfem::MixedScalarWeakGradientIntegrator" name="mfem::MixedScalarWeakGradientIntegrator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,300,371"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MixedScalarIntegrator.html" title=" " alt="" coords="25,241,280,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,288,155,320,150,320,150,288"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1BilinearFormIntegrator.html" title="Abstract base class BilinearFormIntegrator." alt="" coords="23,163,282,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,209,155,241,150,241,150,209"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1NonlinearFormIntegrator.html" title="This class is used to express the local action of a general nonlinear finite element operator...." alt="" coords="15,84,290,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,131,155,162,150,162,150,131"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Integrator.html" title="This base class implements some shared functionality between linear and nonlinear form integrators." alt="" coords="75,5,230,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="155,52,155,83,150,83,150,52"/>
+</map>

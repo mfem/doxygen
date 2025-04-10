@@ -1,0 +1,5 @@
+<map id="mfem::TraceCoefficient" name="mfem::TraceCoefficient">
+<area shape="rect" id="Node000001" title="Scalar coefficient defined as the trace of a matrix coefficient." alt="" coords="5,84,215,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="28,5,192,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,52,113,83,107,83,107,52"/>
+</map>

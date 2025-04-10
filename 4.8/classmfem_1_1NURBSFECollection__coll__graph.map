@@ -1,0 +1,80 @@
+<map id="mfem::NURBSFECollection" name="mfem::NURBSFECollection">
+<area shape="rect" id="Node000001" title="Arbitrary order non&#45;uniform rational B&#45;splines (NURBS) finite elements." alt="" coords="2947,546,3191,577"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="2559,858,2827,889"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2814,849,2826,843,2851,824,2881,794,2948,716,3054,575,3059,579,2952,720,2885,798,2855,828,2829,848,2817,854"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="2944,813,3194,864"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="2843,857,2944,848,2944,853,2843,862"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="3282,861,3521,912"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3266,896,3194,899,3069,901,2944,899,2828,890,2828,885,2944,893,3069,896,3194,893,3266,891"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3210,856,3281,867,3281,872,3209,862"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1PointFiniteElement.html" title="A 0D point finite element." alt="" coords="2578,627,2808,658"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="2801,621,2920,597,3010,575,3011,580,2921,603,2802,627"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1NodalFiniteElement.html" title="Class for standard nodal finite elements." alt="" coords="2215,666,2452,697"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="2467,664,2577,652,2578,658,2467,670"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ScalarFiniteElement.html" title="Class for finite elements with basis functions that return scalar values." alt="" coords="1770,653,2011,683"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="2026,669,2215,675,2215,680,2026,675"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1NURBS1DFiniteElement.html" title="An arbitrary order 1D NURBS element on a segment." alt="" coords="2196,463,2471,494"/>
+<area shape="poly" id="edge26_Node000023_Node000007" title=" " alt="" coords="1940,643,2195,531,2290,492,2292,497,2197,536,1942,648"/>
+<area shape="rect" id="Node000031" href="$classmfem_1_1NURBS2DFiniteElement.html" title="An arbitrary order 2D NURBS element on a square." alt="" coords="2196,382,2471,413"/>
+<area shape="poly" id="edge38_Node000031_Node000007" title=" " alt="" coords="1919,640,2036,549,2113,496,2194,448,2283,411,2285,416,2197,453,2116,500,2039,553,1923,645"/>
+<area shape="rect" id="Node000032" href="$classmfem_1_1NURBS3DFiniteElement.html" title="An arbitrary order 3D NURBS element on a cube." alt="" coords="2196,546,2471,577"/>
+<area shape="poly" id="edge43_Node000032_Node000007" title=" " alt="" coords="2026,654,2098,643,2171,627,2241,602,2300,575,2303,580,2243,607,2172,632,2099,648,2026,659"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1FiniteElement.html" title="Abstract class for all finite elements." alt="" coords="1482,793,1671,823"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1609,781,1678,736,1720,712,1763,692,1797,681,1798,686,1765,697,1722,717,1680,740,1612,786"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1DofToQuad.html" title="Structure representing the matrices/tensors needed to evaluate (in reference space) the values,..." alt="" coords="1805,793,1976,823"/>
+<area shape="poly" id="edge19_Node000018_Node000008" title=" " alt="" coords="1687,805,1805,805,1805,811,1687,811"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1IntegrationRule.html" title="Class for an integration rule &#45; an Array of IntegrationPoint." alt="" coords="1133,841,1333,871"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1348,844,1452,831,1503,821,1504,827,1452,836,1349,849"/>
+<area shape="poly" id="edge20_Node000018_Node000009" title=" " alt="" coords="1348,860,1504,863,1591,860,1676,853,1759,839,1834,821,1835,827,1760,845,1677,859,1591,865,1504,868,1348,866"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1Array.html" title=" " alt="" coords="814,831,1037,881"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1052,853,1132,853,1132,859,1052,859"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1Memory.html" title=" " alt="" coords="322,831,568,881"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="584,853,814,853,814,859,584,859"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1IntegrationPoint.html" title="Class for integration point with weight." alt="" coords="14,841,219,871"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="234,853,321,853,321,859,234,859"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="1143,609,1323,639"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="1303,643,1336,656,1401,690,1462,727,1555,790,1552,794,1459,732,1398,695,1334,661,1301,648"/>
+<area shape="poly" id="edge41_Node000031_Node000013" title=" " alt="" coords="1243,593,1309,424,1357,309,1418,274,1482,248,1550,231,1619,221,1689,218,1759,221,1829,229,1898,241,2028,273,2143,312,2236,349,2301,379,2299,384,2234,354,2141,317,2026,278,1897,246,1828,234,1759,227,1689,224,1619,227,1551,236,1484,253,1420,278,1361,312,1314,426,1248,595"/>
+<area shape="poly" id="edge46_Node000032_Node000013" title=" " alt="" coords="1338,615,2195,566,2195,572,1339,621"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="861,609,990,639"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1005,621,1142,621,1142,627,1005,627"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="370,609,520,639"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="536,621,861,621,861,627,536,627"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1Array.html" title=" " alt="" coords="2596,783,2790,833"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="2581,833,2471,848,2273,861,2118,863,1963,855,1764,839,1668,827,1668,821,1765,833,1963,850,2118,858,2272,856,2471,843,2580,828"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1Memory.html" title=" " alt="" coords="2229,783,2438,833"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="2453,805,2595,805,2595,811,2453,811"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1991,805,2229,805,2229,811,1991,811"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1Array.html" title=" " alt="" coords="592,711,790,742"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="806,732,939,738,1082,741,1578,741,1651,746,1723,758,1842,789,1841,795,1722,764,1650,751,1577,747,1082,747,938,744,806,737"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1Memory.html" title=" " alt="" coords="5,539,228,570"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="160,575,235,613,323,648,392,669,463,686,592,710,591,716,461,691,390,674,321,653,233,617,158,580"/>
+<area shape="rect" id="Node000028" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="380,251,510,282"/>
+<area shape="poly" id="edge32_Node000028_Node000020" title=" " alt="" coords="134,525,177,455,225,370,234,341,239,329,250,317,280,297,313,283,379,268,380,273,314,288,282,302,253,321,244,332,239,343,230,372,182,457,138,527"/>
+<area shape="rect" id="Node000021" href="$classmfem_1_1Array.html" title=" " alt="" coords="1804,707,1977,738"/>
+<area shape="poly" id="edge23_Node000006_Node000021" title=" " alt="" coords="1992,714,2171,699,2214,694,2215,699,2172,704,1992,719"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1478,653,1674,683"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="1684,684,1804,705,1803,710,1683,689"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="2487,492,2921,540,2947,543,2946,548,2920,545,2486,497"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1NURBSFiniteElement.html" title="An arbitrary order and dimension NURBS element." alt="" coords="1764,382,2017,413"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="1994,413,2246,460,2245,465,1993,419"/>
+<area shape="poly" id="edge39_Node000031_Node000024" title=" " alt="" coords="2032,395,2195,395,2195,400,2032,400"/>
+<area shape="poly" id="edge44_Node000032_Node000024" title=" " alt="" coords="1949,416,2042,451,2290,543,2288,548,2040,456,1948,421"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1Array.html" title=" " alt="" coords="1476,361,1676,412"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="1692,388,1764,390,1764,396,1692,393"/>
+<area shape="rect" id="Node000026" href="$classmfem_1_1Memory.html" title=" " alt="" coords="1131,301,1335,352"/>
+<area shape="poly" id="edge29_Node000025_Node000026" title=" " alt="" coords="1351,332,1453,347,1498,358,1497,363,1451,352,1350,337"/>
+<area shape="rect" id="Node000027" href="$classmfem_1_1KnotVector.html" title="A vector of knots in one dimension, with B&#45;spline basis functions of a prescribed order." alt="" coords="842,311,1009,342"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="1025,324,1130,324,1130,329,1025,329"/>
+<area shape="poly" id="edge36_Node000023_Node000028" title=" " alt="" coords="525,245,607,228,707,211,815,198,924,193,1407,193,1502,196,1576,204,1649,219,1741,243,1980,335,2293,460,2291,465,1978,340,1740,248,1648,224,1575,209,1502,201,1407,199,924,199,816,204,707,217,608,233,526,250"/>
+<area shape="poly" id="edge35_Node000024_Node000028" title=" " alt="" coords="525,264,1700,263,1721,260,1741,263,1786,287,1826,319,1858,353,1880,380,1876,383,1854,356,1822,323,1784,292,1740,268,1721,266,1700,268,525,269"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="526,279,592,289,842,317,841,322,592,295,525,284"/>
+<area shape="poly" id="edge40_Node000031_Node000028" title=" " alt="" coords="476,239,528,205,591,175,682,150,755,141,924,143,1892,143,1963,151,2033,172,2098,203,2159,241,2212,280,2258,319,2320,380,2316,383,2255,323,2209,285,2156,245,2096,208,2031,177,1962,156,1892,148,924,148,755,146,683,155,593,180,531,209,479,244"/>
+<area shape="poly" id="edge45_Node000032_Node000028" title=" " alt="" coords="526,280,549,290,570,305,579,317,582,329,586,340,594,350,702,431,801,490,895,530,989,555,1087,569,1194,574,1452,572,1764,567,2195,560,2196,566,1764,572,1452,577,1194,579,1087,574,988,561,894,535,799,495,699,435,590,354,581,342,577,330,574,319,566,309,546,295,523,285"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="343,319,547,369"/>
+<area shape="poly" id="edge33_Node000027_Node000029" title=" " alt="" coords="563,344,673,344,790,340,841,335,842,341,791,345,673,349,563,350"/>
+<area shape="rect" id="Node000030" href="$classmfem_1_1SpacingFunction.html" title=" " alt="" coords="10,329,223,359"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="238,341,342,341,342,347,238,347"/>
+<area shape="poly" id="edge37_Node000001_Node000031" title=" " alt="" coords="2487,412,2652,438,2828,475,2939,509,3030,543,3028,548,2937,514,2827,480,2651,443,2486,418"/>
+<area shape="poly" id="edge42_Node000001_Node000032" title=" " alt="" coords="2486,559,2947,559,2947,564,2486,564"/>
+</map>

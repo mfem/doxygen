@@ -1,0 +1,17 @@
+<map id="mfem::ComponentwiseUpwindFlux" name="mfem::ComponentwiseUpwindFlux">
+<area shape="rect" id="Node000001" title="Component&#45;wise upwinded flux." alt="" coords="170,303,472,333"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NumericalFlux.html" title="Abstract class for numerical flux for a system of hyperbolic conservation laws on a face with states,..." alt="" coords="19,184,213,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,220,297,300,294,304,153,225"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FluxFunction.html" title="Abstract class for hyperbolic flux for a system of hyperbolic conservation laws." alt="" coords="5,85,187,116"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,131,116,183,110,184,99,132"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="256,184,386,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,230,324,302,319,302,319,230"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Memory.html" title=" " alt="" coords="210,85,432,116"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,132,324,184,319,184,319,132"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="420,184,601,215"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="475,225,347,304,344,300,473,221"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="457,85,586,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="521,132,515,184,510,184,515,131"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="446,5,596,36"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="524,52,524,85,519,85,519,52"/>
+</map>
