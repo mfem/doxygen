@@ -1,0 +1,18 @@
+<map id="mfem::future::SharedMemoryInfo&lt; num_fields, num_inputs, num_outputs &gt;" name="mfem::future::SharedMemoryInfo&lt; num_fields, num_inputs, num_outputs &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="712,163,976,233"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="328,5,495,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,33,599,54,689,86,751,121,804,163,799,162,748,126,687,91,598,59,511,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="305,61,518,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="533,107,689,145,740,162,735,162,687,150,533,113"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,108,173,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,109,307,97,303,100,189,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="300,135,523,186"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="188,132,302,146,297,149,189,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="538,169,714,186,709,187,539,174"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="323,210,500,261"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="515,224,714,209,709,210,516,229"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="323,285,500,335"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="515,299,600,286,687,266,732,250,773,235,778,233,734,255,689,271,601,292,516,304"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="328,360,495,391"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="510,365,598,349,644,337,687,320,721,301,753,278,806,235,811,233,756,282,724,305,689,324,645,342,599,355,511,371"/>
+</map>

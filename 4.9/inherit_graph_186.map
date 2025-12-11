@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1DataCollection.html" title=" " alt="" coords="5,143,201,173"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1ADIOS2DataCollection.html" title=" " alt="" coords="274,5,536,36"/>
+<area shape="poly" id="edge102_Node000000_Node000001" title=" " alt="" coords="128,130,181,85,213,63,248,45,281,35,277,38,250,50,216,68,184,90,132,134"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ConduitDataCollection.html" title="Data collection that uses the Conduit Mesh Blueprint specification." alt="" coords="277,60,534,91"/>
+<area shape="poly" id="edge103_Node000000_Node000002" title=" " alt="" coords="152,134,248,99,297,90,292,93,249,105,155,139"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FMSDataCollection.html" title="Data collection that uses FMS." alt="" coords="288,115,522,145"/>
+<area shape="poly" id="edge104_Node000000_Node000003" title=" " alt="" coords="216,145,290,140,285,142,217,150"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ParaViewDataCollectionBase.html" title="Abstract base class for ParaViewDataCollection and ParaViewHDFDataCollection." alt="" coords="249,169,562,200"/>
+<area shape="poly" id="edge105_Node000000_Node000004" title=" " alt="" coords="216,165,251,170,246,172,217,171"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1SidreDataCollection.html" title="Data collection with Sidre routines following the Conduit mesh blueprint specification." alt="" coords="287,224,524,255"/>
+<area shape="poly" id="edge108_Node000000_Node000007" title=" " alt="" coords="156,177,249,209,304,223,298,224,248,214,156,182"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1VisItDataCollection.html" title="Data collection with VisIt I/O routines." alt="" coords="290,279,520,309"/>
+<area shape="poly" id="edge109_Node000000_Node000008" title=" " alt="" coords="132,181,184,225,216,246,250,264,292,280,287,280,248,268,213,251,181,229,130,187"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1ParaViewDataCollection.html" title="Writer for ParaView visualization (PVD and VTU format)" alt="" coords="628,143,901,173"/>
+<area shape="poly" id="edge106_Node000004_Node000005" title=" " alt="" coords="577,169,630,168,625,169,578,175"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1ParaViewHDFDataCollection.html" title="Writer for ParaView visualization (VTKHDF format)" alt="" coords="610,197,919,228"/>
+<area shape="poly" id="edge107_Node000004_Node000006" title=" " alt="" coords="577,195,612,200,607,201,578,201"/>
+</map>

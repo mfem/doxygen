@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,305,143,335"/>
+<area shape="rect" id="Node000001" href="$structmfem_1_1future_1_1always__false.html" title=" " alt="" coords="216,5,405,56"/>
+<area shape="poly" id="edge1039_Node000000_Node000001" title=" " alt="" coords="78,289,91,240,112,181,144,119,165,91,189,66,217,50,214,54,192,70,169,94,149,122,117,183,96,242,83,290"/>
+<area shape="rect" id="Node000002" href="$structmfem_1_1future_1_1is__gradient__fop.html" title=" " alt="" coords="199,80,422,131"/>
+<area shape="poly" id="edge1040_Node000000_Node000002" title=" " alt="" coords="85,289,101,255,124,215,153,175,189,141,211,129,207,133,192,145,157,178,128,218,106,257,90,291"/>
+<area shape="rect" id="Node000003" href="$structmfem_1_1future_1_1is__identity__fop.html" title=" " alt="" coords="203,155,418,205"/>
+<area shape="poly" id="edge1041_Node000000_Node000003" title=" " alt="" coords="97,292,138,252,189,215,216,204,213,208,192,220,142,256,101,295"/>
+<area shape="rect" id="Node000004" href="$structmfem_1_1future_1_1is__sum__fop.html" title=" " alt="" coords="214,229,406,280"/>
+<area shape="poly" id="edge1042_Node000000_Node000004" title=" " alt="" coords="146,298,218,279,214,283,149,302"/>
+<area shape="rect" id="Node000005" href="$structmfem_1_1future_1_1is__tuple.html" title="Trait for checking if a type is a mfem::tuple." alt="" coords="191,305,430,335"/>
+<area shape="poly" id="edge1043_Node000000_Node000005" title=" " alt="" coords="157,318,192,319,188,321,159,322"/>
+<area shape="rect" id="Node000006" href="$structmfem_1_1future_1_1is__tuple__of__tuples.html" title="Trait for checking if a type if a mfem::tuple containing only mfem::tuple." alt="" coords="212,360,408,411"/>
+<area shape="poly" id="edge1044_Node000000_Node000006" title=" " alt="" coords="147,337,218,358,214,361,148,343"/>
+<area shape="rect" id="Node000007" href="$structmfem_1_1future_1_1is__value__fop.html" title=" " alt="" coords="210,435,410,485"/>
+<area shape="poly" id="edge1045_Node000000_Node000007" title=" " alt="" coords="99,344,142,384,192,420,217,434,212,435,189,425,138,388,99,350"/>
+<area shape="rect" id="Node000008" href="$structmfem_1_1future_1_1is__weight__fop.html" title=" " alt="" coords="206,509,415,560"/>
+<area shape="poly" id="edge1046_Node000000_Node000008" title=" " alt="" coords="87,347,106,383,128,422,157,462,192,495,212,509,206,509,189,499,153,465,124,425,101,385,87,353"/>
+<area shape="rect" id="Node000009" href="$structmfem_1_1future_1_1is__zero.html" title="checks if a type is zero" alt="" coords="193,585,428,615"/>
+<area shape="poly" id="edge1047_Node000000_Node000009" title=" " alt="" coords="81,348,95,399,116,459,148,519,168,546,192,570,213,585,207,584,189,574,164,550,143,522,111,461,90,401,80,354"/>
+</map>

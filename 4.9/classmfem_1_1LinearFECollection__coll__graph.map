@@ -1,0 +1,10 @@
+<map id="mfem::LinearFECollection" name="mfem::LinearFECollection">
+<area shape="rect" id="Node000001" title="Piecewise&#45;(bi/tri)linear continuous finite elements." alt="" coords="5,114,236,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="250,5,519,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,45,158,116,155,111,335,40"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="260,104,509,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="386,49,387,105,382,102,383,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="352,223,591,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,208,513,184,524,158,527,131,519,105,502,83,480,65,432,39,432,34,483,60,506,79,524,103,532,130,529,159,518,187,502,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,165,455,223,450,221,410,169"/>
+</map>

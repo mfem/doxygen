@@ -1,0 +1,10 @@
+<map id="mfem::RT1_3DFECollection" name="mfem::RT1_3DFECollection">
+<area shape="rect" id="Node000001" title="Second order Raviart&#45;Thomas finite elements in 3D. This class is kept only for backward compatibility..." alt="" coords="5,114,253,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="267,5,535,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,44,167,116,165,111,351,40"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="276,104,526,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="403,49,403,105,399,102,399,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="368,223,607,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,208,529,184,540,158,543,131,536,105,519,83,497,65,448,39,449,34,500,60,523,79,541,103,549,130,545,159,534,187,519,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,165,472,223,467,221,427,169"/>
+</map>

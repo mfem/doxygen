@@ -1,0 +1,8 @@
+<map id="mfem::FiniteElementCollection" name="mfem::FiniteElementCollection">
+<area shape="rect" id="Node000001" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="82,5,351,36"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Memory.html" title=" " alt="" coords="5,104,255,155"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="197,46,152,105,148,102,194,50"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Array.html" title=" " alt="" coords="97,223,336,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,208,254,182,265,154,269,129,265,105,248,68,229,39,230,34,252,65,270,103,274,129,270,155,259,184,244,212"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,165,201,222,196,222,156,169"/>
+</map>

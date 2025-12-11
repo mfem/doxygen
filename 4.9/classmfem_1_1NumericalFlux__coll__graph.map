@@ -1,0 +1,5 @@
+<map id="mfem::NumericalFlux" name="mfem::NumericalFlux">
+<area shape="rect" id="Node000001" title="Abstract class for numerical flux for a system of hyperbolic conservation laws on a face with states,..." alt="" coords="5,104,200,135"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FluxFunction.html" title="Abstract class for hyperbolic flux for a system of hyperbolic conservation laws." alt="" coords="12,5,193,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,50,105,105,100,103,100,53"/>
+</map>

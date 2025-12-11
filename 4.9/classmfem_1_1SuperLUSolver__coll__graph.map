@@ -1,0 +1,14 @@
+<map id="mfem::SuperLUSolver" name="mfem::SuperLUSolver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,203,392,233"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="5,104,135,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,139,260,200,256,204,117,144"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="107,5,257,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,49,89,105,85,102,155,44"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1SuperLURowLocMatrix.html" title=" " alt="" coords="159,104,424,135"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="210,44,278,103,272,104,209,49"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,149,294,204,289,201,289,152"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="448,104,578,135"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="468,141,326,205,324,200,463,141"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Memory.html" title=" " alt="" coords="402,5,624,36"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="514,50,515,105,510,102,511,54"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="mfem::LORSolver&lt; HypreAMS &gt;" name="mfem::LORSolver&lt; HypreAMS &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,539,669,569"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="551,223,681,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="599,265,594,278,575,343,569,396,563,449,547,516,535,540,532,536,541,514,558,448,563,395,570,342,590,276,595,268"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1HypreSolver.html" title="Abstract class for hypre&#39;s solvers and preconditioners." alt="" coords="337,341,514,372"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="576,260,545,280,447,343,445,339,543,275,571,262"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="541,104,691,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="617,148,618,223,614,221,615,152"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1OperatorHandle.html" title="Pointer to an Operator of a specified type." alt="" coords="604,282,812,313"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="641,143,671,179,696,222,705,253,709,283,705,280,700,254,691,224,666,182,640,149"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1HypreParMatrix.html" title="Wrapper for hypre&#39;s ParCSR matrix class." alt="" coords="323,223,528,253"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="577,145,451,224,448,220,581,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="699,325,654,417,622,469,583,517,553,541,551,536,579,513,617,465,650,414,694,328"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="80,104,210,135"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="88,144,61,160,34,181,15,206,10,221,8,237,8,456,10,462,17,468,43,481,136,504,258,523,384,539,379,540,257,528,135,509,42,486,14,473,6,465,3,457,3,237,5,220,11,204,31,177,58,155,90,139"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1HypreParVector.html" title="Wrapper for hypre&#39;s parallel vector class." alt="" coords="42,223,248,253"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="146,147,148,223,143,222,145,153"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Memory.html" title=" " alt="" coords="104,5,326,36"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="194,51,158,105,153,103,197,46"/>
+<area shape="poly" id="edge14_Node000008_Node000006" title=" " alt="" coords="228,48,234,59,255,115,268,159,283,202,313,252,335,278,359,302,406,341,401,341,356,306,331,282,308,255,279,204,263,161,250,116,230,61,228,53"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1HypreAMS.html" title="The Auxiliary&#45;space Maxwell Solver in hypre." alt="" coords="354,440,520,471"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="462,480,515,539,510,538,460,485"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="431,386,438,441,433,439,427,390"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="427,266,428,342,423,340,424,271"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="171,261,209,290,251,315,293,330,339,343,334,344,292,336,249,320,206,294,172,267"/>
+</map>

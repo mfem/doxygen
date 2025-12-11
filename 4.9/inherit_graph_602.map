@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1NURBSExtension.html" title="NURBSExtension generally contains multiple NURBSPatch objects spanning an entire Mesh...." alt="" coords="5,33,226,64"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1NCNURBSExtension.html" title="NCNURBSExtension extends NURBSExtension to support NC&#45;patch NURBS meshes." alt="" coords="275,5,521,36"/>
+<area shape="poly" id="edge607_Node000000_Node000001" title=" " alt="" coords="241,34,277,32,272,33,241,39"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ParNURBSExtension.html" title="Parallel version of NURBSExtension." alt="" coords="274,60,522,91"/>
+<area shape="poly" id="edge608_Node000000_Node000002" title=" " alt="" coords="241,58,276,64,271,64,241,63"/>
+</map>

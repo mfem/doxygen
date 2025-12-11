@@ -1,0 +1,6 @@
+<map id="mfem::CrankNicolsonTimeBaseSolver&lt; TFiniteElementSpace, TSesquilinearForm, TComplexGridFunction &gt;" name="mfem::CrankNicolsonTimeBaseSolver&lt; TFiniteElementSpace, TSesquilinearForm, TComplexGridFunction &gt;">
+<area shape="rect" id="Node000001" title="Crank&#45;Nicolson time solver for the Schrodinger equation." alt="" coords="5,15,398,86"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="446,5,872,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,57,448,60,443,60,414,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="413,39,448,41,443,42,414,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mfem::ParNCMesh" name="mfem::ParNCMesh">
+<area shape="rect" id="Node000001" title="A parallel extension of the NCMesh class." alt="" coords="21,84,199,115"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ParNCSubMesh.html" title="Class representing a Parallel Nonconformal SubMesh. This is only used by ParSubMesh." alt="" coords="5,163,215,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,129,112,163,108,161,108,132"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NCMesh.html" title="A class for non&#45;conforming AMR. The class is not used directly by the user, rather it is an extension..." alt="" coords="35,5,185,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,50,113,84,107,83,109,54"/>
+</map>

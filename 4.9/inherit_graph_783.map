@@ -1,0 +1,53 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1VectorCoefficient.html" title="Base class for vector Coefficients that optionally depend on time and space." alt="" coords="5,764,221,795"/>
+<area shape="rect" id="Node000001" href="$classDist__Vector__Coefficient.html" title="Distance vector to the zero level&#45;set." alt="" coords="340,5,549,36"/>
+<area shape="poly" id="edge1010_Node000000_Node000001" title=" " alt="" coords="114,748,126,599,154,387,174,278,199,180,230,99,248,69,267,45,300,24,341,14,338,18,302,29,270,49,252,72,235,102,205,181,179,280,159,388,132,599,119,748"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1CurlGridFunctionCoefficient.html" title="Vector coefficient defined as the Curl of a vector GridFunction." alt="" coords="294,60,594,91"/>
+<area shape="poly" id="edge1011_Node000000_Node000002" title=" " alt="" coords="114,748,129,609,158,414,178,315,203,224,232,151,249,123,267,101,295,84,292,88,270,105,253,126,237,153,208,226,184,316,163,415,134,610,120,749"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1GradientGridFunctionCoefficient.html" title="Vector coefficient defined as the Gradient of a scalar GridFunction." alt="" coords="318,115,570,166"/>
+<area shape="poly" id="edge1012_Node000000_Node000003" title=" " alt="" coords="115,748,133,624,164,452,185,364,209,285,236,220,251,195,267,176,290,159,319,148,316,152,293,164,270,180,255,198,241,223,214,287,190,366,169,453,138,624,121,749"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1LevelSetNormalGradCoeff.html" title=" " alt="" coords="320,190,568,241"/>
+<area shape="poly" id="edge1013_Node000000_Node000004" title=" " alt="" coords="111,748,114,651,121,587,133,517,152,445,180,374,218,308,241,278,267,251,291,233,321,222,318,226,294,238,270,255,245,281,222,311,185,376,157,446,138,518,126,588,119,652,116,748"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1MatrixVectorProductCoefficient.html" title="Vector coefficient defined as a product of a matrix coefficient and a vector coefficient." alt="" coords="323,265,566,315"/>
+<area shape="poly" id="edge1014_Node000000_Node000005" title=" " alt="" coords="112,748,120,663,129,608,143,549,162,488,189,428,223,373,267,325,293,308,324,297,321,301,295,313,270,329,228,376,193,431,167,490,148,550,134,609,125,664,118,749"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1NodeExtrudeCoefficient.html" title="Class used to extrude the nodes of a mesh." alt="" coords="310,340,578,371"/>
+<area shape="poly" id="edge1015_Node000000_Node000006" title=" " alt="" coords="114,748,124,672,148,572,168,518,194,467,227,420,267,380,287,367,311,359,308,363,289,372,270,384,231,423,198,470,173,521,153,573,129,673,119,749"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1NormalizedVectorCoefficient.html" title="Vector coefficient defined as a normalized vector field (returns v/|v|)" alt="" coords="291,395,598,425"/>
+<area shape="poly" id="edge1016_Node000000_Node000007" title=" " alt="" coords="116,748,129,682,156,596,176,551,201,508,231,468,267,435,292,421,289,426,270,439,235,472,205,511,181,553,161,598,134,683,121,749"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1PWVectorCoefficient.html" title="A piecewise vector&#45;valued coefficient with the pieces keyed off the element attribute numbers." alt="" coords="322,449,567,480"/>
+<area shape="poly" id="edge1017_Node000000_Node000008" title=" " alt="" coords="119,748,135,691,164,620,184,584,208,548,235,516,267,489,293,475,323,467,319,470,295,480,270,494,239,520,212,552,189,586,169,622,140,693,124,749"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1PositionVectorCoefficient.html" title=" " alt="" coords="305,504,584,535"/>
+<area shape="poly" id="edge1018_Node000000_Node000009" title=" " alt="" coords="122,749,142,703,173,647,215,591,240,566,267,545,306,528,303,533,270,550,243,570,219,594,178,649,147,705,127,751"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1ScalarVectorProductCoefficient.html" title="Vector coefficient defined as a product of scalar and vector coefficients." alt="" coords="323,559,566,610"/>
+<area shape="poly" id="edge1019_Node000000_Node000010" title=" " alt="" coords="131,750,187,683,225,649,267,620,324,599,321,603,270,624,228,653,191,687,136,752"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1ShiftedVectorFunctionCoefficient.html" title=" " alt="" coords="317,634,572,685"/>
+<area shape="poly" id="edge1020_Node000000_Node000011" title=" " alt="" coords="149,754,204,723,268,694,318,680,314,684,270,699,207,727,153,757"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1VectorArrayCoefficient.html" title="Vector coefficient defined by an array of scalar coefficients. Coefficients that are not set will eva..." alt="" coords="315,709,574,740"/>
+<area shape="poly" id="edge1021_Node000000_Node000012" title=" " alt="" coords="213,759,268,749,337,739,334,742,269,754,217,763"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1VectorConstantCoefficient.html" title="Vector coefficient that is constant in space and time." alt="" coords="301,764,588,795"/>
+<area shape="poly" id="edge1022_Node000000_Node000013" title=" " alt="" coords="235,777,302,778,298,781,238,782"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1VectorCrossProductCoefficient.html" title="Vector coefficient defined as a cross product of two vectors." alt="" coords="325,819,564,870"/>
+<area shape="poly" id="edge1023_Node000000_Node000014" title=" " alt="" coords="209,796,326,820,322,823,211,801"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1VectorDeltaCoefficient.html" title="Vector coefficient defined by a scalar DeltaCoefficient and a constant vector direction." alt="" coords="316,895,573,925"/>
+<area shape="poly" id="edge1024_Node000000_Node000015" title=" " alt="" coords="143,802,201,843,235,863,270,880,317,895,313,897,268,884,232,868,198,848,145,807"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1VectorFunctionCoefficient.html" title="A general vector function coefficient." alt="" coords="302,949,586,980"/>
+<area shape="poly" id="edge1025_Node000000_Node000016" title=" " alt="" coords="133,805,190,872,228,907,270,934,304,949,299,951,267,939,224,911,186,876,134,810"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1VectorGridFunctionCoefficient.html" title="Vector coefficient defined by a vector GridFunction." alt="" coords="327,1005,562,1055"/>
+<area shape="poly" id="edge1026_Node000000_Node000017" title=" " alt="" coords="127,806,151,849,182,899,222,948,270,989,298,1004,329,1015,324,1018,295,1008,267,994,218,952,178,902,146,852,127,811"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1VectorQuadratureFunctionCoefficient.html" title="Vector quadrature function coefficient which requires that the quadrature rules used for this vector ..." alt="" coords="299,1079,590,1130"/>
+<area shape="poly" id="edge1027_Node000000_Node000018" title=" " alt="" coords="121,807,141,865,170,935,190,971,213,1006,240,1038,270,1065,301,1084,296,1085,267,1069,236,1042,209,1009,185,974,166,937,136,867,122,813"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1VectorRestrictedCoefficient.html" title="Derived vector coefficient that has the value of the parent vector where it is active and is zero oth..." alt="" coords="296,1155,592,1185"/>
+<area shape="poly" id="edge1028_Node000000_Node000019" title=" " alt="" coords="118,808,132,880,158,970,178,1017,203,1063,233,1105,270,1140,298,1157,293,1159,267,1144,229,1108,198,1066,173,1020,153,972,127,881,118,813"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1VectorSumCoefficient.html" title="Vector coefficient defined as the linear combination of two vectors." alt="" coords="318,1209,571,1240"/>
+<area shape="poly" id="edge1029_Node000000_Node000020" title=" " alt="" coords="116,807,127,889,137,940,151,994,170,1050,196,1103,229,1153,270,1195,293,1209,320,1220,314,1222,290,1214,267,1199,225,1156,191,1106,165,1052,146,996,131,941,122,890,116,813"/>
+<area shape="rect" id="Node000021" href="$classmfem_1_1VolumeForceCoefficient.html" title="Volumetric force for linear elasticity." alt="" coords="309,1264,580,1295"/>
+<area shape="poly" id="edge1030_Node000000_Node000021" title=" " alt="" coords="114,808,122,899,130,956,143,1018,163,1082,190,1144,225,1201,270,1249,289,1262,311,1273,306,1274,286,1266,267,1253,221,1204,185,1146,158,1084,138,1020,125,957,117,899,114,813"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1common_1_1AffineTransformation.html" title=" " alt="" coords="281,1319,608,1349"/>
+<area shape="poly" id="edge1031_Node000000_Node000022" title=" " alt="" coords="119,808,141,921,174,1071,194,1146,218,1213,243,1268,271,1304,288,1318,283,1318,267,1308,239,1271,213,1215,189,1147,168,1072,136,922,119,813"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1common_1_1KershawTransformation.html" title=" " alt="" coords="269,1373,620,1404"/>
+<area shape="poly" id="edge1032_Node000000_Node000023" title=" " alt="" coords="118,808,138,931,170,1097,190,1181,214,1257,241,1318,255,1342,270,1359,288,1373,283,1373,267,1363,251,1345,236,1321,209,1259,185,1183,165,1098,133,932,118,813"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1common_1_1NormalizedGradCoefficient.html" title=" " alt="" coords="319,1429,570,1479"/>
+<area shape="poly" id="edge1033_Node000000_Node000024" title=" " alt="" coords="118,807,137,940,167,1123,188,1215,212,1299,240,1368,255,1394,271,1413,293,1430,321,1444,315,1444,290,1435,267,1417,250,1397,235,1370,207,1301,183,1216,162,1124,131,941,117,813"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1common_1_1SpiralTransformation.html" title=" " alt="" coords="281,1504,608,1535"/>
+<area shape="poly" id="edge1034_Node000000_Node000025" title=" " alt="" coords="117,807,133,955,161,1161,181,1266,206,1361,236,1438,253,1468,271,1489,287,1504,282,1503,267,1493,248,1471,231,1441,201,1363,176,1267,155,1162,127,956,116,813"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="mfem::InnerProductOperator" name="mfem::InnerProductOperator">
+<area shape="rect" id="Node000001" title="Abstract class for defining inner products. The method Eval() must be implemented in derived classes ..." alt="" coords="163,84,416,115"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ConstrainedInnerProduct.html" title="Inner product operator constrained to a list of indices/dofs. The method Eval() computes the inner pr..." alt="" coords="5,163,284,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,122,173,165,171,160,246,123"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1WeightedInnerProduct.html" title="Inner product weighted by operators, X and Y. The method Eval() computes the inner product of two vec..." alt="" coords="308,163,565,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,120,411,162,406,162,331,125"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="215,5,365,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,50,292,85,288,82,288,54"/>
+</map>

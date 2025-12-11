@@ -1,0 +1,7 @@
+<map id="mfem::TMOP_Metric_aspratio3D" name="mfem::TMOP_Metric_aspratio3D">
+<area shape="rect" id="Node000001" title="3D non&#45;barrier Aspect ratio metric." alt="" coords="5,163,295,193"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1TMOP__QualityMetric.html" title="Abstract class for local mesh quality metrics in the target&#45;matrix optimization paradigm (TMOP) by P...." alt="" coords="25,84,275,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,129,152,163,148,161,148,132"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1HyperelasticModel.html" title="Abstract class for hyperelastic models." alt="" coords="36,5,264,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,50,153,84,147,82,149,54"/>
+</map>

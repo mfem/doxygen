@@ -1,0 +1,10 @@
+<map id="mfem::Local_FECollection" name="mfem::Local_FECollection">
+<area shape="rect" id="Node000001" title="Discontinuous collection defined locally by a given finite element." alt="" coords="5,114,239,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="253,5,522,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,45,160,116,157,111,338,40"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="263,104,512,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="389,49,390,105,385,102,386,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="354,223,594,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,208,516,184,526,158,530,131,522,105,505,83,483,65,435,39,435,34,486,60,509,79,527,103,535,130,532,159,521,187,505,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,165,458,223,453,221,413,169"/>
+</map>

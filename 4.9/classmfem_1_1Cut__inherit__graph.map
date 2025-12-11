@@ -1,0 +1,13 @@
+<map id="mfem::Cut" name="mfem::Cut">
+<area shape="rect" id="Node000001" title="All subclasses of Cut will implement intersection routines and quadrature point generation within the..." alt="" coords="5,90,112,121"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="163,5,428,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,82,159,65,199,55,195,58,161,71,115,86"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="163,80,428,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,103,165,104,161,107,128,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,155,432,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,124,160,140,210,154,205,155,159,145,112,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="480,108,704,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,150,482,147,477,148,438,155"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="480,183,704,233"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="438,186,482,194,477,194,438,191"/>
+</map>

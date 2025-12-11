@@ -1,0 +1,7 @@
+<map id="mfem::NURBS_HDivFECollection" name="mfem::NURBS_HDivFECollection">
+<area shape="rect" id="Node000001" title="Arbitrary order H(div) NURBS finite elements." alt="" coords="5,163,298,193"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NURBSFECollection.html" title="Arbitrary order non&#45;uniform rational B&#45;splines (NURBS) finite elements." alt="" coords="30,84,273,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,129,154,163,149,161,150,132"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="17,5,286,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,50,154,84,149,82,150,54"/>
+</map>

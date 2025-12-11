@@ -1,0 +1,9 @@
+<map id="mfem::RT_FECollection" name="mfem::RT_FECollection">
+<area shape="rect" id="Node000001" title="Arbitrary order H(div)&#45;conforming Raviart&#45;Thomas finite elements." alt="" coords="117,84,331,115"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1DG__Interface__FECollection.html" title=" " alt="" coords="5,163,192,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,123,136,165,133,160,188,125"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1RT__Trace__FECollection.html" title="Arbitrary order &quot;H^{&#45;1/2}&#45;conforming&quot; face finite elements defined on the interface between mesh elem..." alt="" coords="215,173,486,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,121,332,172,326,172,257,126"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="90,5,358,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,50,226,84,221,82,222,54"/>
+</map>

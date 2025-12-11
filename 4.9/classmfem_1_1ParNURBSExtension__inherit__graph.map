@@ -1,0 +1,5 @@
+<map id="mfem::ParNURBSExtension" name="mfem::ParNURBSExtension">
+<area shape="rect" id="Node000001" title="Parallel version of NURBSExtension." alt="" coords="5,84,254,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NURBSExtension.html" title="NURBSExtension generally contains multiple NURBSPatch objects spanning an entire Mesh...." alt="" coords="19,5,240,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,50,132,85,127,82,128,54"/>
+</map>

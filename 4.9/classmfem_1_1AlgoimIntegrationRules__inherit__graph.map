@@ -1,0 +1,5 @@
+<map id="mfem::AlgoimIntegrationRules" name="mfem::AlgoimIntegrationRules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,271,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1CutIntegrationRules.html" title="Abstract class for construction of IntegrationRules in cut elements." alt="" coords="19,5,257,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,50,140,85,136,82,136,54"/>
+</map>

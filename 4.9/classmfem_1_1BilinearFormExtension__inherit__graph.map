@@ -1,0 +1,13 @@
+<map id="mfem::BilinearFormExtension" name="mfem::BilinearFormExtension">
+<area shape="rect" id="Node000001" title="Class extending the BilinearForm class to support different AssemblyLevels." alt="" coords="174,84,434,115"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1MFBilinearFormExtension.html" title="Data and methods for matrix&#45;free bilinear forms." alt="" coords="5,163,293,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,124,180,164,177,160,262,120"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1PABilinearFormExtension.html" title="Data and methods for partially&#45;assembled bilinear forms." alt="" coords="316,163,600,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,119,431,162,426,163,347,125"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="228,5,379,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,49,306,84,301,82,303,54"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1EABilinearFormExtension.html" title="Data and methods for element&#45;assembled bilinear forms." alt="" coords="316,241,600,272"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,207,461,242,456,239,457,211"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1FABilinearFormExtension.html" title="Data and methods for fully&#45;assembled bilinear forms." alt="" coords="317,320,600,351"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="460,286,460,321,456,318,456,290"/>
+</map>

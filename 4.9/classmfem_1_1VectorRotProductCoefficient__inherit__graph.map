@@ -1,0 +1,5 @@
+<map id="mfem::VectorRotProductCoefficient" name="mfem::VectorRotProductCoefficient">
+<area shape="rect" id="Node000001" title="Scalar coefficient defined as a cross product of two vectors in the xy&#45;plane." alt="" coords="5,84,311,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="76,5,240,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,50,160,85,156,82,156,54"/>
+</map>

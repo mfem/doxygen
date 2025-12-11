@@ -1,0 +1,15 @@
+<map id="mfem::GroupCommunicator" name="mfem::GroupCommunicator">
+<area shape="rect" id="Node000001" title="Communicator performing operations within groups defined by a GroupTopology with arbitrary&#45;size data ..." alt="" coords="167,381,416,412"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1GroupTopology.html" title=" " alt="" coords="5,223,207,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,262,181,307,238,355,271,381,266,381,234,359,177,311,131,267"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Table.html" title="Table stores the connectivity of elements of TYPE I to elements of TYPE II. For example,..." alt="" coords="231,223,352,253"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,267,294,382,289,380,289,270"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Array.html" title=" " alt="" coords="192,104,364,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="283,148,292,223,287,222,280,152"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Memory.html" title=" " alt="" coords="180,5,376,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,49,281,105,275,103,277,54"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Array.html" title=" " alt="" coords="394,223,583,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="485,267,470,316,456,339,438,359,418,373,395,383,394,378,416,369,435,355,452,336,465,313,481,270"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="388,104,600,135"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="494,148,492,224,487,221,491,152"/>
+</map>

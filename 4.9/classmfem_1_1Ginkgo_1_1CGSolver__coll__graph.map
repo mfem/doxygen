@@ -1,0 +1,27 @@
+<map id="mfem::Ginkgo::CGSolver" name="mfem::Ginkgo::CGSolver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1312,325,1537,356"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="1002,305,1262,376"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1278,338,1314,340,1309,341,1278,343"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Ginkgo_1_1GinkgoIterativeSolver.html" title=" " alt="" coords="684,315,953,366"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="968,338,1004,340,999,341,969,343"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="272,5,401,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,12,475,13,539,21,603,38,633,51,662,68,694,94,721,125,745,158,765,193,795,261,813,316,808,314,790,263,760,196,741,161,717,128,690,98,659,72,631,56,601,43,538,26,474,18,418,17"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,5,156,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,18,274,19,270,22,172,23"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="244,61,430,111"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="445,87,498,93,554,105,610,123,662,148,710,185,751,230,783,276,806,316,801,314,779,279,747,234,707,189,659,152,608,127,553,110,497,99,446,92"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="244,135,430,186"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="445,165,552,183,608,198,661,218,700,239,736,264,794,315,789,315,733,268,697,243,659,223,606,203,551,188,446,171"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="242,211,432,281"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="447,257,552,272,661,293,738,314,732,315,660,298,551,277,448,262"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="213,305,460,376"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="475,338,686,340,681,342,476,343"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="232,401,442,451"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="456,402,686,363,681,366,458,407"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="205,475,468,526"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="483,471,571,449,659,421,720,394,773,368,778,365,723,398,661,426,573,454,484,476"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="214,550,459,601"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="474,556,568,533,615,516,659,494,702,465,740,430,796,368,801,365,744,434,705,469,662,499,617,521,569,538,475,561"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="244,625,430,675"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="445,644,498,637,554,624,609,605,659,577,687,555,712,528,754,470,786,412,806,368,810,365,790,414,759,472,716,532,690,559,662,582,611,610,555,629,499,642,446,649"/>
+</map>

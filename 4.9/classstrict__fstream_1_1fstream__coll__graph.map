@@ -1,0 +1,18 @@
+<map id="strict_fstream::fstream" name="strict_fstream::fstream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,537,287,568"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="128,459,244,489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,503,189,538,184,535,184,507"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,360,270,411"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,424,189,459,184,457,185,428"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,261,275,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,325,189,360,184,359,185,330"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,163,173,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="124,222,164,260,159,262,125,227"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="86,84,287,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,127,119,164,114,161,160,123"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="197,163,370,213"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="214,123,259,162,253,163,214,128"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="123,5,250,36"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="187,49,189,84,184,83,186,55"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="247,226,213,263,209,259,250,222"/>
+</map>

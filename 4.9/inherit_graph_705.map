@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1TCoefficient.html" title="Templated coefficient classes, cf. coefficient.?pp." alt="" coords="5,127,180,158"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1TConstantCoefficient.html" title=" " alt="" coords="256,5,502,56"/>
+<area shape="poly" id="edge945_Node000000_Node000001" title=" " alt="" coords="129,117,175,90,227,66,263,55,258,58,229,70,177,95,132,121"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1TFunctionCoefficient.html" title="Function coefficient." alt="" coords="257,80,500,131"/>
+<area shape="poly" id="edge946_Node000000_Node000002" title=" " alt="" coords="194,127,259,120,254,122,196,132"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1TGridFunctionCoefficient.html" title="GridFunction coefficient class." alt="" coords="240,155,518,205"/>
+<area shape="poly" id="edge947_Node000000_Node000003" title=" " alt="" coords="195,153,242,161,237,163,195,159"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1TPiecewiseConstCoefficient.html" title=" " alt="" coords="228,229,530,280"/>
+<area shape="poly" id="edge948_Node000000_Node000004" title=" " alt="" coords="131,164,177,190,229,215,263,229,258,229,227,220,175,195,130,169"/>
+</map>

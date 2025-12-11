@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,60,142,91"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1socketbuf.html" title=" " alt="" coords="190,5,345,36"/>
+<area shape="poly" id="edge1082_Node000000_Node000001" title=" " alt="" coords="144,53,213,35,208,38,146,58"/>
+<area shape="rect" id="Node000003" href="$classzstr_1_1istreambuf.html" title=" " alt="" coords="195,60,340,91"/>
+<area shape="poly" id="edge1084_Node000000_Node000003" title=" " alt="" coords="157,73,197,75,191,76,158,78"/>
+<area shape="rect" id="Node000004" href="$classzstr_1_1ostreambuf.html" title=" " alt="" coords="192,115,343,145"/>
+<area shape="poly" id="edge1085_Node000000_Node000004" title=" " alt="" coords="145,93,213,114,208,115,145,98"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1GnuTLS__socketbuf.html" title=" " alt="" coords="393,5,626,36"/>
+<area shape="poly" id="edge1083_Node000001_Node000002" title=" " alt="" coords="360,18,395,20,390,21,361,23"/>
+</map>

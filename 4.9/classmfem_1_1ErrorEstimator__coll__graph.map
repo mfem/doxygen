@@ -1,0 +1,5 @@
+<map id="mfem::ErrorEstimator" name="mfem::ErrorEstimator">
+<area shape="rect" id="Node000001" title="Base class for all element based error estimators." alt="" coords="38,84,234,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1AbstractErrorEstimator.html" title="Base class for all error estimators." alt="" coords="5,5,267,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,50,138,85,134,82,134,54"/>
+</map>

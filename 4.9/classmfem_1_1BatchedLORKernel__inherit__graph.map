@@ -1,0 +1,11 @@
+<map id="mfem::BatchedLORKernel" name="mfem::BatchedLORKernel">
+<area shape="rect" id="Node000001" title="Abstract base class for the batched LOR assembly kernels." alt="" coords="360,5,594,36"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1BatchedLOR__DG.html" title=" " alt="" coords="5,84,226,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,42,185,86,184,81,392,37"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1BatchedLOR__H1.html" title=" " alt="" coords="249,84,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,44,381,86,379,81,438,46"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1BatchedLOR__ND.html" title=" " alt="" coords="489,84,707,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="513,42,577,84,572,83,512,47"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1BatchedLOR__RT.html" title=" " alt="" coords="731,84,948,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="562,37,772,83,767,84,561,42"/>
+</map>

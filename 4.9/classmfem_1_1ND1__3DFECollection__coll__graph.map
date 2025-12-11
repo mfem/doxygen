@@ -1,0 +1,10 @@
+<map id="mfem::ND1_3DFECollection" name="mfem::ND1_3DFECollection">
+<area shape="rect" id="Node000001" title="Lowest order Nedelec finite elements in 3D. This class is kept only for backward compatibility,..." alt="" coords="5,114,255,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="269,5,538,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,44,169,116,166,111,353,40"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="279,104,528,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="405,49,406,105,401,102,402,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="370,223,610,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="518,208,532,184,542,158,546,131,538,105,521,83,499,65,451,39,451,34,502,60,525,79,543,103,551,130,548,159,537,187,521,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,165,474,223,469,221,429,169"/>
+</map>

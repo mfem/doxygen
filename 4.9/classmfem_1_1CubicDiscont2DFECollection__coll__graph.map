@@ -1,0 +1,10 @@
+<map id="mfem::CubicDiscont2DFECollection" name="mfem::CubicDiscont2DFECollection">
+<area shape="rect" id="Node000001" title="Piecewise&#45;cubic discontinuous finite elements in 2D. This class is kept only for backward compatibili..." alt="" coords="5,114,315,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="330,5,598,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,44,203,116,201,111,409,39"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="339,104,589,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="466,50,466,105,462,102,462,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="431,223,670,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="579,208,592,184,603,158,606,131,599,105,582,83,560,65,511,39,512,34,563,60,586,79,604,103,612,130,608,159,597,187,582,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,165,535,223,530,221,490,169"/>
+</map>

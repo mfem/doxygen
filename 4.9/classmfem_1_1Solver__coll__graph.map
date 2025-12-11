@@ -1,0 +1,5 @@
+<map id="mfem::Solver" name="mfem::Solver">
+<area shape="rect" id="Node000001" title="Base class for solvers." alt="" coords="16,84,145,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,5,156,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,50,83,84,78,83,79,54"/>
+</map>

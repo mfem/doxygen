@@ -1,0 +1,7 @@
+<map id="mfem::navier::NavierParticles::FluidParticleIndices" name="mfem::navier::NavierParticles::FluidParticleIndices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="385,43,643,93"/>
+<area shape="rect" id="Node000002" href="$structmfem_1_1navier_1_1NavierParticles_1_1FluidParticleIndices_1_1FieldIndices.html" title=" " alt="" coords="5,5,299,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,45,387,54,381,55,314,50"/>
+<area shape="rect" id="Node000003" href="$structmfem_1_1navier_1_1NavierParticles_1_1FluidParticleIndices_1_1TagIndices.html" title=" " alt="" coords="10,80,294,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,86,387,81,382,82,310,92"/>
+</map>

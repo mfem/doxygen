@@ -1,0 +1,7 @@
+<map id="mfem::L2ElementRestriction" name="mfem::L2ElementRestriction">
+<area shape="rect" id="Node000001" title="Operator that converts L2 FiniteElementSpace L&#45;vectors to E&#45;vectors." alt="" coords="5,183,256,213"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ElementRestrictionOperator.html" title="Abstract base class that defines an interface for element restrictions." alt="" coords="15,84,246,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,148,133,184,128,181,129,152"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="55,5,206,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,49,133,84,128,83,129,54"/>
+</map>

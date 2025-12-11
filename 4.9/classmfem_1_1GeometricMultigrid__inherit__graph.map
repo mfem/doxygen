@@ -1,0 +1,16 @@
+<map id="mfem::GeometricMultigrid" name="mfem::GeometricMultigrid">
+<area shape="rect" id="Node000001" title="Geometric multigrid associated with a hierarchy of finite element spaces." alt="" coords="5,320,238,351"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="41,399,202,429"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="115,365,117,399,112,397,111,368"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="132,365,131,399,126,397,128,368"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ceed_1_1AlgebraicMultigrid.html" title="Extension of Multigrid object to algebraically generated coarse spaces." alt="" coords="226,399,497,429"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="183,353,318,397,313,399,182,359"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Multigrid.html" title="Multigrid solver class." alt="" coords="48,241,195,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,286,124,320,119,319,120,290"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1MultigridBase.html" title="Abstract base class for Multigrid solvers." alt="" coords="27,163,216,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,207,124,241,119,240,121,212"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="57,84,186,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,128,124,163,119,162,121,133"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="46,5,197,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,49,124,84,119,83,121,55"/>
+</map>

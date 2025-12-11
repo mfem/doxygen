@@ -1,0 +1,5 @@
+<map id="mfem::LinearSpacingFunction" name="mfem::LinearSpacingFunction">
+<area shape="rect" id="Node000001" title="Linear spacing function, defining the width of interval i as s + i * d." alt="" coords="5,84,268,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1SpacingFunction.html" title=" " alt="" coords="30,5,243,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,50,139,85,134,82,135,54"/>
+</map>

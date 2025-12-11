@@ -1,0 +1,5 @@
+<map id="mfem::IMEX_DIRK_RK3" name="mfem::IMEX_DIRK_RK3">
+<area shape="rect" id="Node000001" title="Third order, 3/4&#45;stage implicit&#45;explicit (IMEX) Runge&#45;Kutta (RK) method." alt="" coords="5,84,227,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ODESolver.html" title="Abstract class for solving systems of ODEs: dx/dt = f(x,t)" alt="" coords="31,5,201,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,50,118,85,114,82,114,54"/>
+</map>

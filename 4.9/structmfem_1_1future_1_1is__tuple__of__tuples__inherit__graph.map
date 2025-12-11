@@ -1,0 +1,5 @@
+<map id="mfem::future::is_tuple_of_tuples&lt; T &gt;" name="mfem::future::is_tuple_of_tuples&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Trait for checking if a type if a mfem::tuple containing only mfem::tuple." alt="" coords="5,84,202,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,172,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,50,106,84,101,83,102,54"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="mfem::ThresholdRefiner" name="mfem::ThresholdRefiner">
+<area shape="rect" id="Node000001" title="Mesh refinement operator using an error threshold." alt="" coords="1139,85,1356,116"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MeshOperator.html" title="The MeshOperator class serves as base for mesh manipulation classes." alt="" coords="702,5,897,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="912,28,1012,41,1116,59,1201,85,1196,85,1115,65,1011,46,912,34"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ErrorEstimator.html" title="Base class for all element based error estimators." alt="" coords="367,97,562,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="578,106,593,106,965,97,1115,97,1141,99,1136,100,1115,102,965,102,593,111,579,112"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1AnisotropicErrorEstimator.html" title="The AnisotropicErrorEstimator class is the base class for all error estimators that compute one non&#45;n..." alt="" coords="657,129,941,160"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="578,121,659,131,654,131,578,126"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1AbstractErrorEstimator.html" title="Base class for all error estimators." alt="" coords="5,97,267,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,110,369,112,364,113,283,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="956,131,1115,117,1136,117,1141,116,1116,122,957,137"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Array.html" title=" " alt="" coords="702,185,896,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="912,196,1011,180,1115,155,1168,136,1213,117,1218,116,1170,141,1116,161,1012,185,912,201"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="361,185,569,235"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="584,207,704,210,699,210,584,213"/>
+<area shape="rect" id="Node000008" href="$structmfem_1_1Refinement.html" title=" " alt="" coords="50,195,222,225"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="237,207,363,210,358,210,237,213"/>
+</map>
