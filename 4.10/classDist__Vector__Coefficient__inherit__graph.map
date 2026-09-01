@@ -1,0 +1,5 @@
+<map id="Dist_Vector_Coefficient" name="Dist_Vector_Coefficient">
+<area shape="rect" id="Node000001" title="Distance vector to the zero level&#45;set." alt="" coords="8,84,218,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1VectorCoefficient.html" title="Base class for vector Coefficients that optionally depend on time and space." alt="" coords="5,5,221,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,50,115,84,111,82,111,54"/>
+</map>

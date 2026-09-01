@@ -1,0 +1,21 @@
+<map id="mfem::Ginkgo::GinkgoPreconditioner" name="mfem::Ginkgo::GinkgoPreconditioner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,169,701,200"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Ginkgo_1_1IcIsaiPreconditioner.html" title=" " alt="" coords="763,5,1067,36"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="571,157,648,99,697,69,748,45,786,36,781,38,750,50,699,74,651,104,573,161"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Ginkgo_1_1IcPreconditioner.html" title=" " alt="" coords="777,60,1053,91"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="588,160,663,129,749,99,798,91,793,92,750,105,665,134,590,165"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Ginkgo_1_1IluIsaiPreconditioner.html" title=" " alt="" coords="760,115,1070,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="665,164,808,145,803,147,666,169"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Ginkgo_1_1IluPreconditioner.html" title=" " alt="" coords="774,169,1056,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="716,182,776,184,771,185,717,187"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Ginkgo_1_1JacobiPreconditioner.html" title=" " alt="" coords="758,224,1072,255"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="666,200,808,223,803,224,666,206"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1Ginkgo_1_1MFEMPreconditioner.html" title=" " alt="" coords="756,279,1074,309"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="590,204,665,236,750,265,798,278,793,278,749,270,663,241,589,210"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1Ginkgo_1_1SchwarzPreconditioner.html" title=" " alt="" coords="749,333,1081,364"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="573,208,651,266,699,295,750,320,786,333,780,332,748,324,697,300,648,270,571,213"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="204,169,333,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,182,383,184,378,185,349,187"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,169,156,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,182,206,183,201,186,172,187"/>
+</map>

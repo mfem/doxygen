@@ -1,0 +1,23 @@
+<map id="mfem::IPSolver" name="mfem::IPSolver">
+<area shape="rect" id="Node000001" title="Class for interior&#45;point solvers of contact&#45;problems described by a OptContactProblem." alt="" coords="761,327,907,358"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1OptContactProblem.html" title="Contact optimization problem with mortar and non&#45;mortar interfaces." alt="" coords="316,21,554,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,22,614,25,658,34,701,50,739,74,766,102,788,135,805,171,817,208,831,277,835,328,830,326,825,277,812,209,800,173,783,137,762,105,735,78,698,55,657,40,613,31,571,27"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="370,109,500,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="514,110,577,102,642,99,699,102,721,106,738,114,764,136,785,162,801,192,813,223,828,282,834,328,829,326,823,283,808,225,796,194,780,165,760,139,736,118,720,111,698,107,642,104,577,108,516,114"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="41,154,192,185"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,154,372,131,368,135,208,159"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1HypreParMatrix.html" title="Wrapper for hypre&#39;s ParCSR matrix class." alt="" coords="333,197,537,227"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="207,179,334,197,330,200,208,184"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="370,397,500,427"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="515,420,566,423,622,422,680,417,736,404,780,382,814,360,818,357,783,387,738,409,681,422,623,428,566,428,516,425"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Memory.html" title=" " alt="" coords="5,425,228,455"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,426,371,416,367,419,244,431"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Array.html" title=" " alt="" coords="336,455,534,486"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="243,450,252,451,338,460,333,462,251,456,244,455"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="515,487,567,493,624,494,682,487,736,468,767,445,793,415,812,384,825,360,829,357,816,386,797,418,771,449,738,473,683,492,624,500,567,498,515,492"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Array.html" title=" " alt="" coords="349,594,521,625"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="507,626,561,634,621,636,681,626,710,616,735,601,763,575,784,545,801,511,813,475,826,408,831,360,834,356,831,408,818,477,806,513,789,548,767,579,739,605,712,620,683,631,622,641,561,640,506,631"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1Memory.html" title=" " alt="" coords="18,594,215,625"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="230,607,351,609,346,610,230,612"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="479,232,527,254,579,273,623,285,658,290,693,294,738,304,798,327,792,327,736,309,692,299,657,295,622,290,577,279,525,259,479,237"/>
+</map>

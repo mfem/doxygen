@@ -1,0 +1,5 @@
+<map id="mfem::MatrixFunctionCoefficient" name="mfem::MatrixFunctionCoefficient">
+<area shape="rect" id="Node000001" title="A matrix coefficient with an optional scalar coefficient multiplier q. The matrix function can either..." alt="" coords="5,84,288,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MatrixCoefficient.html" title=" " alt="" coords="40,5,253,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,50,149,85,144,82,145,54"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="mfem::RusanovFlux" name="mfem::RusanovFlux">
+<area shape="rect" id="Node000001" title="Rusanov flux, also known as local Lax&#45;Friedrichs, F̂ n = ½(F(u⁺,x)n + F(u⁻,x)n) &#45; ½λ(u⁺ &#45; u⁻) where λ..." alt="" coords="230,303,413,333"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NumericalFlux.html" title="Abstract class for numerical flux for a system of hyperbolic conservation laws on a face with states,..." alt="" coords="19,184,213,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,220,298,301,293,303,154,225"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FluxFunction.html" title="Abstract class for hyperbolic flux for a system of hyperbolic conservation laws." alt="" coords="5,85,187,116"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,129,116,184,110,184,101,134"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="256,184,386,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,228,324,304,319,301,319,232"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Memory.html" title=" " alt="" coords="210,85,432,116"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,130,324,185,319,183,320,134"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="420,184,601,215"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="477,223,346,304,344,300,471,224"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="457,85,586,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="520,130,514,185,510,182,516,134"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="446,5,596,36"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="523,50,524,86,519,84,520,54"/>
+</map>

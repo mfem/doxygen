@@ -1,0 +1,37 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="5,361,136,392"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1BlockVector.html" title="A class to handle Vectors in a block fashion." alt="" coords="241,5,415,36"/>
+<area shape="poly" id="edge1012_Node000000_Node000001" title=" " alt="" coords="70,346,76,282,93,201,107,158,126,117,151,78,182,45,209,29,242,20,238,24,211,34,185,49,155,82,131,119,112,160,98,202,81,283,75,346"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1CoefficientVector.html" title="Class to represent a coefficient evaluated at quadrature points." alt="" coords="220,60,436,91"/>
+<area shape="poly" id="edge1013_Node000000_Node000002" title=" " alt="" coords="72,345,82,292,101,225,115,190,133,157,155,126,182,100,221,81,218,85,185,104,159,130,138,160,120,193,106,227,87,293,78,346"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ComplexGridFunction.html" title=" " alt="" coords="201,115,455,145"/>
+<area shape="poly" id="edge1014_Node000000_Node000003" title=" " alt="" coords="76,346,88,302,109,250,140,198,159,175,182,155,203,144,200,148,185,159,163,178,144,201,114,252,93,304,81,347"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ComplexLinearForm.html" title=" " alt="" coords="206,169,450,200"/>
+<area shape="poly" id="edge1015_Node000000_Node000004" title=" " alt="" coords="81,346,96,313,119,276,147,239,182,209,207,198,204,202,185,214,151,243,123,279,101,316,86,348"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1GridFunction.html" title="Class for grid function &#45; Vector with associated FE space." alt="" coords="237,224,419,255"/>
+<area shape="poly" id="edge1016_Node000000_Node000005" title=" " alt="" coords="90,348,129,303,154,282,182,264,208,253,238,246,234,250,210,258,185,268,158,286,133,307,94,350"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1HypreParVector.html" title="Wrapper for hypre&#39;s parallel vector class." alt="" coords="225,279,431,309"/>
+<area shape="poly" id="edge1019_Node000000_Node000008" title=" " alt="" coords="109,352,145,334,183,318,226,308,222,311,185,323,147,338,113,356"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1LinearForm.html" title="Vector with associated FE space and LinearFormIntegrators." alt="" coords="242,333,414,364"/>
+<area shape="poly" id="edge1020_Node000000_Node000009" title=" " alt="" coords="150,366,243,356,240,360,152,370"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1ParComplexGridFunction.html" title=" " alt="" coords="187,388,469,419"/>
+<area shape="poly" id="edge1022_Node000000_Node000011" title=" " alt="" coords="150,383,188,387,184,390,152,387"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1ParComplexLinearForm.html" title=" " alt="" coords="192,443,464,473"/>
+<area shape="poly" id="edge1023_Node000000_Node000012" title=" " alt="" coords="113,397,185,427,230,441,225,443,183,433,114,402"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1ParticleVector.html" title="ParticleVector carries vector data (of a given vector dimension) for an arbitrary number of particles..." alt="" coords="233,497,423,528"/>
+<area shape="poly" id="edge1024_Node000000_Node000013" title=" " alt="" coords="92,402,134,445,158,465,185,482,235,501,230,503,182,487,155,470,130,449,93,407"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1PetscParVector.html" title=" " alt="" coords="226,552,430,583"/>
+<area shape="poly" id="edge1025_Node000000_Node000014" title=" " alt="" coords="83,403,101,437,123,473,151,508,185,537,228,557,223,559,182,542,147,512,119,476,97,439,84,409"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1QuadratureFunction.html" title="Represents values or vectors of values at quadrature points on a mesh." alt="" coords="208,607,448,637"/>
+<area shape="poly" id="edge1026_Node000000_Node000015" title=" " alt="" coords="78,404,94,448,114,499,145,550,164,572,185,592,210,607,205,608,182,596,160,576,140,553,110,502,89,450,78,409"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1SundialsNVector.html" title="Vector interface for SUNDIALS N_Vectors." alt="" coords="222,661,434,692"/>
+<area shape="poly" id="edge1027_Node000000_Node000016" title=" " alt="" coords="75,405,87,460,106,525,120,559,138,591,160,621,185,647,203,658,224,668,219,669,200,663,182,651,156,625,134,594,116,561,101,527,82,461,75,410"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1future_1_1ParameterFunction.html" title=" " alt="" coords="184,716,472,747"/>
+<area shape="poly" id="edge1028_Node000000_Node000017" title=" " alt="" coords="73,405,82,470,99,550,113,592,131,632,155,669,185,701,204,716,199,715,182,705,151,673,127,635,108,594,93,551,76,471,72,410"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1GridFunctionPumi.html" title="Class for PUMI grid functions." alt="" coords="520,197,744,228"/>
+<area shape="poly" id="edge1017_Node000005_Node000006" title=" " alt="" coords="433,228,522,221,518,224,435,232"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ParGridFunction.html" title="Class for parallel grid function." alt="" coords="527,252,737,283"/>
+<area shape="poly" id="edge1018_Node000005_Node000007" title=" " alt="" coords="433,247,529,256,524,259,435,252"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1ParLinearForm.html" title="Class for parallel linear form." alt="" coords="532,333,732,364"/>
+<area shape="poly" id="edge1021_Node000009_Node000010" title=" " alt="" coords="428,346,535,348,530,350,430,351"/>
+</map>

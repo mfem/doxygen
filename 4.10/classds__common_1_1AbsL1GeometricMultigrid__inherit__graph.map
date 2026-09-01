@@ -1,0 +1,13 @@
+<map id="ds_common::AbsL1GeometricMultigrid" name="ds_common::AbsL1GeometricMultigrid">
+<area shape="rect" id="Node000001" title="Abs&#45;L(1)&#45;Jacobi custom general geometric multigrid method." alt="" coords="5,399,273,449"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1GeometricMultigrid.html" title="Geometric multigrid associated with a hierarchy of finite element spaces." alt="" coords="23,320,255,351"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,364,141,399,137,397,137,368"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Multigrid.html" title="Multigrid solver class." alt="" coords="65,241,213,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,286,142,320,136,319,138,290"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1MultigridBase.html" title="Abstract base class for Multigrid solvers." alt="" coords="45,163,233,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,207,142,241,136,240,138,212"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="74,84,204,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,128,142,163,136,162,138,133"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="64,5,214,36"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="140,49,142,84,136,83,138,55"/>
+</map>

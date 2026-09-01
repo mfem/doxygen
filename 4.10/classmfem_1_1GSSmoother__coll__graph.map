@@ -1,0 +1,31 @@
+<map id="mfem::GSSmoother" name="mfem::GSSmoother">
+<area shape="rect" id="Node000001" title="Gauss&#45;Seidel smoother of a sparse matrix." alt="" coords="1667,95,1851,125"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1SparseSmoother.html" title="Abstract base class for smoothers created from a SparseMatrix." alt="" coords="1403,95,1617,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1633,107,1669,110,1664,110,1633,113"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1MatrixInverse.html" title="Abstract data type for matrix inverse." alt="" coords="659,9,846,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="862,29,1080,46,1333,74,1436,94,1431,94,1333,79,1080,51,862,34"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="205,5,334,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,19,660,22,656,26,350,24"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,33,156,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,33,207,29,202,32,172,38"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="206,60,334,91"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="170,59,207,65,203,68,172,64"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1SparseMatrix.html" title="Data type sparse matrix." alt="" coords="870,168,1056,199"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1040,161,1129,143,1272,125,1405,116,1400,117,1272,130,1130,149,1041,167"/>
+<area shape="poly" id="edge13_Node000006_Node000006" title=" " alt="" coords="939,150,947,144,963,141,978,144,987,150,990,159,986,170,983,166,985,159,983,153,976,149,963,147,949,149,942,155"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1130,158,1333,209"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="1071,181,1132,183,1126,184,1071,186"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1AbstractSparseMatrix.html" title="Abstract data type for sparse matrices." alt="" coords="384,60,635,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="650,66,749,73,799,83,847,97,877,111,905,129,949,168,944,167,902,134,875,116,845,102,798,88,748,78,651,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="348,73,386,74,381,76,350,78"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1Memory.html" title=" " alt="" coords="411,116,608,147"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="623,138,847,162,872,168,867,168,846,167,623,143"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1Memory.html" title=" " alt="" coords="398,171,620,201"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="636,183,846,182,872,184,867,185,846,187,637,188"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1RowNode.html" title=" " alt="" coords="431,269,588,300"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="603,273,720,257,846,229,889,214,927,200,932,199,891,219,847,234,721,262,604,279"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="482,252,491,245,509,243,526,245,536,251,540,260,536,271,532,267,535,260,532,254,524,250,509,248,493,250,484,256"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1MemAlloc.html" title=" " alt="" coords="398,325,620,375"/>
+<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="636,343,741,327,794,311,845,290,877,270,906,245,948,200,953,198,910,248,881,274,848,295,796,316,742,332,636,349"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="1348,154,1378,146,1455,126,1460,125,1380,151,1349,159"/>
+</map>

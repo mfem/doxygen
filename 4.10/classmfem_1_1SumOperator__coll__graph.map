@@ -1,0 +1,5 @@
+<map id="mfem::SumOperator" name="mfem::SumOperator">
+<area shape="rect" id="Node000001" title="General linear combination operator: x &#45;&gt; a A(x) + b B(x)." alt="" coords="5,84,194,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="24,5,175,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,50,102,84,97,82,98,54"/>
+</map>

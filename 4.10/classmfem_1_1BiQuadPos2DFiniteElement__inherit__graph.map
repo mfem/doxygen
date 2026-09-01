@@ -1,0 +1,9 @@
+<map id="mfem::BiQuadPos2DFiniteElement" name="mfem::BiQuadPos2DFiniteElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,241,310,272"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1PositiveFiniteElement.html" title="Class for finite elements utilizing the always positive Bernstein basis." alt="" coords="31,163,284,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,207,160,242,155,239,156,211"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ScalarFiniteElement.html" title="Class for finite elements with basis functions that return scalar values." alt="" coords="37,84,278,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,128,160,163,155,161,156,133"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1FiniteElement.html" title="Abstract class for all finite elements." alt="" coords="63,5,252,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,49,160,84,155,83,156,54"/>
+</map>

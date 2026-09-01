@@ -1,0 +1,11 @@
+<map id="mfem::FluxFunction" name="mfem::FluxFunction">
+<area shape="rect" id="Node000001" title="Abstract class for hyperbolic flux for a system of hyperbolic conservation laws." alt="" coords="313,5,494,36"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1AdvectionFlux.html" title="Advection flux." alt="" coords="5,84,197,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,43,160,86,159,81,330,38"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1BurgersFlux.html" title="Burgers flux." alt="" coords="221,84,397,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="376,45,328,86,326,81,371,47"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1EulerFlux.html" title="Euler flux." alt="" coords="421,84,576,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,43,483,84,478,83,433,48"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1ShallowWaterFlux.html" title="Shallow water flux." alt="" coords="600,84,823,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="478,38,655,83,650,84,477,43"/>
+</map>

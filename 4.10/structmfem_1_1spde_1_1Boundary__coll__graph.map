@@ -1,0 +1,7 @@
+<map id="mfem::spde::Boundary" name="mfem::spde::Boundary">
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,104,370,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,275,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,44,206,78,244,104,238,103,202,82,164,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="299,5,496,36"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="390,49,382,68,370,82,350,96,328,106,327,101,348,91,366,78,377,65,386,52"/>
+</map>

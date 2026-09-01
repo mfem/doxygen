@@ -1,0 +1,9 @@
+<map id="mfem::Ginkgo::ResidualLogger" name="mfem::Ginkgo::ResidualLogger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,104,406,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,156,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,41,244,102,239,105,122,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="179,5,360,36"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,50,272,105,268,103,268,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="385,5,602,36"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="466,45,406,82,337,106,336,101,403,78,460,46"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="mfem::L2_FECollection" name="mfem::L2_FECollection">
+<area shape="rect" id="Node000001" title="Arbitrary order &quot;L2&#45;conforming&quot; discontinuous finite elements." alt="" coords="5,114,216,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="230,5,498,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,45,146,116,144,111,316,40"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="239,104,488,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="365,49,366,105,361,102,362,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="331,223,570,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,208,492,184,503,158,506,131,499,105,482,83,459,65,411,39,412,34,462,60,485,79,504,103,511,130,508,159,497,187,482,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,165,435,223,430,221,390,169"/>
+</map>

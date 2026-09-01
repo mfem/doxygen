@@ -1,0 +1,5 @@
+<map id="mfem::RaggedDofToQuad" name="mfem::RaggedDofToQuad">
+<area shape="rect" id="Node000001" title="Structure representing the matrices/tensors needed to evaluate (in reference space) the values,..." alt="" coords="5,84,239,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1DofToQuad.html" title="Structure representing the matrices/tensors needed to evaluate (in reference space) the values,..." alt="" coords="37,5,207,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,50,124,85,120,82,120,54"/>
+</map>

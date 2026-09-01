@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1BatchedLinAlgBase.html" title="Abstract base clase for batched linear algebra operations." alt="" coords="5,60,241,91"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1GPUBlasBatchedLinAlg.html" title=" " alt="" coords="289,5,558,36"/>
+<area shape="poly" id="edge36_Node000000_Node000001" title=" " alt="" coords="226,54,337,36,333,38,227,59"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MagmaBatchedLinAlg.html" title=" " alt="" coords="295,60,552,91"/>
+<area shape="poly" id="edge37_Node000000_Node000002" title=" " alt="" coords="256,73,297,75,292,76,256,78"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1NativeBatchedLinAlg.html" title=" " alt="" coords="301,115,546,145"/>
+<area shape="poly" id="edge38_Node000000_Node000003" title=" " alt="" coords="226,91,338,114,332,115,226,97"/>
+</map>

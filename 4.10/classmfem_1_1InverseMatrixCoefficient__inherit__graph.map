@@ -1,0 +1,5 @@
+<map id="mfem::InverseMatrixCoefficient" name="mfem::InverseMatrixCoefficient">
+<area shape="rect" id="Node000001" title="Matrix coefficient defined as the inverse of a matrix coefficient." alt="" coords="5,84,278,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MatrixCoefficient.html" title=" " alt="" coords="35,5,248,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,50,144,85,139,82,140,54"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="mfem::ComplexPRefinementMultigrid" name="mfem::ComplexPRefinementMultigrid">
+<area shape="rect" id="Node000001" title="Creates a p&#45;refinement multigrid preconditioner for a given set of parallel finite element spaces and..." alt="" coords="5,320,261,371"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Multigrid.html" title="Multigrid solver class." alt="" coords="59,241,207,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,286,135,321,131,318,131,290"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1MultigridBase.html" title="Abstract base class for Multigrid solvers." alt="" coords="39,163,227,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,207,136,241,130,240,132,212"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="68,84,198,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,128,136,163,130,161,132,133"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="58,5,208,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="134,49,136,84,130,83,132,54"/>
+</map>

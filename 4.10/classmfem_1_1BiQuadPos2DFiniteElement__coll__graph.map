@@ -1,0 +1,35 @@
+<map id="mfem::BiQuadPos2DFiniteElement" name="mfem::BiQuadPos2DFiniteElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,807,310,838"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1PositiveFiniteElement.html" title="Class for finite elements utilizing the always positive Bernstein basis." alt="" coords="31,689,284,719"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,733,160,808,155,806,155,736"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ScalarFiniteElement.html" title="Class for finite elements with basis functions that return scalar values." alt="" coords="43,580,283,611"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,624,161,689,156,688,160,629"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1FiniteElement.html" title="Abstract class for all finite elements." alt="" coords="227,421,416,452"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,465,179,581,175,578,298,461"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1DofToQuad.html" title="Structure representing the matrices/tensors needed to evaluate (in reference space) the values,..." alt="" coords="394,580,564,611"/>
+<area shape="poly" id="edge14_Node000014_Node000004" title=" " alt="" coords="342,461,382,507,429,554,459,579,454,579,425,558,378,510,342,467"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1IntegrationRule.html" title="Class for an integration rule &#45; an Array of IntegrationPoint." alt="" coords="348,323,548,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,364,399,379,342,423,338,419,396,375,419,361"/>
+<area shape="poly" id="edge15_Node000014_Node000005" title=" " alt="" coords="454,366,457,377,480,580,475,579,452,378,453,371"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Array.html" title=" " alt="" coords="337,223,559,273"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="449,286,451,323,446,321,447,291"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="326,104,573,155"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="450,168,451,223,446,221,448,173"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1IntegrationPoint.html" title="Class for integration point with weight." alt="" coords="347,5,552,36"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="450,49,452,104,447,103,449,54"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="143,323,324,353"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="257,362,311,421,306,422,257,368"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="167,233,295,263"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="232,276,236,323,230,322,231,282"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="152,114,302,145"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="228,157,233,233,228,232,227,163"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1Array.html" title=" " alt="" coords="359,797,553,848"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="406,786,379,762,355,731,338,693,325,654,313,573,313,502,318,455,321,450,318,502,319,573,331,652,343,691,360,728,383,759,411,788"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1Memory.html" title=" " alt="" coords="369,679,578,729"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="470,743,462,798,458,795,466,747"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="479,624,477,679,472,677,476,628"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1Array.html" title=" " alt="" coords="573,421,771,452"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="645,460,498,582,495,577,641,463"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1Memory.html" title=" " alt="" coords="573,323,795,353"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="682,367,676,423,672,420,679,371"/>
+</map>

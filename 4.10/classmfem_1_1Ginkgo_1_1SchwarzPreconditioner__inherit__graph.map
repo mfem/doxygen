@@ -1,0 +1,9 @@
+<map id="mfem::Ginkgo::SchwarzPreconditioner" name="mfem::Ginkgo::SchwarzPreconditioner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,241,337,272"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Ginkgo_1_1GinkgoPreconditioner.html" title=" " alt="" coords="11,163,331,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,207,173,242,169,239,169,211"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="106,84,236,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,128,173,163,169,161,170,133"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="96,5,246,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,49,174,84,168,83,170,54"/>
+</map>

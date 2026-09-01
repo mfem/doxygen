@@ -1,0 +1,9 @@
+<map id="mfem::TMOPMatrixCoefficient" name="mfem::TMOPMatrixCoefficient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,84,342,115"/>
+<area shape="rect" id="Node000003" href="$classHRHessianCoefficient.html" title=" " alt="" coords="5,163,203,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,124,125,164,123,160,173,125"/>
+<area shape="rect" id="Node000004" href="$classHessianCoefficient.html" title=" " alt="" coords="226,163,398,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,122,295,162,289,162,239,127"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MatrixCoefficient.html" title=" " alt="" coords="101,5,315,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,50,210,85,206,82,206,54"/>
+</map>

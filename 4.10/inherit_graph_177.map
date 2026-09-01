@@ -1,0 +1,97 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="5,1163,169,1193"/>
+<area shape="rect" id="Node000001" href="$classCombo__Level__Set__Coefficient.html" title="Combination of level sets: +1 inside the true domain, &#45;1 outside." alt="" coords="243,5,508,36"/>
+<area shape="poly" id="edge56_Node000000_Node000001" title=" " alt="" coords="87,1147,99,914,124,563,142,385,162,229,187,110,200,70,215,46,244,26,241,31,219,49,205,72,192,112,168,230,147,386,129,563,104,914,92,1147"/>
+<area shape="rect" id="Node000002" href="$classDist__Level__Set__Coefficient.html" title="Level set coefficient: +1 inside the true domain, &#45;1 outside." alt="" coords="257,60,494,91"/>
+<area shape="poly" id="edge57_Node000000_Node000002" title=" " alt="" coords="87,1147,100,923,126,590,144,422,164,274,188,162,201,124,215,100,234,85,258,76,255,80,237,90,219,104,206,126,193,163,169,275,149,423,131,591,105,924,93,1147"/>
+<area shape="rect" id="Node000003" href="$classIsoElasticityLambdaCoeff.html" title="The IsoElasticityLambdaCoeff class converts E modulus of elasticity and Poisson&#39;s ratio to Lame&#39;s lam..." alt="" coords="263,115,488,145"/>
+<area shape="poly" id="edge58_Node000000_Node000003" title=" " alt="" coords="87,1147,101,934,128,618,145,459,166,319,189,213,201,177,215,155,237,138,264,128,261,133,239,143,219,158,206,179,194,214,171,320,151,460,133,619,107,934,93,1147"/>
+<area shape="rect" id="Node000004" href="$classIsoElasticityShearCoeff.html" title="The IsoElasticityShearCoeff class converts E modulus of elasticity and Poisson&#39;s ratio to Shear coeff..." alt="" coords="272,169,480,200"/>
+<area shape="poly" id="edge59_Node000000_Node000004" title=" " alt="" coords="85,1147,86,957,90,821,99,674,114,528,138,394,153,335,170,284,191,242,215,209,241,191,274,181,270,185,243,196,219,213,196,244,175,286,158,337,143,395,120,529,104,675,95,822,91,957,90,1147"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1CartesianCoefficient.html" title=" " alt="" coords="256,224,496,255"/>
+<area shape="poly" id="edge60_Node000000_Node000005" title=" " alt="" coords="85,1147,87,966,93,839,102,700,118,563,141,437,156,382,173,334,192,294,215,264,233,250,257,240,254,245,236,254,219,268,197,297,178,336,161,384,146,438,123,564,108,701,98,839,93,966,91,1147"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1ConstantCoefficient.html" title="A coefficient that is constant across space and time." alt="" coords="258,279,494,309"/>
+<area shape="poly" id="edge64_Node000000_Node000009" title=" " alt="" coords="86,1147,90,977,96,857,106,727,122,599,145,482,159,430,175,385,194,348,215,320,234,305,259,295,256,300,237,310,219,324,198,351,180,387,164,432,150,483,127,600,111,728,101,857,95,977,91,1147"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1CylindricalAzimuthalCoefficient.html" title=" " alt="" coords="255,334,496,385"/>
+<area shape="poly" id="edge65_Node000000_Node000010" title=" " alt="" coords="86,1147,93,990,112,764,129,648,151,542,179,455,196,421,215,395,233,380,256,369,253,374,236,384,219,398,200,423,184,457,156,543,134,649,118,765,98,991,92,1147"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1CylindricalRadialCoefficient.html" title=" " alt="" coords="227,409,524,440"/>
+<area shape="poly" id="edge66_Node000000_Node000011" title=" " alt="" coords="87,1147,94,999,114,789,131,682,152,584,180,504,196,473,215,449,231,438,229,443,219,453,201,476,185,506,157,585,136,683,119,790,99,1000,92,1147"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1DeltaCoefficient.html" title="Delta function coefficient optionally multiplied by a weight coefficient and a scaled time dependent ..." alt="" coords="273,464,478,495"/>
+<area shape="poly" id="edge67_Node000000_Node000012" title=" " alt="" coords="87,1147,96,1009,118,816,134,717,156,627,182,554,198,525,215,504,241,486,274,476,271,481,244,491,218,508,202,528,187,556,161,629,140,718,123,816,102,1010,92,1147"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1DeterminantCoefficient.html" title="Scalar coefficient defined as the determinant of a matrix coefficient." alt="" coords="245,519,507,549"/>
+<area shape="poly" id="edge68_Node000000_Node000013" title=" " alt="" coords="88,1147,99,1020,122,843,139,753,159,672,185,605,199,580,215,560,245,541,243,546,218,564,203,583,189,607,164,673,144,754,127,844,104,1020,93,1147"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1DivergenceGridFunctionCoefficient.html" title="Scalar coefficient defined as the Divergence of a vector GridFunction." alt="" coords="239,574,512,625"/>
+<area shape="poly" id="edge69_Node000000_Node000014" title=" " alt="" coords="89,1147,103,1034,128,880,145,803,165,732,188,674,215,635,240,618,238,622,219,639,193,677,170,734,150,804,133,881,108,1034,94,1147"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1ExtrudeCoefficient.html" title="Class used for extruding a scalar coefficient." alt="" coords="263,649,488,680"/>
+<area shape="poly" id="edge70_Node000000_Node000015" title=" " alt="" coords="89,1147,104,1044,131,906,148,837,167,775,190,724,215,689,237,674,264,665,261,669,239,679,219,693,194,726,172,777,153,839,136,907,110,1045,95,1148"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1FunctionCoefficient.html" title="A general function coefficient." alt="" coords="260,704,492,735"/>
+<area shape="poly" id="edge71_Node000000_Node000016" title=" " alt="" coords="85,1147,88,1066,93,1013,104,956,120,898,143,841,174,789,215,744,235,730,261,721,258,725,238,735,218,748,179,792,148,844,125,900,109,957,99,1014,93,1066,90,1147"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1GradComponentCoeff.html" title=" " alt="" coords="248,759,504,789"/>
+<area shape="poly" id="edge72_Node000000_Node000017" title=" " alt="" coords="86,1147,92,1075,111,980,128,930,150,882,179,837,215,799,248,780,246,785,218,803,183,840,154,884,133,932,116,981,98,1075,91,1147"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1GridFunctionCoefficient.html" title="Coefficient defined by a GridFunction. This coefficient is mesh dependent." alt="" coords="242,813,510,844"/>
+<area shape="poly" id="edge73_Node000000_Node000018" title=" " alt="" coords="88,1147,98,1084,119,1004,136,962,157,922,183,885,215,853,243,838,240,843,218,857,187,888,161,925,140,965,124,1006,103,1085,93,1147"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1InnerProductCoefficient.html" title="Scalar coefficient defined as the inner product of two vector coefficients." alt="" coords="243,868,509,899"/>
+<area shape="poly" id="edge77_Node000000_Node000022" title=" " alt="" coords="91,1147,104,1094,127,1029,144,995,163,963,187,933,215,908,244,893,241,898,218,912,191,937,168,966,148,998,132,1031,109,1095,96,1148"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1MatrixComponentCoefficient.html" title="Scalar coefficient defined as component of a matrix coefficient." alt="" coords="222,923,530,953"/>
+<area shape="poly" id="edge78_Node000000_Node000023" title=" " alt="" coords="95,1148,111,1105,136,1054,170,1004,191,982,215,962,238,952,235,956,218,967,195,986,174,1007,140,1057,116,1107,100,1149"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1NormalGradCoeff.html" title=" " alt="" coords="265,977,486,1008"/>
+<area shape="poly" id="edge79_Node000000_Node000024" title=" " alt="" coords="101,1148,120,1116,146,1081,178,1047,215,1018,266,1000,263,1004,218,1023,181,1051,150,1084,125,1119,106,1150"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1NormalGradComponentCoeff.html" title=" " alt="" coords="240,1033,512,1083"/>
+<area shape="poly" id="edge80_Node000000_Node000025" title=" " alt="" coords="118,1152,163,1121,216,1093,249,1082,246,1086,218,1098,166,1125,122,1155"/>
+<area shape="rect" id="Node000026" href="$classmfem_1_1PWCoefficient.html" title="A piecewise coefficient with the pieces keyed off the element attribute numbers." alt="" coords="279,1108,472,1139"/>
+<area shape="poly" id="edge81_Node000000_Node000026" title=" " alt="" coords="171,1157,216,1147,281,1137,277,1141,217,1153,175,1161"/>
+<area shape="rect" id="Node000027" href="$classmfem_1_1PWConstCoefficient.html" title="A piecewise constant coefficient with the constants keyed off the element attribute numbers." alt="" coords="256,1163,496,1193"/>
+<area shape="poly" id="edge82_Node000000_Node000027" title=" " alt="" coords="182,1176,257,1176,253,1180,186,1180"/>
+<area shape="rect" id="Node000028" href="$classmfem_1_1PmlCoefficient.html" title=" " alt="" coords="278,1217,474,1248"/>
+<area shape="poly" id="edge83_Node000000_Node000028" title=" " alt="" coords="177,1195,217,1202,284,1215,280,1218,216,1207,180,1199"/>
+<area shape="rect" id="Node000029" href="$classmfem_1_1PowerCoefficient.html" title="Scalar coefficient defined as a scalar raised to a power." alt="" coords="269,1272,483,1303"/>
+<area shape="poly" id="edge84_Node000000_Node000029" title=" " alt="" coords="119,1200,166,1231,218,1257,270,1273,266,1276,216,1262,163,1235,121,1205"/>
+<area shape="rect" id="Node000030" href="$classmfem_1_1ProductCoefficient.html" title="Scalar coefficient defined as the product of two scalar coefficients or a scalar and a scalar coeffic..." alt="" coords="263,1327,488,1357"/>
+<area shape="poly" id="edge85_Node000000_Node000030" title=" " alt="" coords="106,1204,154,1261,184,1289,218,1312,265,1330,260,1333,215,1316,181,1293,150,1264,107,1209"/>
+<area shape="rect" id="Node000031" href="$classmfem_1_1QuadratureFunctionCoefficient.html" title="Quadrature function coefficient which requires that the quadrature rules used for this coefficient be..." alt="" coords="256,1382,496,1433"/>
+<area shape="poly" id="edge86_Node000000_Node000031" title=" " alt="" coords="100,1205,120,1244,145,1287,178,1330,218,1366,258,1387,253,1390,215,1371,174,1334,141,1290,115,1246,100,1210"/>
+<area shape="rect" id="Node000032" href="$classmfem_1_1RatioCoefficient.html" title="Scalar coefficient defined as the ratio of two scalars where one or both scalars are scalar coefficie..." alt="" coords="273,1457,478,1488"/>
+<area shape="poly" id="edge87_Node000000_Node000032" title=" " alt="" coords="94,1206,109,1260,133,1325,168,1389,191,1418,218,1443,244,1457,275,1468,270,1470,242,1462,215,1447,187,1422,164,1392,128,1327,104,1262,94,1211"/>
+<area shape="rect" id="Node000033" href="$classmfem_1_1RestrictedCoefficient.html" title="Derived coefficient that takes the value of the parent coefficient for the active attributes and is z..." alt="" coords="254,1512,498,1543"/>
+<area shape="poly" id="edge88_Node000000_Node000033" title=" " alt="" coords="91,1206,103,1271,125,1350,141,1391,162,1430,187,1466,218,1497,256,1518,251,1520,215,1501,183,1470,157,1433,136,1393,120,1351,98,1272,91,1212"/>
+<area shape="rect" id="Node000034" href="$classmfem_1_1SIMPInterpolationCoefficient.html" title="Solid isotropic material penalization (SIMP) coefficient." alt="" coords="222,1567,530,1597"/>
+<area shape="poly" id="edge89_Node000000_Node000034" title=" " alt="" coords="89,1207,98,1281,117,1374,133,1423,155,1471,183,1515,218,1552,237,1565,232,1567,215,1556,179,1518,150,1473,128,1425,112,1376,93,1281,89,1212"/>
+<area shape="rect" id="Node000035" href="$classmfem_1_1ShiftedFunctionCoefficient.html" title=" " alt="" coords="232,1621,520,1652"/>
+<area shape="poly" id="edge90_Node000000_Node000035" title=" " alt="" coords="87,1206,93,1290,99,1342,109,1398,125,1455,148,1511,179,1562,218,1607,236,1620,231,1622,215,1611,175,1566,143,1513,120,1457,104,1399,94,1342,88,1290,87,1211"/>
+<area shape="rect" id="Node000036" href="$classmfem_1_1SphericalAzimuthalCoefficient.html" title=" " alt="" coords="259,1677,492,1727"/>
+<area shape="poly" id="edge91_Node000000_Node000036" title=" " alt="" coords="92,1206,111,1311,137,1447,154,1516,174,1577,195,1628,219,1661,238,1676,261,1688,256,1690,235,1681,215,1665,190,1630,169,1579,149,1517,132,1448,105,1312,92,1211"/>
+<area shape="rect" id="Node000037" href="$classmfem_1_1SphericalPolarCoefficient.html" title=" " alt="" coords="236,1752,516,1783"/>
+<area shape="poly" id="edge92_Node000000_Node000037" title=" " alt="" coords="91,1206,106,1326,131,1485,148,1566,168,1639,192,1698,205,1721,218,1737,238,1752,233,1754,215,1741,200,1724,187,1701,163,1641,142,1567,125,1486,101,1326,91,1211"/>
+<area shape="rect" id="Node000038" href="$classmfem_1_1SphericalRadialCoefficient.html" title=" " alt="" coords="231,1807,520,1837"/>
+<area shape="poly" id="edge93_Node000000_Node000038" title=" " alt="" coords="90,1206,104,1336,127,1512,144,1602,164,1683,189,1749,203,1773,219,1792,235,1805,230,1807,215,1796,199,1776,185,1751,159,1684,139,1603,122,1513,99,1336,90,1211"/>
+<area shape="rect" id="Node000039" href="$classmfem_1_1StrainEnergyDensityCoefficient.html" title="Strain energy density coefficient." alt="" coords="255,1862,497,1913"/>
+<area shape="poly" id="edge94_Node000000_Node000039" title=" " alt="" coords="90,1206,103,1346,125,1538,142,1636,163,1725,188,1798,203,1826,219,1847,236,1861,257,1873,252,1875,233,1865,215,1851,198,1829,183,1800,157,1726,136,1637,120,1538,97,1346,90,1212"/>
+<area shape="rect" id="Node000040" href="$classmfem_1_1SumCoefficient.html" title="Scalar coefficient defined as the linear combination of two scalar coefficients or a scalar and a sca..." alt="" coords="275,1937,476,1968"/>
+<area shape="poly" id="edge95_Node000000_Node000040" title=" " alt="" coords="89,1206,99,1360,118,1576,135,1686,156,1786,184,1868,201,1900,219,1923,245,1941,277,1952,272,1954,242,1946,215,1927,196,1902,179,1871,151,1788,129,1687,113,1576,93,1360,89,1212"/>
+<area shape="rect" id="Node000041" href="$classmfem_1_1TraceCoefficient.html" title="Scalar coefficient defined as the trace of a matrix coefficient." alt="" coords="271,1992,480,2023"/>
+<area shape="poly" id="edge96_Node000000_Node000041" title=" " alt="" coords="89,1206,97,1369,104,1481,115,1601,131,1721,153,1830,182,1918,199,1952,219,1977,243,1995,273,2006,268,2008,240,1999,215,1981,195,1955,177,1920,148,1831,126,1722,109,1602,98,1481,91,1369,89,1211"/>
+<area shape="rect" id="Node000042" href="$classmfem_1_1TransformedCoefficient.html" title="A coefficient that depends on 1 or 2 parent coefficients and a transformation rule represented by a C..." alt="" coords="243,2047,509,2077"/>
+<area shape="poly" id="edge97_Node000000_Node000042" title=" " alt="" coords="88,1206,95,1379,101,1499,111,1628,127,1756,150,1873,164,1924,180,1969,198,2005,219,2032,245,2052,240,2053,215,2036,194,2008,175,1971,159,1926,145,1874,122,1757,106,1629,96,1499,90,1379,88,1212"/>
+<area shape="rect" id="Node000043" href="$classmfem_1_1VectorComponentCoefficient.html" title="Scalar coefficient defined as component of a vector coefficient." alt="" coords="221,2101,530,2132"/>
+<area shape="poly" id="edge98_Node000000_Node000043" title=" " alt="" coords="88,1206,93,1389,98,1517,108,1654,124,1791,146,1916,161,1971,178,2019,197,2058,219,2087,234,2100,229,2101,215,2091,192,2060,173,2021,156,1973,141,1918,118,1792,103,1655,93,1517,88,1389,88,1212"/>
+<area shape="rect" id="Node000044" href="$classmfem_1_1VectorRotProductCoefficient.html" title="Scalar coefficient defined as a cross product of two vectors in the xy&#45;plane." alt="" coords="223,2156,528,2187"/>
+<area shape="poly" id="edge99_Node000000_Node000044" title=" " alt="" coords="88,1206,91,1399,95,1534,105,1680,120,1826,143,1960,158,2018,176,2069,196,2110,219,2142,234,2155,229,2156,215,2145,191,2113,171,2071,153,2019,138,1961,115,1827,99,1681,90,1534,86,1399,88,1212"/>
+<area shape="rect" id="Node000045" href="$classmfem_1_1common_1_1PProductCoefficient.html" title=" " alt="" coords="217,2211,535,2241"/>
+<area shape="poly" id="edge100_Node000000_Node000045" title=" " alt="" coords="90,1206,107,1422,133,1737,151,1895,171,2035,194,2140,206,2175,219,2196,234,2210,229,2210,215,2200,201,2178,189,2142,166,2036,146,1896,128,1737,101,1422,90,1212"/>
+<area shape="rect" id="Node000046" href="$classmfem_1_1electromagnetics_1_1JouleHeatingCoefficient.html" title=" " alt="" coords="265,2266,486,2317"/>
+<area shape="poly" id="edge101_Node000000_Node000046" title=" " alt="" coords="90,1206,106,1431,133,1763,150,1931,171,2079,194,2191,206,2228,219,2251,240,2268,267,2282,262,2283,237,2273,215,2254,201,2231,189,2192,165,2080,145,1932,127,1764,101,1432,90,1212"/>
+<area shape="rect" id="Node000047" href="$classmfem_1_1electromagnetics_1_1MeshDependentCoefficient.html" title=" " alt="" coords="251,2341,500,2391"/>
+<area shape="poly" id="edge102_Node000000_Node000047" title=" " alt="" coords="90,1206,105,1445,130,1802,148,1982,168,2141,192,2262,205,2303,219,2327,234,2340,253,2353,248,2353,231,2345,215,2330,200,2305,187,2264,163,2142,142,1983,125,1802,99,1445,90,1212"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1CartesianXCoefficient.html" title="Scalar coefficient which returns the x&#45;component of the evaluation point." alt="" coords="594,169,847,200"/>
+<area shape="poly" id="edge61_Node000005_Node000006" title=" " alt="" coords="490,219,621,199,617,203,494,223"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1CartesianYCoefficient.html" title="Scalar coefficient which returns the y&#45;component of the evaluation point." alt="" coords="594,224,847,255"/>
+<area shape="poly" id="edge62_Node000005_Node000007" title=" " alt="" coords="510,237,596,238,592,241,513,241"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1CartesianZCoefficient.html" title="Scalar coefficient which returns the z&#45;component of the evaluation point." alt="" coords="595,279,846,309"/>
+<area shape="poly" id="edge63_Node000005_Node000008" title=" " alt="" coords="491,255,621,276,617,280,493,260"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1DiffMappedGridFunctionCoefficient.html" title="Returns f(u(x)) &#45; f(v(x)) where u, v are scalar GridFunctions and f:R → R." alt="" coords="583,729,858,779"/>
+<area shape="poly" id="edge74_Node000018_Node000019" title=" " alt="" coords="487,808,534,798,624,778,621,782,536,803,490,812"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1MappedGridFunctionCoefficient.html" title="Returns f(u(x)) where u is a scalar GridFunction and f:R → R." alt="" coords="596,803,845,854"/>
+<area shape="poly" id="edge75_Node000018_Node000020" title=" " alt="" coords="524,826,598,827,594,830,526,831"/>
+<area shape="rect" id="Node000021" href="$classmfem_1_1electromagnetics_1_1ScaledGFCoefficient.html" title=" " alt="" coords="613,878,828,929"/>
+<area shape="poly" id="edge76_Node000018_Node000021" title=" " alt="" coords="493,845,536,853,629,876,624,879,534,858,496,850"/>
+</map>

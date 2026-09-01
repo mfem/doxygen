@@ -1,0 +1,5 @@
+<map id="mfem::future::tuple&lt; T &gt;" name="mfem::future::tuple&lt; T &gt;">
+<area shape="rect" id="Node000001" title="This is a class that mimics most of std::tuple&#39;s interface, except that it is usable in CUDA kernels ..." alt="" coords="20,124,237,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,252,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,90,131,125,126,122,127,94"/>
+</map>

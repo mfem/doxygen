@@ -1,0 +1,23 @@
+<map id="mfem::CGSolver" name="mfem::CGSolver">
+<area shape="rect" id="Node000001" title="Conjugate gradient method." alt="" coords="1001,165,1158,196"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1IterativeSolver.html" title="Abstract base class for iterative solver." alt="" coords="614,99,808,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="815,130,1003,167,998,167,815,136"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1IterativeSolverController.html" title="Abstract base class for an iterative solver controller." alt="" coords="944,76,1215,107"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="823,115,832,115,876,117,919,115,1002,107,996,108,920,121,876,122,832,121,824,121"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="267,64,396,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,64,498,58,545,59,591,65,638,78,681,98,676,98,637,83,590,70,544,64,498,63,412,69"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="412,84,616,104,611,106,412,89"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,64,156,95"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="153,58,243,39,353,26,412,23,473,24,533,30,591,42,620,53,647,67,693,99,687,98,645,71,618,58,590,47,532,35,472,29,412,28,353,31,244,44,155,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,77,269,78,264,81,172,82"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1InnerProductOperator.html" title="Abstract class for defining inner products. The method Eval() must be implemented in derived classes ..." alt="" coords="205,119,458,149"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="169,96,260,117,255,119,169,101"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="926,89,832,95,791,101,790,96,831,90,931,88"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="473,139,590,135,645,130,640,131,591,141,474,145"/>
+<area shape="rect" id="Node000007" href="$structmfem_1_1IterativeSolver_1_1PrintLevel.html" title="Settings for the output behavior of the IterativeSolver." alt="" coords="235,174,428,225"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="443,190,516,181,590,165,638,148,678,131,683,129,640,152,591,170,517,186,444,196"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="646,223,776,253"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="792,241,854,241,919,234,986,216,1041,197,1046,196,987,222,920,239,855,246,792,246"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1Memory.html" title=" " alt="" coords="220,249,443,280"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="458,255,590,246,643,244,648,244,591,251,459,260"/>
+</map>

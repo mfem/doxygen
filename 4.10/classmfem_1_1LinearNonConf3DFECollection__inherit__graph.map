@@ -1,0 +1,5 @@
+<map id="mfem::LinearNonConf3DFECollection" name="mfem::LinearNonConf3DFECollection">
+<area shape="rect" id="Node000001" title="Piecewise&#45;linear nonconforming finite elements in 3D." alt="" coords="5,84,330,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="33,5,302,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,50,170,85,165,82,166,54"/>
+</map>

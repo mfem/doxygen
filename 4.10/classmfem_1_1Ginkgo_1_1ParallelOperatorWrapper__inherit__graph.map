@@ -1,0 +1,9 @@
+<map id="mfem::Ginkgo::ParallelOperatorWrapper" name="mfem::Ginkgo::ParallelOperatorWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,80,586,131"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,5,253,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,57,340,79,334,80,257,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="12,80,253,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,103,310,105,305,106,269,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,155,260,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,148,334,132,340,131,257,153"/>
+</map>

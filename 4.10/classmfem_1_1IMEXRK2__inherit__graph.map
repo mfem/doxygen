@@ -1,0 +1,5 @@
+<map id="mfem::IMEXRK2" name="mfem::IMEXRK2">
+<area shape="rect" id="Node000001" title="Second order, two&#45;stage implicit&#45;explicit (IMEX) Runge&#45;Kutta (RK) method." alt="" coords="11,84,169,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ODESolver.html" title="Abstract class for solving systems of ODEs: dx/dt = f(x,t)" alt="" coords="5,5,175,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,50,92,84,88,82,88,54"/>
+</map>

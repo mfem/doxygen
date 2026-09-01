@@ -1,0 +1,7 @@
+<map id="mfem::NURBSExtension" name="mfem::NURBSExtension">
+<area shape="rect" id="Node000001" title="NURBSExtension generally contains multiple NURBSPatch objects spanning an entire Mesh...." alt="" coords="154,5,375,36"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NCNURBSExtension.html" title="NCNURBSExtension extends NURBSExtension to support NC&#45;patch NURBS meshes." alt="" coords="5,84,252,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,44,156,86,154,81,222,45"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ParNURBSExtension.html" title="Parallel version of NURBSExtension." alt="" coords="276,84,525,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,42,377,83,372,83,303,47"/>
+</map>

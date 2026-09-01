@@ -1,0 +1,9 @@
+<map id="mfem::NURBS2DFiniteElement" name="mfem::NURBS2DFiniteElement">
+<area shape="rect" id="Node000001" title="An arbitrary order 2D NURBS element on a square." alt="" coords="122,163,398,193"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ScalarFiniteElement.html" title="Class for finite elements with basis functions that return scalar values." alt="" coords="5,84,246,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,120,237,162,232,163,164,125"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FiniteElement.html" title="Abstract class for all finite elements." alt="" coords="31,5,220,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,50,128,84,123,83,124,54"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1NURBSFiniteElement.html" title="An arbitrary order and dimension NURBS element." alt="" coords="270,84,522,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,122,287,165,285,160,354,123"/>
+</map>

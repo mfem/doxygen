@@ -1,0 +1,117 @@
+<map id="mfem::TMOP_QualityMetric" name="mfem::TMOP_QualityMetric">
+<area shape="rect" id="Node000001" title="Abstract class for local mesh quality metrics in the target&#45;matrix optimization paradigm (TMOP) by P...." alt="" coords="281,1203,530,1233"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1TMOP__AMetric__011.html" title=" " alt="" coords="608,5,852,36"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="404,1187,408,962,415,797,428,617,449,437,480,272,499,200,521,137,547,85,576,45,608,26,605,30,580,49,551,87,526,139,504,202,485,274,454,438,433,618,420,797,413,962,409,1187"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1TMOP__AMetric__014.html" title="2D barrier Size (V) metric (polyconvex)." alt="" coords="608,60,852,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,1187,409,971,418,814,432,643,453,472,483,315,502,247,523,187,548,137,576,100,608,80,605,85,580,104,553,140,528,189,507,248,488,317,458,473,437,643,423,814,415,971,409,1187"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1TMOP__AMetric__036.html" title="2D barrier Shape+Size+Orientation (VOS) metric (polyconvex)." alt="" coords="608,115,852,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="404,1187,411,980,420,831,435,669,456,507,486,359,505,293,526,237,549,190,576,155,609,135,605,140,580,159,554,193,530,239,510,295,491,360,462,508,440,669,426,831,417,980,410,1187"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1TMOP__AMetric__050.html" title="2D barrier Skew (Q) metric." alt="" coords="608,169,852,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="405,1187,413,990,423,848,438,695,460,542,490,402,507,340,528,287,551,243,576,209,609,190,606,194,580,213,555,246,533,289,513,342,495,403,465,543,444,695,428,849,418,990,410,1188"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1TMOP__AMetric__051.html" title="2D barrier Size+Skew (VQ) metric." alt="" coords="608,224,852,255"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="405,1187,415,999,426,865,442,721,464,577,493,445,510,387,530,337,552,295,576,264,609,245,606,249,580,268,556,298,535,339,515,389,498,446,469,578,447,721,431,866,420,999,410,1187"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1TMOP__AMetric__107.html" title="2D barrier Shape+Orientation (OS) metric (polyconvex)." alt="" coords="608,279,852,309"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="405,1187,417,1009,429,883,446,748,468,613,497,489,514,435,532,388,553,349,576,320,609,301,606,305,580,324,558,352,537,390,519,437,502,491,473,614,451,748,434,884,422,1009,411,1187"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1TMOP__Combo__QualityMetric.html" title=" " alt="" coords="596,334,864,385"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="406,1187,421,1023,452,785,475,662,503,550,536,458,555,422,576,395,597,381,594,385,580,399,560,425,541,460,508,551,480,663,457,786,426,1024,411,1188"/>
+<area shape="rect" id="Node000022" href="$classmfem_1_1TMOP__Metric__000.html" title="0 metric" alt="" coords="614,409,846,440"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="406,1187,422,1032,454,810,477,696,504,592,537,507,556,474,576,449,593,437,615,428,611,432,596,441,580,453,560,477,542,509,509,593,482,697,459,811,427,1033,412,1188"/>
+<area shape="rect" id="Node000023" href="$classmfem_1_1TMOP__Metric__001.html" title="2D non&#45;barrier metric without a type." alt="" coords="614,464,846,495"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="407,1187,424,1042,458,836,481,731,508,635,540,557,557,527,576,504,593,492,615,483,611,487,596,496,580,508,562,530,544,559,513,637,486,732,463,837,430,1042,412,1188"/>
+<area shape="rect" id="Node000024" href="$classmfem_1_1TMOP__Metric__002.html" title=" " alt="" coords="614,519,846,549"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="408,1187,427,1052,461,862,484,766,511,678,542,607,558,579,576,559,593,546,615,538,611,542,596,551,580,563,563,582,546,609,516,680,490,767,467,863,432,1053,413,1188"/>
+<area shape="rect" id="Node000025" href="$classmfem_1_1TMOP__Metric__004.html" title=" " alt="" coords="614,573,846,604"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="408,1186,429,1061,465,888,488,801,515,721,544,657,560,632,576,613,593,601,615,593,611,597,596,606,580,617,564,635,549,659,520,723,494,802,470,890,434,1062,414,1188"/>
+<area shape="rect" id="Node000026" href="$classmfem_1_1TMOP__Metric__007.html" title="2D barrier Shape+Size (VS) metric (not polyconvex)." alt="" coords="614,628,846,659"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="403,1187,408,1086,416,1019,430,945,451,869,482,795,523,727,548,696,576,668,593,656,615,648,611,652,596,661,580,672,552,700,527,730,487,798,456,871,435,946,421,1019,413,1087,409,1188"/>
+<area shape="rect" id="Node000027" href="$classmfem_1_1TMOP__Metric__009.html" title="2D barrier Shape+Size (VS) metric (not polyconvex)." alt="" coords="614,683,846,713"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="405,1186,413,1094,422,1034,437,968,459,901,489,835,527,775,576,723,615,703,611,707,580,727,532,778,493,838,464,903,442,970,427,1035,418,1095,410,1187"/>
+<area shape="rect" id="Node000028" href="$classmfem_1_1TMOP__Metric__014.html" title="2D non&#45;barrier Shape+Size+Orientation (VOS) metric (polyconvex)." alt="" coords="614,737,846,768"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="406,1186,417,1104,429,1050,445,992,467,933,495,875,532,823,576,777,615,758,611,762,580,781,536,826,500,878,472,935,450,994,434,1051,423,1105,411,1188"/>
+<area shape="rect" id="Node000029" href="$classmfem_1_1TMOP__Metric__022.html" title="2D Shifted barrier form of shape metric (mu_2)." alt="" coords="614,792,846,823"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="408,1186,423,1113,452,1016,474,965,502,916,536,871,576,832,615,814,611,818,580,836,540,874,506,919,479,967,457,1018,428,1114,413,1188"/>
+<area shape="rect" id="Node000030" href="$classmfem_1_1TMOP__Metric__050.html" title=" " alt="" coords="614,847,846,877"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="411,1186,428,1122,460,1040,482,998,509,956,540,919,577,886,615,869,611,873,579,891,544,922,513,960,487,1000,465,1043,433,1124,416,1188"/>
+<area shape="rect" id="Node000031" href="$classmfem_1_1TMOP__Metric__055.html" title=" " alt="" coords="614,901,846,932"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="414,1187,435,1133,469,1065,515,997,544,967,577,941,615,925,611,929,579,946,548,971,520,1001,473,1068,440,1135,419,1189"/>
+<area shape="rect" id="Node000032" href="$classmfem_1_1TMOP__Metric__056.html" title=" " alt="" coords="614,956,846,987"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="418,1188,442,1144,477,1092,522,1039,548,1016,577,996,615,981,611,985,579,1000,552,1020,526,1043,481,1095,446,1147,423,1190"/>
+<area shape="rect" id="Node000033" href="$classmfem_1_1TMOP__Metric__058.html" title="2D barrier shape (S) metric (not polyconvex)." alt="" coords="614,1011,846,1041"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="425,1189,452,1156,487,1118,529,1081,577,1050,615,1037,611,1041,579,1055,533,1085,491,1122,456,1159,429,1191"/>
+<area shape="rect" id="Node000034" href="$classmfem_1_1TMOP__Metric__077.html" title=" " alt="" coords="614,1065,846,1096"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="435,1191,498,1146,537,1124,577,1105,615,1094,611,1098,579,1110,539,1128,501,1151,439,1195"/>
+<area shape="rect" id="Node000035" href="$classmfem_1_1TMOP__Metric__085.html" title="2D barrier Shape+Orientation (OS) metric (polyconvex)." alt="" coords="614,1120,846,1151"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="463,1195,577,1159,629,1150,625,1153,579,1165,466,1199"/>
+<area shape="rect" id="Node000036" href="$classmfem_1_1TMOP__Metric__098.html" title="2D barrier Shape+Size+Orientation (VOS) metric (polyconvex)." alt="" coords="614,1175,846,1205"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="544,1204,615,1198,611,1202,547,1208"/>
+<area shape="rect" id="Node000037" href="$classmfem_1_1TMOP__Metric__211.html" title="2D untangling metric." alt="" coords="614,1229,846,1260"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="544,1227,615,1234,611,1237,547,1232"/>
+<area shape="rect" id="Node000038" href="$classmfem_1_1TMOP__Metric__252.html" title="Shifted barrier form of metric 56 (area, ideal barrier metric), 2D." alt="" coords="614,1284,846,1315"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="464,1236,579,1270,630,1282,625,1285,577,1275,466,1241"/>
+<area shape="rect" id="Node000039" href="$classmfem_1_1TMOP__Metric__301.html" title="3D barrier Shape (S) metric, well&#45;posed (polyconvex &amp; invex)." alt="" coords="614,1339,846,1369"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="437,1241,502,1285,540,1307,579,1325,615,1337,611,1339,577,1330,537,1311,499,1289,438,1246"/>
+<area shape="rect" id="Node000040" href="$classmfem_1_1TMOP__Metric__302.html" title="3D barrier Shape (S) metric, well&#45;posed (polyconvex &amp; invex)." alt="" coords="614,1393,846,1424"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="427,1243,456,1276,491,1314,533,1350,579,1380,616,1395,611,1396,577,1384,529,1354,487,1317,452,1280,427,1248"/>
+<area shape="rect" id="Node000041" href="$classmfem_1_1TMOP__Metric__303.html" title="3D barrier Shape (S) metric, well&#45;posed (polyconvex &amp; invex)." alt="" coords="614,1448,846,1479"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="420,1245,447,1289,482,1341,526,1392,552,1415,579,1434,616,1451,611,1453,577,1439,548,1419,522,1396,477,1344,442,1292,421,1250"/>
+<area shape="rect" id="Node000042" href="$classmfem_1_1TMOP__Metric__304.html" title="3D barrier Shape (S) metric, well&#45;posed (polyconvex &amp; invex)." alt="" coords="614,1503,846,1533"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="416,1246,440,1301,473,1367,520,1434,548,1464,579,1489,616,1507,611,1509,577,1494,544,1468,516,1438,469,1370,435,1303,416,1251"/>
+<area shape="rect" id="Node000043" href="$classmfem_1_1TMOP__Metric__311.html" title="3D Size (V) untangling metric." alt="" coords="614,1557,846,1588"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="413,1246,434,1312,465,1393,487,1435,513,1475,544,1512,579,1544,616,1563,610,1564,577,1548,540,1516,509,1479,482,1438,460,1395,428,1313,413,1251"/>
+<area shape="rect" id="Node000044" href="$classmfem_1_1TMOP__Metric__313.html" title="3D Shape (S) metric, untangling version of 303." alt="" coords="614,1612,846,1643"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="411,1246,428,1322,458,1418,479,1468,507,1516,540,1561,580,1599,615,1618,610,1620,576,1603,536,1564,502,1519,475,1470,453,1419,423,1323,410,1252"/>
+<area shape="rect" id="Node000045" href="$classmfem_1_1TMOP__Metric__315.html" title="3D Size (V) metric." alt="" coords="614,1667,846,1697"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="409,1246,423,1331,434,1384,450,1442,472,1500,500,1557,536,1609,580,1653,615,1674,610,1675,576,1657,532,1612,495,1560,467,1502,445,1443,429,1386,417,1332,408,1252"/>
+<area shape="rect" id="Node000046" href="$classmfem_1_1TMOP__Metric__316.html" title="3D Size (V) metric." alt="" coords="614,1721,846,1752"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="408,1247,418,1341,428,1401,443,1466,464,1532,493,1597,532,1657,580,1708,616,1729,610,1730,576,1712,527,1660,489,1600,459,1534,437,1467,422,1402,413,1341,407,1252"/>
+<area shape="rect" id="Node000047" href="$classmfem_1_1TMOP__Metric__318.html" title="3D Size (V) metric." alt="" coords="614,1776,846,1807"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="407,1246,413,1349,421,1416,435,1489,457,1564,487,1637,527,1705,552,1735,580,1763,596,1774,616,1784,610,1785,593,1779,576,1767,548,1739,523,1708,482,1640,452,1566,430,1490,416,1417,408,1350,406,1251"/>
+<area shape="rect" id="Node000048" href="$classmfem_1_1TMOP__Metric__321.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (invex)." alt="" coords="614,1831,846,1861"/>
+<area shape="poly" id="edge47_Node000001_Node000048" title=" " alt="" coords="411,1246,435,1373,470,1546,494,1633,520,1711,549,1775,564,1799,580,1817,596,1829,616,1839,611,1840,593,1833,576,1821,560,1803,544,1778,515,1713,488,1634,465,1547,429,1374,411,1251"/>
+<area shape="rect" id="Node000049" href="$classmfem_1_1TMOP__Metric__322.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (invex)." alt="" coords="614,1885,846,1916"/>
+<area shape="poly" id="edge48_Node000001_Node000049" title=" " alt="" coords="411,1246,432,1383,467,1572,490,1668,516,1755,546,1826,563,1852,580,1872,596,1884,616,1894,610,1895,593,1888,576,1876,558,1855,542,1828,511,1757,484,1669,461,1573,427,1384,410,1251"/>
+<area shape="rect" id="Node000050" href="$classmfem_1_1TMOP__Metric__323.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (invex)." alt="" coords="614,1940,846,1971"/>
+<area shape="poly" id="edge49_Node000001_Node000050" title=" " alt="" coords="410,1246,430,1393,463,1598,486,1703,513,1798,544,1876,562,1905,580,1927,596,1938,615,1949,610,1950,593,1943,576,1931,557,1908,540,1878,508,1800,481,1705,458,1599,424,1394,409,1251"/>
+<area shape="rect" id="Node000051" href="$classmfem_1_1TMOP__Metric__342.html" title="3D barrier Shape+Size+Orientation (VOS) metric (polyconvex)." alt="" coords="614,1995,846,2025"/>
+<area shape="poly" id="edge50_Node000001_Node000051" title=" " alt="" coords="410,1246,427,1403,459,1625,482,1738,509,1842,542,1926,560,1958,580,1981,596,1993,616,2004,610,2005,593,1998,576,1985,556,1961,537,1928,504,1843,477,1740,454,1626,422,1403,409,1251"/>
+<area shape="rect" id="Node000052" href="$classmfem_1_1TMOP__Metric__352.html" title="3D shifted barrier form of metric 316 (not typed)." alt="" coords="614,2049,846,2080"/>
+<area shape="poly" id="edge51_Node000001_Node000052" title=" " alt="" coords="409,1246,425,1413,438,1528,456,1651,478,1774,506,1885,540,1976,559,2010,580,2036,596,2048,616,2059,610,2059,593,2053,576,2040,555,2013,535,1978,501,1887,473,1775,450,1652,433,1529,420,1414,408,1252"/>
+<area shape="rect" id="Node000053" href="$classmfem_1_1TMOP__Metric__360.html" title="3D non&#45;barrier Shape (S) metric." alt="" coords="614,2104,846,2135"/>
+<area shape="poly" id="edge52_Node000001_Node000053" title=" " alt="" coords="409,1246,423,1423,435,1545,452,1677,474,1809,503,1928,519,1981,538,2026,558,2063,580,2091,596,2103,616,2114,611,2114,593,2108,576,2095,554,2066,533,2028,514,1983,498,1930,469,1810,447,1678,430,1546,418,1423,408,1251"/>
+<area shape="rect" id="Node000054" href="$classmfem_1_1TMOP__Metric__aspratio2D.html" title="2D non&#45;barrier Aspect ratio metric." alt="" coords="585,2159,874,2189"/>
+<area shape="poly" id="edge53_Node000001_Node000054" title=" " alt="" coords="408,1246,421,1432,432,1563,449,1704,471,1844,499,1972,517,2028,536,2076,557,2116,580,2145,594,2158,589,2158,576,2149,552,2119,531,2078,512,2029,494,1973,465,1845,443,1704,427,1563,416,1433,407,1251"/>
+<area shape="rect" id="Node000055" href="$classmfem_1_1TMOP__Metric__aspratio3D.html" title="3D non&#45;barrier Aspect ratio metric." alt="" coords="585,2213,874,2244"/>
+<area shape="poly" id="edge54_Node000001_Node000055" title=" " alt="" coords="408,1246,419,1442,430,1580,445,1730,467,1879,496,2015,514,2075,534,2126,556,2169,580,2200,594,2213,589,2213,576,2204,551,2172,529,2128,509,2076,491,2017,462,1880,440,1731,424,1581,414,1443,407,1252"/>
+<area shape="rect" id="Node000056" href="$classmfem_1_1TMOP__Metric__skew2D.html" title=" " alt="" coords="596,2268,863,2299"/>
+<area shape="poly" id="edge55_Node000001_Node000056" title=" " alt="" coords="408,1247,417,1452,427,1598,442,1756,463,1914,493,2059,511,2122,531,2176,554,2221,580,2255,599,2271,593,2270,576,2259,550,2224,526,2179,506,2123,488,2060,458,1915,436,1757,421,1598,412,1452,407,1252"/>
+<area shape="rect" id="Node000057" href="$classmfem_1_1TMOP__Metric__skew3D.html" title="3D non&#45;barrier Skew metric." alt="" coords="596,2323,863,2353"/>
+<area shape="poly" id="edge56_Node000001_Node000057" title=" " alt="" coords="407,1246,415,1461,424,1615,438,1782,460,1949,489,2101,508,2168,529,2226,553,2274,580,2309,599,2326,593,2325,576,2313,549,2277,524,2228,503,2170,484,2103,454,1949,433,1782,419,1615,410,1461,406,1251"/>
+<area shape="rect" id="Node000058" href="$classmfem_1_1TMOP__WorstCaseUntangleOptimizer__Metric.html" title=" " alt="" coords="578,2378,881,2429"/>
+<area shape="poly" id="edge57_Node000001_Node000058" title=" " alt="" coords="407,1247,415,1470,423,1630,438,1806,459,1981,489,2142,507,2213,529,2275,553,2326,580,2364,594,2379,589,2377,576,2368,548,2329,524,2277,502,2215,484,2144,454,1982,432,1806,418,1631,410,1470,406,1252"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1HyperelasticModel.html" title="Abstract class for hyperelastic models." alt="" coords="5,1203,233,1233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,1216,282,1216,278,1220,250,1220"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1TMOP__AMetric__049.html" title=" " alt="" coords="929,44,1174,75"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="874,324,879,319,899,290,907,262,906,233,902,203,898,173,898,143,906,114,927,84,944,73,941,77,931,88,911,116,903,144,903,173,907,202,912,232,912,262,904,293,883,322,879,327"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1TMOP__AMetric__126.html" title="2D barrier Shape+Size (VS) metric (polyconvex)." alt="" coords="929,99,1174,129"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="874,324,879,319,895,297,903,276,904,253,902,230,901,207,902,184,910,161,927,139,945,128,942,132,931,143,915,164,907,185,906,207,908,230,909,253,908,277,900,300,883,322,879,327"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1TMOP__Metric__066.html" title=" " alt="" coords="935,153,1168,184"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="874,323,879,319,892,304,899,289,902,257,906,225,914,209,928,193,947,182,944,187,931,197,918,212,912,226,908,258,904,291,897,307,883,323,878,327"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1TMOP__Metric__080.html" title=" " alt="" coords="935,208,1168,239"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="871,325,880,319,895,302,903,284,911,265,928,248,951,237,948,241,931,252,915,268,908,286,900,305,883,323,875,328"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1TMOP__Metric__090.html" title="2D compound barrier Shape+Size (VS) metric (balanced)." alt="" coords="935,263,1168,293"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="848,328,881,318,929,302,975,292,970,296,930,307,882,323,852,332"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1TMOP__Metric__094.html" title="2D compound barrier Shape+Size (VS) metric (balanced)." alt="" coords="935,317,1168,348"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="878,345,937,341,933,344,881,349"/>
+<area shape="rect" id="Node000016" href="$classmfem_1_1TMOP__Metric__328.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex, balanced)." alt="" coords="935,372,1168,403"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="878,370,937,376,933,379,880,375"/>
+<area shape="rect" id="Node000017" href="$classmfem_1_1TMOP__Metric__332.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex)." alt="" coords="935,427,1168,457"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="855,387,882,394,930,411,977,425,973,427,929,417,881,399,857,392"/>
+<area shape="rect" id="Node000018" href="$classmfem_1_1TMOP__Metric__333.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="935,481,1168,512"/>
+<area shape="poly" id="edge17_Node000009_Node000018" title=" " alt="" coords="874,390,883,395,900,413,908,432,915,450,931,467,954,480,949,482,928,471,911,453,903,434,895,416,880,399,876,395"/>
+<area shape="rect" id="Node000019" href="$classmfem_1_1TMOP__Metric__334.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="935,536,1168,567"/>
+<area shape="poly" id="edge18_Node000009_Node000019" title=" " alt="" coords="876,390,883,395,897,411,904,427,908,460,912,492,918,507,931,521,950,535,945,536,928,525,914,510,906,493,903,460,899,428,892,413,879,399,877,395"/>
+<area shape="rect" id="Node000020" href="$classmfem_1_1TMOP__Metric__338.html" title="3D compound barrier Shape+Size (VS) metric (polyconvex, balanced)." alt="" coords="935,591,1168,621"/>
+<area shape="poly" id="edge19_Node000009_Node000020" title=" " alt="" coords="876,389,883,395,900,418,908,441,910,464,908,488,906,511,908,533,915,555,931,576,948,590,943,591,927,580,910,557,902,534,901,511,903,487,904,464,903,442,896,420,879,398,877,395"/>
+<area shape="rect" id="Node000021" href="$classmfem_1_1TMOP__Metric__347.html" title="3D barrier Shape+Size (VS) metric, well&#45;posed (polyconvex)." alt="" coords="935,645,1168,676"/>
+<area shape="poly" id="edge20_Node000009_Node000021" title=" " alt="" coords="876,389,883,395,904,425,912,455,912,485,908,515,904,545,903,574,911,603,931,631,948,644,942,645,927,635,906,605,898,575,898,544,902,515,907,485,907,456,899,427,879,398,877,394"/>
+</map>

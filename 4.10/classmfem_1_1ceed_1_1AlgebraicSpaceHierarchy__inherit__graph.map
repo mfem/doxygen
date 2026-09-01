@@ -1,0 +1,5 @@
+<map id="mfem::ceed::AlgebraicSpaceHierarchy" name="mfem::ceed::AlgebraicSpaceHierarchy">
+<area shape="rect" id="Node000001" title="Hierarchy of AlgebraicCoarseSpace objects for use in Multigrid object." alt="" coords="5,104,259,155"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementSpaceHierarchy.html" title=" " alt="" coords="12,5,252,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,69,134,105,130,102,130,73"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="mfem::H1Ser_QuadrilateralElement" name="mfem::H1Ser_QuadrilateralElement">
+<area shape="rect" id="Node000001" title="Arbitrary order H1 serendipity elements in 2D on a quad." alt="" coords="118,679,362,729"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ScalarFiniteElement.html" title="Class for finite elements with basis functions that return scalar values." alt="" coords="120,580,360,611"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,624,242,679,237,677,238,629"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1FiniteElement.html" title="Abstract class for all finite elements." alt="" coords="145,421,334,452"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,465,242,580,237,579,239,470"/>
+<area shape="rect" id="Node000013" href="$classmfem_1_1DofToQuad.html" title="Structure representing the matrices/tensors needed to evaluate (in reference space) the values,..." alt="" coords="391,580,561,611"/>
+<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="267,460,325,506,395,554,442,579,437,580,392,558,322,510,267,465"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1IntegrationRule.html" title="Class for an integration rule &#45; an Array of IntegrationPoint." alt="" coords="314,323,515,353"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,363,268,423,264,419,376,359"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="423,366,475,580,470,579,420,371"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Array.html" title=" " alt="" coords="303,223,526,273"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,286,417,323,412,321,414,291"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Memory.html" title=" " alt="" coords="293,104,539,155"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="416,168,417,223,412,221,415,173"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1IntegrationPoint.html" title="Class for integration point with weight." alt="" coords="314,5,518,36"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="417,49,418,104,413,103,415,54"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1DenseMatrix.html" title="Data type dense matrix using column&#45;major storage." alt="" coords="110,323,290,353"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="212,365,237,421,231,421,212,371"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1Matrix.html" title="Abstract data type matrix." alt="" coords="133,233,261,263"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="199,276,202,323,197,322,198,282"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="118,114,268,145"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="195,157,199,233,194,232,194,163"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1Array.html" title=" " alt="" coords="5,797,200,848"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="92,782,86,739,85,687,90,632,105,579,129,538,160,502,221,450,218,455,164,505,134,541,110,581,95,633,90,687,92,739,97,783"/>
+<area shape="rect" id="Node000012" href="$classmfem_1_1Memory.html" title=" " alt="" coords="385,679,593,729"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="393,737,185,799,184,794,392,732"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="481,624,488,679,484,677,478,628"/>
+<area shape="rect" id="Node000014" href="$classmfem_1_1Array.html" title=" " alt="" coords="539,421,738,452"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="615,462,492,582,489,578,610,464"/>
+<area shape="rect" id="Node000015" href="$classmfem_1_1Memory.html" title=" " alt="" coords="539,323,762,353"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="648,367,643,423,638,420,645,371"/>
+</map>

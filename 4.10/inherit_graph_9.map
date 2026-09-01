@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,54,156,85"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1Ginkgo_1_1ConvergenceLogger.html" title=" " alt="" coords="213,8,466,59"/>
+<area shape="poly" id="edge15_Node000000_Node000001" title=" " alt="" coords="170,54,215,50,210,52,172,59"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Ginkgo_1_1ResidualLogger.html" title=" " alt="" coords="204,86,476,117"/>
+<area shape="poly" id="edge17_Node000000_Node000003" title=" " alt="" coords="171,78,213,85,208,86,171,83"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Ginkgo_1_1EnableConvergenceLogger.html" title=" " alt="" coords="524,5,833,56"/>
+<area shape="poly" id="edge16_Node000001_Node000002" title=" " alt="" coords="482,30,526,32,521,32,482,35"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Ginkgo_1_1EnableResidualLogger.html" title=" " alt="" coords="542,80,815,131"/>
+<area shape="poly" id="edge18_Node000003_Node000004" title=" " alt="" coords="491,100,545,104,540,104,491,106"/>
+</map>

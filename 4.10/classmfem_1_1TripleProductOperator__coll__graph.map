@@ -1,0 +1,5 @@
+<map id="mfem::TripleProductOperator" name="mfem::TripleProductOperator">
+<area shape="rect" id="Node000001" title="General triple product operator x &#45;&gt; A*B*C*x, with ownership of the factors." alt="" coords="5,84,263,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="59,5,209,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,50,136,85,132,82,132,54"/>
+</map>

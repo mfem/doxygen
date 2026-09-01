@@ -1,0 +1,5 @@
+<map id="mfem::VectorExtrudeCoefficient" name="mfem::VectorExtrudeCoefficient">
+<area shape="rect" id="Node000001" title="Class used for extruding a vector coefficient." alt="" coords="5,84,283,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1VectorCoefficient.html" title="Base class for vector Coefficients that optionally depend on time and space." alt="" coords="36,5,252,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,50,146,85,142,82,142,54"/>
+</map>

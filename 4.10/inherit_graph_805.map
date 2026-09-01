@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structmfem_1_1VarMessage.html" title="Variable&#45;length MPI message containing unspecific binary data." alt="" coords="5,322,247,353"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="332,5,597,96"/>
+<area shape="poly" id="edge1000_Node000000_Node000001" title=" " alt="" coords="139,307,163,263,197,209,241,154,293,106,333,85,329,88,296,110,245,157,201,212,167,265,144,309"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="295,120,634,211"/>
+<area shape="poly" id="edge1002_Node000000_Node000003" title=" " alt="" coords="156,311,218,265,293,220,322,209,318,213,296,225,221,270,160,314"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="332,235,597,325"/>
+<area shape="poly" id="edge1004_Node000000_Node000005" title=" " alt="" coords="235,316,333,301,329,304,237,321"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="300,349,628,440"/>
+<area shape="poly" id="edge1006_Node000000_Node000007" title=" " alt="" coords="235,353,302,366,298,368,236,358"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="315,464,614,555"/>
+<area shape="poly" id="edge1008_Node000000_Node000009" title=" " alt="" coords="158,360,221,405,296,450,322,463,317,464,293,454,218,409,158,365"/>
+<area shape="rect" id="Node000011" href="$classmfem_1_1ParNCMesh_1_1ElementValueMessage.html" title=" " alt="" coords="337,579,592,650"/>
+<area shape="poly" id="edge1010_Node000000_Node000011" title=" " alt="" coords="141,364,166,410,200,463,244,518,269,543,296,564,339,589,334,589,293,569,265,547,240,522,196,467,162,412,140,369"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ParNCMesh_1_1NeighborDerefinementMessage.html" title=" " alt="" coords="688,25,949,76"/>
+<area shape="poly" id="edge1001_Node000001_Node000002" title=" " alt="" coords="612,48,691,50,686,52,614,53"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ParNCMesh_1_1NeighborElementRankMessage.html" title=" " alt="" coords="688,140,949,191"/>
+<area shape="poly" id="edge1003_Node000003_Node000004" title=" " alt="" coords="649,163,691,164,686,166,650,168"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1ParNCMesh_1_1NeighborPRefinementMessage.html" title=" " alt="" coords="688,255,949,305"/>
+<area shape="poly" id="edge1005_Node000005_Node000006" title=" " alt="" coords="612,277,691,279,686,281,613,283"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1ParNCMesh_1_1NeighborRefinementMessage.html" title=" " alt="" coords="688,369,949,420"/>
+<area shape="poly" id="edge1007_Node000007_Node000008" title=" " alt="" coords="644,392,691,394,685,395,645,397"/>
+<area shape="rect" id="Node000010" href="$classmfem_1_1ParNCMesh_1_1RebalanceMessage.html" title=" " alt="" coords="682,484,955,535"/>
+<area shape="poly" id="edge1009_Node000009_Node000010" title=" " alt="" coords="628,507,684,509,679,510,629,512"/>
+</map>

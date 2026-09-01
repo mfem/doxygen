@@ -1,0 +1,12 @@
+<map id="mfem::ComplexHypreParMatrix" name="mfem::ComplexHypreParMatrix">
+<area shape="rect" id="Node000001" title="Specialization of the ComplexOperator built from a pair of HypreParMatrices." alt="" coords="5,383,282,413"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ComplexOperator.html" title="Mimic the action of a complex operator using two real operators." alt="" coords="32,303,255,333"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,347,146,383,141,381,142,351"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="24,104,175,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,148,105,210,111,245,121,278,134,302,129,302,116,280,106,246,100,211,98,153"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="111,147,117,158,135,239,144,302,139,302,129,240,112,159,111,152"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="200,104,330,135"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="268,148,269,180,265,214,254,249,236,280,221,294,203,304,201,300,218,290,232,277,250,247,259,213,264,179,266,153"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Memory.html" title=" " alt="" coords="154,5,376,36"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="266,49,267,105,262,103,264,54"/>
+</map>

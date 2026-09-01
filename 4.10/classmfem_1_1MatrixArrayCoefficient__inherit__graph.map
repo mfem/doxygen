@@ -1,0 +1,5 @@
+<map id="mfem::MatrixArrayCoefficient" name="mfem::MatrixArrayCoefficient">
+<area shape="rect" id="Node000001" title="Matrix coefficient defined by a matrix of scalar coefficients. Coefficients that are not set will eva..." alt="" coords="5,84,262,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1MatrixCoefficient.html" title=" " alt="" coords="27,5,240,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,50,136,85,131,82,132,54"/>
+</map>

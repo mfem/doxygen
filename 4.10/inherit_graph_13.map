@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1AbstractErrorEstimator.html" title="Base class for all error estimators." alt="" coords="5,169,267,200"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1ErrorEstimator.html" title="Base class for all element based error estimators." alt="" coords="315,169,510,200"/>
+<area shape="poly" id="edge21_Node000000_Node000001" title=" " alt="" coords="282,182,317,184,312,185,283,187"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1AnisotropicErrorEstimator.html" title="The AnisotropicErrorEstimator class is the base class for all error estimators that compute one non&#45;n..." alt="" coords="566,32,851,63"/>
+<area shape="poly" id="edge22_Node000001_Node000002" title=" " alt="" coords="438,156,490,112,522,90,557,72,590,62,586,64,559,76,525,94,493,116,441,161"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1KellyErrorEstimator.html" title="The KellyErrorEstimator class provides a fast error indication strategy for smooth scalar parallel pr..." alt="" coords="592,87,826,117"/>
+<area shape="poly" id="edge25_Node000001_Node000005" title=" " alt="" coords="462,160,557,126,606,117,601,119,559,131,464,165"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1L2ZienkiewiczZhuEstimator.html" title="The L2ZienkiewiczZhuEstimator class implements the Zienkiewicz&#45;Zhu error estimation procedure where t..." alt="" coords="559,141,858,172"/>
+<area shape="poly" id="edge26_Node000001_Node000006" title=" " alt="" coords="525,171,561,170,556,171,526,177"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1LSZienkiewiczZhuEstimator.html" title="The LSZienkiewiczZhuEstimator class implements the Zienkiewicz&#45;Zhu error estimation procedure [1,..." alt="" coords="558,196,859,227"/>
+<area shape="poly" id="edge27_Node000001_Node000007" title=" " alt="" coords="525,192,560,197,555,198,526,197"/>
+<area shape="rect" id="Node000008" href="$classmfem_1_1LpErrorEstimator.html" title="The LpErrorEstimator class compares the solution to a known coefficient." alt="" coords="601,251,816,281"/>
+<area shape="poly" id="edge28_Node000001_Node000008" title=" " alt="" coords="465,203,559,235,612,250,607,250,557,241,465,209"/>
+<area shape="rect" id="Node000009" href="$classmfem_1_1TMOPDeRefinerEstimator.html" title=" " alt="" coords="564,305,854,336"/>
+<area shape="poly" id="edge29_Node000001_Node000009" title=" " alt="" coords="441,208,494,251,526,273,559,290,595,305,590,304,557,295,523,277,491,256,439,213"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1TMOPRefinerEstimator.html" title=" " alt="" coords="913,5,1181,36"/>
+<area shape="poly" id="edge23_Node000002_Node000003" title=" " alt="" coords="866,32,916,31,910,32,867,38"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ZienkiewiczZhuEstimator.html" title="The ZienkiewiczZhuEstimator class implements the Zienkiewicz&#45;Zhu error estimation procedure." alt="" coords="907,60,1187,91"/>
+<area shape="poly" id="edge24_Node000002_Node000004" title=" " alt="" coords="866,58,910,63,904,64,867,63"/>
+</map>

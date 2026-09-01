@@ -1,0 +1,5 @@
+<map id="mfem::ConstantCoefficient" name="mfem::ConstantCoefficient">
+<area shape="rect" id="Node000001" title="A coefficient that is constant across space and time." alt="" coords="5,84,241,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="41,5,205,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,50,125,85,121,82,121,54"/>
+</map>

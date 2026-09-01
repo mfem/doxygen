@@ -1,0 +1,9 @@
+<map id="mfem::ceed::MFDiffusionIntegrator" name="mfem::ceed::MFDiffusionIntegrator">
+<area shape="rect" id="Node000001" title="Represent a DiffusionIntegrator with AssemblyLevel::None using libCEED." alt="" coords="5,241,307,272"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1ceed_1_1MFIntegrator.html" title=" " alt="" coords="40,163,272,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,207,158,242,154,239,154,211"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ceed_1_1Operator.html" title=" " alt="" coords="56,84,256,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,128,158,163,154,161,155,133"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="81,5,231,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,49,159,84,153,83,155,54"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="mfem::ofgzstream" name="mfem::ofgzstream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,693,302,724"/>
+<area shape="rect" id="Node000002" href="$structzstr_1_1detail_1_1strict__fstream__holder.html" title=" " alt="" coords="45,573,251,644"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,655,210,693,204,692,180,659"/>
+<area shape="rect" id="Node000003" href="$classstrict__fstream_1_1ofstream.html" title=" " alt="" coords="40,475,251,505"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,518,150,574,145,572,145,523"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,395,206,425"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,439,147,475,142,474,143,444"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="43,265,221,316"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="136,328,144,394,139,394,135,334"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,165,179,216"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="108,228,125,264,119,265,108,233"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="89,85,290,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="161,129,121,166,117,164,163,124"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="203,165,376,216"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="217,124,264,164,259,166,218,129"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="126,5,253,36"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="190,49,192,85,187,85,189,55"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="227,340,349,371"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="289,384,291,449,291,610,285,636,272,660,238,695,236,691,268,656,280,634,285,610,285,449,287,388"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="290,229,291,340,286,339,288,234"/>
+</map>

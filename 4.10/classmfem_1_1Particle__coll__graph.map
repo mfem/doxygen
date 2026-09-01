@@ -1,0 +1,16 @@
+<map id="mfem::Particle" name="mfem::Particle">
+<area shape="rect" id="Node000001" title="Container for data associated with a single particle." alt="" coords="149,321,287,352"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="51,104,182,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,149,74,171,59,198,53,226,54,239,60,252,79,275,103,293,130,308,158,321,153,321,127,313,100,298,75,279,55,255,49,240,47,225,54,196,70,168,92,144"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="129,203,306,253"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="141,143,197,201,192,203,140,148"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Memory.html" title=" " alt="" coords="5,5,228,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,49,119,104,114,104,116,54"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,267,220,322,215,320,216,271"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="330,203,508,253"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="362,261,247,323,245,318,356,261"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Array.html" title=" " alt="" coords="333,104,505,135"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="421,148,421,203,417,201,418,152"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="321,5,517,36"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="421,49,422,105,417,103,418,54"/>
+</map>

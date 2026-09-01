@@ -1,0 +1,14 @@
+<map id="mfem::SIA1Solver" name="mfem::SIA1Solver">
+<area shape="rect" id="Node000001" title="First Order Symplectic Integration Algorithm." alt="" coords="131,303,299,333"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1SIASolver.html" title=" " alt="" coords="136,223,294,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,267,217,304,213,301,213,271"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1TimeDependentOperator.html" title="Base abstract class for first order time dependent operators." alt="" coords="76,104,355,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,148,218,223,213,221,213,152"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,5,156,36"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="56,51,46,69,36,91,33,113,39,133,63,164,94,188,129,206,164,221,159,223,126,211,91,192,59,168,34,136,27,113,31,89,42,66,58,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,43,197,102,193,105,113,48"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="379,104,510,135"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="405,141,245,224,243,220,400,143"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Memory.html" title=" " alt="" coords="333,5,556,36"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="446,50,447,105,442,103,443,54"/>
+</map>

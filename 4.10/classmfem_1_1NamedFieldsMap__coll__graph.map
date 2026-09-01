@@ -1,0 +1,11 @@
+<map id="mfem::NamedFieldsMap&lt; T &gt;" name="mfem::NamedFieldsMap&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Lightweight adaptor over an std::map from strings to pointer to T." alt="" coords="5,323,270,353"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,204,233,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,269,140,323,135,321,135,272"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,105,140,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,148,115,179,127,203,121,203,110,181,101,153"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="10,5,172,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,69,93,105,88,104,90,74"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,105,203,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="173,148,151,205,146,202,170,152"/>
+</map>

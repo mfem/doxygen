@@ -1,0 +1,17 @@
+<map id="mfem::ComplexUMFPackSolver" name="mfem::ComplexUMFPackSolver">
+<area shape="rect" id="Node000001" title="Interface with UMFPack solver specialized for ComplexSparseMatrix This approach avoids forming a mono..." alt="" coords="5,511,287,541"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="69,357,199,388"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,402,147,511,142,510,134,405"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="131,104,281,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,149,141,358,136,356,195,151"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1ComplexOperator.html" title="Mimic the action of a complex operator using two real operators." alt="" coords="178,303,400,333"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="203,148,206,212,213,246,227,277,238,290,254,302,249,303,235,294,222,280,208,248,200,213,201,153"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="218,147,223,158,231,192,235,220,240,246,253,277,273,302,268,302,249,280,235,248,229,221,226,193,218,159,217,152"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ComplexSparseMatrix.html" title="Specialization of the ComplexOperator built from a pair of Sparse Matrices." alt="" coords="163,412,420,443"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,451,169,513,167,508,254,452"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,346,293,413,289,410,288,351"/>
+<area shape="rect" id="Node000006" href="$classmfem_1_1Vector.html" title="Vector data type." alt="" coords="306,104,436,135"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="374,148,369,213,360,248,344,280,333,294,319,304,316,300,329,290,340,277,355,246,364,212,371,152"/>
+<area shape="rect" id="Node000007" href="$classmfem_1_1Memory.html" title=" " alt="" coords="260,5,482,36"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="372,49,374,105,369,103,370,54"/>
+</map>

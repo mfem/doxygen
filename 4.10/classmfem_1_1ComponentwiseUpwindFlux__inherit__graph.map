@@ -1,0 +1,5 @@
+<map id="mfem::ComponentwiseUpwindFlux" name="mfem::ComponentwiseUpwindFlux">
+<area shape="rect" id="Node000001" title="Component&#45;wise upwinded flux." alt="" coords="5,84,308,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1NumericalFlux.html" title="Abstract class for numerical flux for a system of hyperbolic conservation laws on a face with states,..." alt="" coords="59,5,254,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,50,159,85,154,82,155,54"/>
+</map>

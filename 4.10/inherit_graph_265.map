@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classmfem_1_1FluxFunction.html" title="Abstract class for hyperbolic flux for a system of hyperbolic conservation laws." alt="" coords="5,88,187,119"/>
+<area shape="rect" id="Node000001" href="$classmfem_1_1AdvectionFlux.html" title="Advection flux." alt="" coords="251,5,442,36"/>
+<area shape="poly" id="edge340_Node000000_Node000001" title=" " alt="" coords="145,79,234,45,275,35,270,38,236,50,148,84"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1BurgersFlux.html" title="Burgers flux." alt="" coords="259,60,434,91"/>
+<area shape="poly" id="edge341_Node000000_Node000002" title=" " alt="" coords="201,89,261,84,256,86,203,94"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1EulerFlux.html" title="Euler flux." alt="" coords="269,115,424,145"/>
+<area shape="poly" id="edge342_Node000000_Node000003" title=" " alt="" coords="202,112,271,121,266,122,202,117"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1ShallowWaterFlux.html" title="Shallow water flux." alt="" coords="235,169,458,200"/>
+<area shape="poly" id="edge343_Node000000_Node000004" title=" " alt="" coords="149,122,235,154,280,169,274,169,234,159,148,128"/>
+</map>

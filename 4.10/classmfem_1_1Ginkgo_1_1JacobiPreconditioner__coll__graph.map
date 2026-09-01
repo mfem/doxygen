@@ -1,0 +1,17 @@
+<map id="mfem::Ginkgo::JacobiPreconditioner" name="mfem::Ginkgo::JacobiPreconditioner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="970,145,1284,176"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Ginkgo_1_1GinkgoPreconditioner.html" title=" " alt="" coords="600,145,921,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="936,158,972,160,967,161,936,163"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="234,5,363,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,31,474,50,577,78,661,110,731,145,726,145,658,115,576,83,473,55,378,36"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="5,5,156,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,18,235,19,231,22,172,23"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="205,61,391,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,101,663,143,659,146,407,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="205,135,391,186"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="407,158,602,160,597,162,407,163"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="205,210,391,261"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="406,215,663,176,658,178,407,220"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="205,285,391,356"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="405,291,489,267,575,238,657,205,724,177,729,176,659,210,577,243,491,272,406,296"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mfem::blocksolvers::DFSParameters" name="mfem::blocksolvers::DFSParameters">
+<area shape="rect" id="Node000001" title="Parameters for the divergence free solver." alt="" coords="15,104,192,155"/>
+<area shape="rect" id="Node000002" href="$structmfem_1_1blocksolvers_1_1IterSolveParameters.html" title=" " alt="" coords="5,5,202,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,69,106,104,101,103,102,73"/>
+</map>

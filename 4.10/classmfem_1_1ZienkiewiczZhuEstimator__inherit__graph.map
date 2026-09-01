@@ -1,0 +1,9 @@
+<map id="mfem::ZienkiewiczZhuEstimator" name="mfem::ZienkiewiczZhuEstimator">
+<area shape="rect" id="Node000001" title="The ZienkiewiczZhuEstimator class implements the Zienkiewicz&#45;Zhu error estimation procedure." alt="" coords="8,241,287,272"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1AnisotropicErrorEstimator.html" title="The AnisotropicErrorEstimator class is the base class for all error estimators that compute one non&#45;n..." alt="" coords="5,163,290,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,207,150,242,145,239,146,211"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1ErrorEstimator.html" title="Base class for all element based error estimators." alt="" coords="50,84,245,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,128,150,163,145,161,146,133"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1AbstractErrorEstimator.html" title="Base class for all error estimators." alt="" coords="17,5,278,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,49,150,84,145,83,147,54"/>
+</map>

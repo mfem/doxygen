@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['scalar_5ftype_0',['scalar_type',['../structmfem_1_1AutoSIMD.html#a819e0914406f6406ec1298b781260b28',1,'mfem::AutoSIMD::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_012_00_0116_01_4.html#a68317f5cd72b30a0f3ff388c404f5990',1,'mfem::AutoSIMD&lt; double, 2, 16 &gt;::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_014_00_0132_01_4.html#a617beaa1d0036b571b2d28a2f14006dd',1,'mfem::AutoSIMD&lt; double, 4, 32 &gt;::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_018_00_0164_01_4.html#a647989e703090b29321c629493e6c21b',1,'mfem::AutoSIMD&lt; double, 8, 64 &gt;::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_014_00_0132_01_4.html#a617beaa1d0036b571b2d28a2f14006dd',1,'mfem::AutoSIMD&lt; double, 4, 32 &gt;::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_018_00_0164_01_4.html#a647989e703090b29321c629493e6c21b',1,'mfem::AutoSIMD&lt; double, 8, 64 &gt;::scalar_type'],['../structmfem_1_1AutoSIMD_3_01double_00_012_00_0116_01_4.html#a68317f5cd72b30a0f3ff388c404f5990',1,'mfem::AutoSIMD&lt; double, 2, 16 &gt;::scalar_type']]],
+  ['scalarfunct_1',['ScalarFuncT',['../namespacemfem_1_1navier.html#a15ea2f73039ec19696df7e61ea276406',1,'mfem::navier']]],
+  ['scaledtype_2',['ScaledType',['../structmfem_1_1Refinement.html#a10e6afbcfa37678a68d7ddac3a68d085',1,'mfem::Refinement']]],
+  ['seg_5ft_3',['seg_t',['../classmfem_1_1Mesh.html#a53c7787f16f6841e738cca633696e26a',1,'mfem::Mesh']]],
+  ['shapeeval_4',['ShapeEval',['../classmfem_1_1TElementTransformation.html#ae1557d0dae0d27b47049665de42709ec',1,'mfem::TElementTransformation']]],
+  ['shapeeval_5ftype_5',['ShapeEval_type',['../classmfem_1_1TGridFunctionCoefficient.html#a5c5bb02a49ed2fee1c84b8782696fef8',1,'mfem::TGridFunctionCoefficient::ShapeEval_type'],['../classmfem_1_1FieldEvaluator__base.html#ae03e38dd1ad501b82502af93dba7c626',1,'mfem::FieldEvaluator_base::ShapeEval_type'],['../classmfem_1_1FieldEvaluator.html#ae612e46044f1bed041e5f4a6bf834502',1,'mfem::FieldEvaluator::ShapeEval_type']]],
+  ['sizetype_6',['SizeType',['../classmfem_1_1MemoryView.html#a18a733b5cb1efe921f74507dc759ce31',1,'mfem::MemoryView']]],
+  ['snes_7',['SNES',['../namespacemfem_1_1petsc.html#a146685ed8bff803549ba6dbdc8e50b3a',1,'mfem::petsc']]],
+  ['socklen_5ft_8',['socklen_t',['../isockstream_8cpp.html#a6b82106923cc13b3a9734520ecc29514',1,'socklen_t:&#160;isockstream.cpp'],['../socketstream_8cpp.html#a6b82106923cc13b3a9734520ecc29514',1,'socklen_t:&#160;socketstream.cpp']]],
+  ['solfe_5ftype_9',['solFE_type',['../classmfem_1_1TBilinearForm.html#a26d20cce946892209910c804836e5708',1,'mfem::TBilinearForm']]],
+  ['solfieldeval_10',['solFieldEval',['../classmfem_1_1TBilinearForm.html#a9ee72d1f2d0347e74c95aab7a08f34fd',1,'mfem::TBilinearForm']]],
+  ['solshapeeval_11',['solShapeEval',['../classmfem_1_1TBilinearForm.html#a1a23b3bf800822984ab5a9cb6c7a7795',1,'mfem::TBilinearForm']]],
+  ['solveclayout_5ftype_12',['solVecLayout_type',['../classmfem_1_1TBilinearForm.html#af169d40ebe4be6f1e6a4979a177ec4af',1,'mfem::TBilinearForm']]],
+  ['spec_13',['Spec',['../structmfem_1_1TBilinearForm_1_1S__spec.html#a785132cdaa3457f86fc737b7cd68b3db',1,'mfem::TBilinearForm::S_spec']]],
+  ['ssize_5ft_14',['ssize_t',['../isockstream_8cpp.html#af629ed855824cf5955b54529adf78ad6',1,'ssize_t:&#160;isockstream.cpp'],['../socketstream_8cpp.html#af629ed855824cf5955b54529adf78ad6',1,'ssize_t:&#160;socketstream.cpp']]],
+  ['struct_5fstat_15',['struct_stat',['../fem_2ceed_2interface_2util_8cpp.html#aea0567a40fc206a4a21d00362bdc0f8e',1,'util.cpp']]],
+  ['sunbooleantype_16',['sunbooleantype',['../sundials_8hpp.html#abe12ccca0237ea8f175e359154955961',1,'sundials.hpp']]],
+  ['suncontext_17',['SUNContext',['../sundials_8hpp.html#ae200cad4d259e1a1c85c9fe7df2bbb37',1,'sundials.hpp']]],
+  ['sunrealtype_18',['sunrealtype',['../sundials_8hpp.html#a3a69a5f559de8059b80fa546840f4cc7',1,'sundials.hpp']]]
+];

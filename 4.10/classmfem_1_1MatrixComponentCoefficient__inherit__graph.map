@@ -1,0 +1,5 @@
+<map id="mfem::MatrixComponentCoefficient" name="mfem::MatrixComponentCoefficient">
+<area shape="rect" id="Node000001" title="Scalar coefficient defined as component of a matrix coefficient." alt="" coords="5,84,313,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Coefficient.html" title="Base class Coefficients that optionally depend on space and time. These are used by the BilinearFormI..." alt="" coords="77,5,241,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,50,161,85,157,82,157,54"/>
+</map>

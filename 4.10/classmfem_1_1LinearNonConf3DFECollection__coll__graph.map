@@ -1,0 +1,10 @@
+<map id="mfem::LinearNonConf3DFECollection" name="mfem::LinearNonConf3DFECollection">
+<area shape="rect" id="Node000001" title="Piecewise&#45;linear nonconforming finite elements in 3D." alt="" coords="5,114,330,145"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1FiniteElementCollection.html" title="Collection of finite elements from the same family in multiple dimensions. This class is used to matc..." alt="" coords="344,5,612,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,44,211,116,209,111,423,39"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Memory.html" title=" " alt="" coords="354,104,603,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="480,50,480,105,476,102,477,54"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Array.html" title=" " alt="" coords="445,223,684,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="593,208,607,184,617,158,621,131,613,105,596,83,574,65,525,39,526,34,577,60,600,79,618,103,626,130,622,159,611,187,596,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,165,549,223,544,221,504,169"/>
+</map>

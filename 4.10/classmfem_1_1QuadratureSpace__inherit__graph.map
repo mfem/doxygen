@@ -1,0 +1,5 @@
+<map id="mfem::QuadratureSpace" name="mfem::QuadratureSpace">
+<area shape="rect" id="Node000001" title="Class representing the storage layout of a QuadratureFunction." alt="" coords="26,84,247,115"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1QuadratureSpaceBase.html" title="Abstract base class for QuadratureSpace and FaceQuadratureSpace." alt="" coords="5,5,268,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,50,139,85,134,82,135,54"/>
+</map>

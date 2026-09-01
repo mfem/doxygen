@@ -1,0 +1,11 @@
+<map id="mfem::Ginkgo::IRSolver" name="mfem::Ginkgo::IRSolver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,380,247,411"/>
+<area shape="rect" id="Node000002" href="$classmfem_1_1Ginkgo_1_1EnableGinkgoSolver.html" title=" " alt="" coords="9,261,270,332"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,346,142,381,137,378,138,350"/>
+<area shape="rect" id="Node000003" href="$classmfem_1_1Ginkgo_1_1GinkgoIterativeSolver.html" title=" " alt="" coords="5,163,274,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,227,142,262,137,260,138,231"/>
+<area shape="rect" id="Node000004" href="$classmfem_1_1Solver.html" title="Base class for solvers." alt="" coords="75,84,204,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,128,142,163,137,162,139,133"/>
+<area shape="rect" id="Node000005" href="$classmfem_1_1Operator.html" title="Abstract operator." alt="" coords="64,5,215,36"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,49,142,84,137,83,139,54"/>
+</map>
